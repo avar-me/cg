@@ -1,0 +1,86 @@
+{
+  "letter": "Y",
+  "entries": [
+    {
+      "english": "Yawn",
+      "english_full": "Yawn, v.",
+      "type": "verb",
+      "avar": "ḥaggazi",
+      "arabic": "هَگّازی",
+      "page": 23
+    },
+    {
+      "english": "Year",
+      "english_full": "Year",
+      "type": null,
+      "avar": "t̲l̲aíl",
+      "arabic": "تَجَیل",
+      "page": 23
+    },
+    {
+      "english": "Yellow",
+      "english_full": "Yellow",
+      "type": null,
+      "avar": "ubab, ṭolilau",
+      "arabic": "اُبَب، تُلیلَو",
+      "page": 23
+    },
+    {
+      "english": "Yes, on",
+      "english_full": "Yes, on",
+      "type": null,
+      "avar": "un",
+      "arabic": "اون، اون",
+      "page": 23
+    },
+    {
+      "english": "Yesterday",
+      "english_full": "Yesterday, s.",
+      "type": "substantive",
+      "avar": "son",
+      "arabic": "سُون، سُونچُل",
+      "page": 23
+    },
+    {
+      "english": "Yesterday",
+      "english_full": "Yesterday",
+      "type": null,
+      "avar": "of yesterday, sont̲l̲ul",
+      "arabic": "سُون، سُونچُل",
+      "page": 23
+    },
+    {
+      "english": "Yet, still",
+      "english_full": "Yet, still",
+      "type": null,
+      "avar": "tzogizi",
+      "arabic": "تزوگیزی",
+      "page": 23
+    },
+    {
+      "english": "You",
+      "english_full": "You",
+      "type": null,
+      "avar": "noj",
+      "arabic": "نُج",
+      "page": 23
+    },
+    {
+      "english": "Young",
+      "english_full": "Young",
+      "type": null,
+      "avar": "bahar",
+      "arabic": "بَهَر",
+      "page": 23
+    },
+    {
+      "english": "Yours",
+      "english_full": "Yours",
+      "type": null,
+      "avar": "nojor",
+      "arabic": "نُج اور",
+      "page": 23
+    }
+  ],
+  "count": 10
+}

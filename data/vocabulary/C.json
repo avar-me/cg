@@ -1,0 +1,734 @@
+{
+  "letter": "C",
+  "entries": [
+    {
+      "english": "Cage",
+      "english_full": "Cage",
+      "type": null,
+      "avar": "čif",
+      "arabic": "چیف",
+      "page": 3
+    },
+    {
+      "english": "Calf",
+      "english_full": "Calf",
+      "type": null,
+      "avar": "beči",
+      "arabic": "بِچی",
+      "page": 3
+    },
+    {
+      "english": "Call",
+      "english_full": "Call, v.",
+      "type": "verb",
+      "avar": "aḥizi",
+      "arabic": "احیزی",
+      "page": 3
+    },
+    {
+      "english": "Camel",
+      "english_full": "Camel",
+      "type": null,
+      "avar": "varani",
+      "arabic": "ورنی",
+      "page": 3
+    },
+    {
+      "english": "Camp",
+      "english_full": "Camp",
+      "type": null,
+      "avar": "čadral",
+      "arabic": "چدرل",
+      "page": 3
+    },
+    {
+      "english": "Campaign",
+      "english_full": "Campaign",
+      "type": null,
+      "avar": "bog khuvan",
+      "arabic": "بُگ خُوان",
+      "page": 3
+    },
+    {
+      "english": "Candle, Candlestick",
+      "english_full": "Candle, Candlestick",
+      "type": null,
+      "avar": "čirakh",
+      "arabic": "کندل، کندلستیک",
+      "page": 3
+    },
+    {
+      "english": "Cannon",
+      "english_full": "Cannon",
+      "type": null,
+      "avar": "árada",
+      "arabic": "ارَدا",
+      "page": 3
+    },
+    {
+      "english": "Care",
+      "english_full": "Care",
+      "type": null,
+      "avar": "urghel",
+      "arabic": "اورغِل",
+      "page": 3
+    },
+    {
+      "english": "Careful",
+      "english_full": "Careful",
+      "type": null,
+      "avar": "žadorav",
+      "arabic": "ژدورو",
+      "page": 4
+    },
+    {
+      "english": "Caress",
+      "english_full": "Caress, v.a.",
+      "type": "verb active",
+      "avar": "hunt̲l̲izi",
+      "arabic": "هونتجیزی",
+      "page": 4
+    },
+    {
+      "english": "Carpet",
+      "english_full": "Carpet",
+      "type": null,
+      "avar": "ṭanṣa, palaṣ",
+      "arabic": "تنسا، پالس",
+      "page": 4
+    },
+    {
+      "english": "Cart (eastern)",
+      "english_full": "Cart (eastern)",
+      "type": null,
+      "avar": "hoko",
+      "arabic": "هوکو",
+      "page": 4,
+      "note": "eastern"
+    },
+    {
+      "english": "Cartridge",
+      "english_full": "Cartridge",
+      "type": null,
+      "avar": "rortsin",
+      "arabic": "رورتسین",
+      "page": 4
+    },
+    {
+      "english": "Cartridge-hook",
+      "english_full": "Cartridge-hook",
+      "type": null,
+      "avar": "čurtu bakh",
+      "arabic": "چورتو بخ",
+      "page": 4
+    },
+    {
+      "english": "Cask",
+      "english_full": "Cask",
+      "type": null,
+      "avar": "čerma",
+      "arabic": "چرما",
+      "page": 4
+    },
+    {
+      "english": "Cat",
+      "english_full": "Cat",
+      "type": null,
+      "avar": "keto",
+      "arabic": "کتو",
+      "page": 4
+    },
+    {
+      "english": "Catch",
+      "english_full": "Catch, v.a.",
+      "type": "verb active",
+      "avar": "kuvizi",
+      "arabic": "کوویزی",
+      "page": 4
+    },
+    {
+      "english": "Cauldron",
+      "english_full": "Cauldron",
+      "type": null,
+      "avar": "gag",
+      "arabic": "گس",
+      "page": 4
+    },
+    {
+      "english": "Cave",
+      "english_full": "Cave",
+      "type": null,
+      "avar": "nokhkho",
+      "arabic": "نخخو",
+      "page": 4
+    },
+    {
+      "english": "Ceiling",
+      "english_full": "Ceiling",
+      "type": null,
+      "avar": "moghrot̲l̲",
+      "arabic": "موغروتی",
+      "page": 4
+    },
+    {
+      "english": "Cellar",
+      "english_full": "Cellar",
+      "type": null,
+      "avar": "ḳor",
+      "arabic": "کور",
+      "page": 4
+    },
+    {
+      "english": "Cemetery",
+      "english_full": "Cemetery",
+      "type": null,
+      "avar": "khobal",
+      "arabic": "خُبل",
+      "page": 4
+    },
+    {
+      "english": "Centre",
+      "english_full": "Centre",
+      "type": null,
+      "avar": "bat̲l̲ut̲l̲",
+      "arabic": "بتلُتی",
+      "page": 4
+    },
+    {
+      "english": "Chalk",
+      "english_full": "Chalk",
+      "type": null,
+      "avar": "kirač",
+      "arabic": "کیرچ",
+      "page": 4
+    },
+    {
+      "english": "Charcoal",
+      "english_full": "Charcoal",
+      "type": null,
+      "avar": "torsi",
+      "arabic": "تورسی",
+      "page": 4
+    },
+    {
+      "english": "Charge (of gun)",
+      "english_full": "Charge (of gun)",
+      "type": null,
+      "avar": "vide Cartridge, rortsin",
+      "arabic": "رورتسین",
+      "page": 4,
+      "note": "of gun"
+    },
+    {
+      "english": "Cheap",
+      "english_full": "Cheap",
+      "type": null,
+      "avar": "harzauyab, učuzau",
+      "arabic": "هارزو یه، اوچوزو",
+      "page": 4
+    },
+    {
+      "english": "Cheese",
+      "english_full": "Cheese",
+      "type": null,
+      "avar": "ḥan, nešu",
+      "arabic": "هن، نشو",
+      "page": 4
+    },
+    {
+      "english": "Cherry (small black)",
+      "english_full": "Cherry (small black)",
+      "type": null,
+      "avar": "árṣin pikh",
+      "arabic": "آرسین پخ",
+      "page": 4,
+      "note": "small black"
+    },
+    {
+      "english": "Cherry (red)",
+      "english_full": "Cherry (red)",
+      "type": null,
+      "avar": "jaga",
+      "arabic": "آر",
+      "page": 4,
+      "note": "red"
+    },
+    {
+      "english": "Chick",
+      "english_full": "Chick",
+      "type": null,
+      "avar": "tenč",
+      "arabic": "تنچ",
+      "page": 4
+    },
+    {
+      "english": "Chicken",
+      "english_full": "Chicken",
+      "type": null,
+      "avar": "čakhma",
+      "arabic": "چاخما",
+      "page": 4
+    },
+    {
+      "english": "Chief",
+      "english_full": "Chief, s.",
+      "type": "substantive",
+      "avar": "ṭadtarauči",
+      "arabic": "تدراوچی",
+      "page": 4
+    },
+    {
+      "english": "Child",
+      "english_full": "Child, s.",
+      "type": "substantive",
+      "avar": "t̲l̲imir",
+      "arabic": "تیل میر",
+      "page": 4
+    },
+    {
+      "english": "Child, with",
+      "english_full": "Child, with, adj.",
+      "type": "adjective",
+      "avar": "ḳinai",
+      "arabic": "کینای",
+      "page": 4
+    },
+    {
+      "english": "Chill",
+      "english_full": "Chill, s.",
+      "type": "substantive",
+      "avar": "kuvačai",
+      "arabic": "کواچای",
+      "page": 4
+    },
+    {
+      "english": "Choice, selection",
+      "english_full": "Choice, selection",
+      "type": null,
+      "avar": "ṭaṣṣa, bišši",
+      "arabic": "تسا، بیشی",
+      "page": 4
+    },
+    {
+      "english": "Choose",
+      "english_full": "Choose, v.a.",
+      "type": "verb active",
+      "avar": "bišizi",
+      "arabic": "بیشیزی",
+      "page": 4
+    },
+    {
+      "english": "Cinders",
+      "english_full": "Cinders",
+      "type": null,
+      "avar": "rakhkhu",
+      "arabic": "راخخو",
+      "page": 4
+    },
+    {
+      "english": "City",
+      "english_full": "City",
+      "type": null,
+      "avar": "goro, žir",
+      "arabic": "گور، ژیر",
+      "page": 4
+    },
+    {
+      "english": "Clay",
+      "english_full": "Clay",
+      "type": null,
+      "avar": "ḥaṭ",
+      "arabic": "هت",
+      "page": 4
+    },
+    {
+      "english": "Clean, pure",
+      "english_full": "Clean, pure",
+      "type": null,
+      "avar": "bažadau",
+      "arabic": "بژدن",
+      "page": 4
+    },
+    {
+      "english": "Clock, watch",
+      "english_full": "Clock, watch",
+      "type": null,
+      "avar": "ṣaát",
+      "arabic": "ساعَت",
+      "page": 4
+    },
+    {
+      "english": "Cloud",
+      "english_full": "Cloud, s.",
+      "type": "substantive",
+      "avar": "nagg",
+      "arabic": "نگ",
+      "page": 4
+    },
+    {
+      "english": "Clove",
+      "english_full": "Clove",
+      "type": null,
+      "avar": "mikhig",
+      "arabic": "میخگ",
+      "page": 4
+    },
+    {
+      "english": "Coach house",
+      "english_full": "Coach house",
+      "type": null,
+      "avar": "bot̲l̲",
+      "arabic": "بُتل",
+      "page": 4
+    },
+    {
+      "english": "Cock",
+      "english_full": "Cock",
+      "type": null,
+      "avar": "ḥiliko",
+      "arabic": "هلیکو",
+      "page": 4
+    },
+    {
+      "english": "Coffin",
+      "english_full": "Coffin",
+      "type": null,
+      "avar": "laḥdu",
+      "arabic": "لَحدو",
+      "page": 4
+    },
+    {
+      "english": "Cold",
+      "english_full": "Cold, s.",
+      "type": "substantive",
+      "avar": "roḥil",
+      "arabic": "رهیل",
+      "page": 4
+    },
+    {
+      "english": "Cold, in head",
+      "english_full": "Cold, s. in head",
+      "type": "substantive",
+      "avar": "maār čin",
+      "arabic": "گین",
+      "page": 4
+    },
+    {
+      "english": "Cold, to feel chilly",
+      "english_full": "Cold, v. to feel chilly",
+      "type": "verb",
+      "avar": "kvačazi",
+      "arabic": "کواچازی",
+      "page": 4
+    },
+    {
+      "english": "Comb",
+      "english_full": "Comb",
+      "type": null,
+      "avar": "port̲l̲o",
+      "arabic": "پورتلو",
+      "page": 4
+    },
+    {
+      "english": "Commencement",
+      "english_full": "Commencement",
+      "type": null,
+      "avar": "şebişa",
+      "arabic": "صبیگا",
+      "page": 4
+    },
+    {
+      "english": "Communicate",
+      "english_full": "Communicate",
+      "type": null,
+      "avar": "khaber habizi",
+      "arabic": "خبر هابزی",
+      "page": 4
+    },
+    {
+      "english": "Complaint (legal)",
+      "english_full": "Complaint (legal)",
+      "type": null,
+      "avar": "árḍ",
+      "arabic": "آرد",
+      "page": 4,
+      "note": "legal"
+    },
+    {
+      "english": "Comrade",
+      "english_full": "Comrade",
+      "type": null,
+      "avar": "hodol",
+      "arabic": "هُدل",
+      "page": 4
+    },
+    {
+      "english": "Concubine",
+      "english_full": "Concubine",
+      "type": null,
+      "avar": "yat̲l̲ina",
+      "arabic": "یتیلنا",
+      "page": 4
+    },
+    {
+      "english": "Condition",
+      "english_full": "Condition",
+      "type": null,
+      "avar": "ḳoti",
+      "arabic": "کُتی",
+      "page": 4
+    },
+    {
+      "english": "Conduit, pipe",
+      "english_full": "Conduit, pipe",
+      "type": null,
+      "avar": "roóro",
+      "arabic": "رُبر",
+      "page": 4
+    },
+    {
+      "english": "Conjecture, (to plan, tell fortunes)",
+      "english_full": "Conjecture, v. (to plan, tell fortunes)",
+      "type": "verb",
+      "avar": "yalṭamizi",
+      "arabic": "یلتامیزی",
+      "page": 4
+    },
+    {
+      "english": "Consult",
+      "english_full": "Consult, v.",
+      "type": "verb",
+      "avar": "maṣlaḥat habizi",
+      "arabic": "مشلحت هابزی هجز",
+      "page": 4
+    },
+    {
+      "english": "Contest, strife",
+      "english_full": "Contest, strife",
+      "type": null,
+      "avar": "ḳasan",
+      "arabic": "کسن",
+      "page": 5
+    },
+    {
+      "english": "Converse",
+      "english_full": "Converse, v.",
+      "type": "verb",
+      "avar": "bitṣarizi",
+      "arabic": "بیتسریزی",
+      "page": 5
+    },
+    {
+      "english": "Cook",
+      "english_full": "Cook, v.",
+      "type": "verb",
+      "avar": "bet̲l̲izi",
+      "arabic": "بیتلیزی",
+      "page": 5
+    },
+    {
+      "english": "Cook, man cook",
+      "english_full": "Cook, man cook",
+      "type": null,
+      "avar": "kvan habulviči",
+      "arabic": "کوان هَبولویچی",
+      "page": 5
+    },
+    {
+      "english": "Copper",
+      "english_full": "Copper",
+      "type": null,
+      "avar": "fag, paḥ",
+      "arabic": "فگ، پل",
+      "page": 5
+    },
+    {
+      "english": "Cord, Rope",
+      "english_full": "Cord, Rope",
+      "type": null,
+      "avar": "kvar",
+      "arabic": "کور",
+      "page": 5
+    },
+    {
+      "english": "Corn (Indian)",
+      "english_full": "Corn (Indian)",
+      "type": null,
+      "avar": "maize, žoro ṣarot̲l̲",
+      "arabic": "ژور، گرُتل",
+      "page": 5,
+      "note": "Indian"
+    },
+    {
+      "english": "Corn (on the foot)",
+      "english_full": "Corn (on the foot)",
+      "type": null,
+      "avar": "khasi",
+      "arabic": "خسی",
+      "page": 5,
+      "note": "on the foot"
+    },
+    {
+      "english": "Correct",
+      "english_full": "Correct, v.a.",
+      "type": "verb active",
+      "avar": "ḳaćazi",
+      "arabic": "کچازی",
+      "page": 5
+    },
+    {
+      "english": "Cough",
+      "english_full": "Cough, v.a.",
+      "type": "verb active",
+      "avar": "khaázi",
+      "arabic": "خَلازی",
+      "page": 5
+    },
+    {
+      "english": "Counsel",
+      "english_full": "Counsel, s.",
+      "type": "substantive",
+      "avar": "maṣlaḥat",
+      "arabic": "مشلحت",
+      "page": 5
+    },
+    {
+      "english": "Cousin",
+      "english_full": "Cousin",
+      "type": null,
+      "avar": "vaṣaál, yaṣaál",
+      "arabic": "یسل، یسل",
+      "page": 5
+    },
+    {
+      "english": "Coverlet",
+      "english_full": "Coverlet",
+      "type": null,
+      "avar": "vaughan",
+      "arabic": "واوغان",
+      "page": 5
+    },
+    {
+      "english": "Cow",
+      "english_full": "Cow",
+      "type": null,
+      "avar": "áka",
+      "arabic": "ئیک",
+      "page": 5
+    },
+    {
+      "english": "Cradle",
+      "english_full": "Cradle",
+      "type": null,
+      "avar": "holak",
+      "arabic": "هُلک",
+      "page": 5
+    },
+    {
+      "english": "Crane (bird)",
+      "english_full": "Crane (bird)",
+      "type": null,
+      "avar": "konkra",
+      "arabic": "کونکر",
+      "page": 5,
+      "note": "bird"
+    },
+    {
+      "english": "Cream",
+      "english_full": "Cream",
+      "type": null,
+      "avar": "ṭorag",
+      "arabic": "فُراگ",
+      "page": 5
+    },
+    {
+      "english": "Creditor",
+      "english_full": "Creditor",
+      "type": null,
+      "avar": "nat̲l̲ulau",
+      "arabic": "نتلولر",
+      "page": 5
+    },
+    {
+      "english": "Crest",
+      "english_full": "Crest",
+      "type": null,
+      "avar": "ifef",
+      "arabic": "ایفف",
+      "page": 5
+    },
+    {
+      "english": "Cross",
+      "english_full": "Cross, s.",
+      "type": "substantive",
+      "avar": "khanj",
+      "arabic": "خنج",
+      "page": 5
+    },
+    {
+      "english": "Crow",
+      "english_full": "Crow, s.",
+      "type": "substantive",
+      "avar": "žobai, ghidu",
+      "arabic": "زُبای، غیدو",
+      "page": 5
+    },
+    {
+      "english": "Crow",
+      "english_full": "Crow, v.",
+      "type": "verb",
+      "avar": "îuzi",
+      "arabic": "لوزی",
+      "page": 5
+    },
+    {
+      "english": "Crush, bruise",
+      "english_full": "Crush, bruise, v.a.",
+      "type": "verb active",
+      "avar": "čenṭizi",
+      "arabic": "چنتزی",
+      "page": 5
+    },
+    {
+      "english": "Cry, scream",
+      "english_full": "Cry, v.a. scream",
+      "type": "verb active",
+      "avar": "árîdezi",
+      "arabic": "آردیزی",
+      "page": 5
+    },
+    {
+      "english": "Cry",
+      "english_full": "Cry, s.",
+      "type": "substantive",
+      "avar": "aḥi",
+      "arabic": "التی",
+      "page": 5
+    },
+    {
+      "english": "Cupboard",
+      "english_full": "Cupboard",
+      "type": null,
+      "avar": "tzaghur",
+      "arabic": "تزاغور",
+      "page": 5
+    },
+    {
+      "english": "Curious, inquisitive",
+      "english_full": "Curious, inquisitive",
+      "type": null,
+      "avar": "t̲l̲azi bot̲l̲olev",
+      "arabic": "تلاژی، بُتلُلِو",
+      "page": 5
+    },
+    {
+      "english": "Custom",
+      "english_full": "Custom",
+      "type": null,
+      "avar": "ádat",
+      "arabic": "آدت",
+      "page": 5
+    }
+  ],
+  "count": 90
+}

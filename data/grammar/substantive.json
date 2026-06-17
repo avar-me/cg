@@ -1,0 +1,27 @@
+{
+  "title": "4B. The Substantive",
+  "sections": [
+    {
+      "id": "gender",
+      "title": "Gender",
+      "content": "There are three genders &mdash; masculine, feminine, and neuter; the last is strictly limited to inanimate things, while the first two apply to human beings; in poetry they may extend to anything spiritual or animate, from a soul to a seed.\n\nThe neuter form, however, is often used with reference to animals as well.\n\nGender is expressed as follows: a -v- (و) at the beginning or end of a word shows that it is masculine; -y- (ى) feminine; -b- (ب) neuter."
+    },
+    {
+      "id": "agreement",
+      "title": "Gender Agreement",
+      "content": "The same letters in the middle or at the end of a verbal noun indicate the gender of the complement or governing noun.\n\nFor instance, the verbal noun “sending” (literally a sending) is: m. veṭi, f. yeṭi, n. beṭi, from the verb biṭizi “to send.” It is applied in accordance with the gender of the preceding words, as in the following examples:",
+      "body": "<table class=\"grammar-table\"><tbody><tr><td>(1)</td><td class=\"latin\">tlig veṭi 'Omar a Mohammad</td><td class=\"gloss\">“It is good that Mohammad sent to Omar.”</td></tr><tr><td>(2)</td><td class=\"latin\">tlig yeṭi Fatimat a Mohammad</td><td class=\"gloss\">“It is good that Mohammad sent to Fatima.”</td></tr><tr><td>(3)</td><td class=\"latin\">tlig beṭi ču a Mohammad</td><td class=\"gloss\">“It is good that Mohammad sent the horse.”</td></tr></tbody></table><p>In each case the verbal noun changes in gender with the person or thing with which it is in contact, and occupies the position which in most languages is held by the verb.</p>"
+    },
+    {
+      "id": "vači",
+      "title": "Another Example",
+      "content": "Take again the word vači “arrival” from vačizi “to arrive”:",
+      "body": "<table class=\"grammar-table\"><tbody><tr><td>1.</td><td class=\"latin\">Mohammad vači tleg</td><td class=\"gloss\">“Mohammad's arrival is good.”</td></tr><tr><td>2.</td><td class=\"latin\">Fatimat yači tleg</td><td class=\"gloss\">“Fatima's arrival is good.”</td></tr><tr><td>3.</td><td class=\"latin\">Ču bači tleg</td><td class=\"gloss\">“The horse's arrival is good.”</td></tr></tbody></table><p>Take another form in which, in a three-syllable word, the middle syllable changes <em>v</em> to <em>y</em> or <em>b</em>, according to the gender of the governing substantive:</p><table class=\"grammar-table\"><tbody><tr><td class=\"latin\">Moḥammad givigi tleg</td><td class=\"cyr\">(m.)</td></tr><tr><td class=\"latin\">Faṭimat giyegi tleg</td><td class=\"cyr\">(f.)</td></tr><tr><td class=\"latin\">Ču gibigi tleg</td><td class=\"cyr\">(n.)</td></tr></tbody></table>"
+    },
+    {
+      "id": "editor",
+      "title": "Editor's Note",
+      "body": "<div class=\"editor-note\">What Graham calls “gender” here corresponds in modern terminology to grammatical class. Modern Avâr has four classes, with the masculine/feminine/neuter triad of human + non-human reference being the most prominent.</div>"
+    }
+  ]
+}

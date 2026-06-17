@@ -1,0 +1,457 @@
+{
+  "letter": "D",
+  "entries": [
+    {
+      "english": "Dagger, Poniard",
+      "english_full": "Dagger, Poniard",
+      "type": null,
+      "avar": "khanjar",
+      "arabic": "خنجر",
+      "page": 5
+    },
+    {
+      "english": "Daily",
+      "english_full": "Daily",
+      "type": null,
+      "avar": "kenabko kuvat̲l̲",
+      "arabic": "کنبکو کُوتل",
+      "page": 5
+    },
+    {
+      "english": "Dance",
+      "english_full": "Dance, v.a.",
+      "type": "verb active",
+      "avar": "t̲l̲ordizi",
+      "arabic": "تلوردیزی",
+      "page": 5
+    },
+    {
+      "english": "Dark",
+      "english_full": "Dark, adj.",
+      "type": "adjective",
+      "avar": "bež",
+      "arabic": "بژ",
+      "page": 5
+    },
+    {
+      "english": "Darkness",
+      "english_full": "Darkness",
+      "type": null,
+      "avar": "bežt̲l̲i",
+      "arabic": "بژتلی",
+      "page": 5
+    },
+    {
+      "english": "Daughter, Girl",
+      "english_full": "Daughter, Girl",
+      "type": null,
+      "avar": "yas",
+      "arabic": "یس",
+      "page": 5
+    },
+    {
+      "english": "Dawn",
+      "english_full": "Dawn, s.",
+      "type": "substantive",
+      "avar": "rohat̲l̲i mikh",
+      "arabic": "رهتلی میخ",
+      "page": 5
+    },
+    {
+      "english": "Day (also one)",
+      "english_full": "Day (also one)",
+      "type": null,
+      "avar": "ḳo",
+      "arabic": "کو",
+      "page": 5,
+      "note": "also one"
+    },
+    {
+      "english": "Day, by, or during the",
+      "english_full": "Day, by, or during the, adv.",
+      "type": "adverb",
+      "avar": "ḳad",
+      "arabic": "کد",
+      "page": 5
+    },
+    {
+      "english": "Day, to-day",
+      "english_full": "Day, to-day",
+      "type": null,
+      "avar": "žaka",
+      "arabic": "ژک",
+      "page": 5
+    },
+    {
+      "english": "Dead",
+      "english_full": "Dead",
+      "type": null,
+      "avar": "khovarau",
+      "arabic": "خُورو",
+      "page": 5
+    },
+    {
+      "english": "Deaf, closed",
+      "english_full": "Deaf, closed",
+      "type": null,
+      "avar": "ánḳau",
+      "arabic": "آنیو",
+      "page": 5
+    },
+    {
+      "english": "Death",
+      "english_full": "Death",
+      "type": null,
+      "avar": "ájal",
+      "arabic": "آجل",
+      "page": 5
+    },
+    {
+      "english": "Debate, (dispute, quarrel)",
+      "english_full": "Debate, v.a. (dispute, quarrel)",
+      "type": "verb active",
+      "avar": "maslahat habizi",
+      "arabic": "مشلحت هابزی",
+      "page": 5
+    },
+    {
+      "english": "Debt",
+      "english_full": "Debt",
+      "type": null,
+      "avar": "nat̲l̲a",
+      "arabic": "نتلا",
+      "page": 5
+    },
+    {
+      "english": "Deceit, Deception",
+      "english_full": "Deceit, Deception",
+      "type": null,
+      "avar": "gulli",
+      "arabic": "گُلی",
+      "page": 5
+    },
+    {
+      "english": "Decrepitude",
+      "english_full": "Decrepitude",
+      "type": null,
+      "avar": "khort̲l̲i",
+      "arabic": "خُرتلی",
+      "page": 5
+    },
+    {
+      "english": "Deep",
+      "english_full": "Deep",
+      "type": null,
+      "avar": "ghovaridau",
+      "arabic": "غُوریدو",
+      "page": 5
+    },
+    {
+      "english": "Deer",
+      "english_full": "Deer",
+      "type": null,
+      "avar": "raṭoč",
+      "arabic": "رتُچ",
+      "page": 5
+    },
+    {
+      "english": "Defend",
+      "english_full": "Defend, v.a.",
+      "type": "verb active",
+      "avar": "ádlu habizi",
+      "arabic": "آدلو هابزی",
+      "page": 5
+    },
+    {
+      "english": "Defile",
+      "english_full": "Defile, s.",
+      "type": "substantive",
+      "avar": "ḳuvart̲l̲i gal",
+      "arabic": "کُورتلی گل",
+      "page": 5
+    },
+    {
+      "english": "Desert",
+      "english_full": "Desert",
+      "type": "substantive",
+      "avar": "merit, kholukh",
+      "arabic": "خُلخ",
+      "page": 6
+    },
+    {
+      "english": "Devil",
+      "english_full": "Devil",
+      "type": null,
+      "avar": "šaiṭan",
+      "arabic": "شیطن",
+      "page": 6
+    },
+    {
+      "english": "Dew",
+      "english_full": "Dew",
+      "type": null,
+      "avar": "šob",
+      "arabic": "شُب",
+      "page": 6
+    },
+    {
+      "english": "Die",
+      "english_full": "Die, v.a.",
+      "type": "verb active",
+      "avar": "khuvizi",
+      "arabic": "خُویزی",
+      "page": 6
+    },
+    {
+      "english": "Difficulty (with)",
+      "english_full": "Difficulty (with), adv.",
+      "type": "adverb",
+      "avar": "zaḥamtab",
+      "arabic": "زحمت",
+      "page": 6,
+      "note": "with"
+    },
+    {
+      "english": "Dig",
+      "english_full": "Dig, v.a.",
+      "type": "verb active",
+      "avar": "bikhizi",
+      "arabic": "بیخیزی",
+      "page": 6
+    },
+    {
+      "english": "Dirt",
+      "english_full": "Dirt",
+      "type": null,
+      "avar": "ḥarš",
+      "arabic": "هرش",
+      "page": 6
+    },
+    {
+      "english": "Dinner",
+      "english_full": "Dinner",
+      "type": null,
+      "avar": "ḳaḍiken",
+      "arabic": "کدیکن",
+      "page": 6
+    },
+    {
+      "english": "Disappear",
+      "english_full": "Disappear, v.a.",
+      "type": "verb active",
+      "avar": "bilizi",
+      "arabic": "بیلیزی",
+      "page": 6
+    },
+    {
+      "english": "Dish",
+      "english_full": "Dish",
+      "type": null,
+      "avar": "ṭabag",
+      "arabic": "تَبگ",
+      "page": 6
+    },
+    {
+      "english": "Dislocation",
+      "english_full": "Dislocation",
+      "type": null,
+      "avar": "borči",
+      "arabic": "بُرچی",
+      "page": 6
+    },
+    {
+      "english": "Dismiss",
+      "english_full": "Dismiss, v.",
+      "type": "verb",
+      "avar": "vačakhizi",
+      "arabic": "واچخیزی",
+      "page": 6
+    },
+    {
+      "english": "Ditch",
+      "english_full": "Ditch",
+      "type": null,
+      "avar": "trench, khandeḳ",
+      "arabic": "خندک",
+      "page": 6
+    },
+    {
+      "english": "Divide",
+      "english_full": "Divide, v.a.",
+      "type": "verb active",
+      "avar": "bit̲l̲izi",
+      "arabic": "بیتلیزی",
+      "page": 6
+    },
+    {
+      "english": "Divide",
+      "english_full": "Divide, v.a.",
+      "type": "verb active",
+      "avar": "baṭat̲l̲izi",
+      "arabic": "بتتلیزی",
+      "page": 6
+    },
+    {
+      "english": "Divine",
+      "english_full": "Divine, adj.",
+      "type": "adjective",
+      "avar": "bečaṣul",
+      "arabic": "بیچسُل",
+      "page": 6
+    },
+    {
+      "english": "Do",
+      "english_full": "Do, v.",
+      "type": "verb",
+      "avar": "habizi",
+      "arabic": "هابزی",
+      "page": 6
+    },
+    {
+      "english": "Doctor",
+      "english_full": "Doctor",
+      "type": null,
+      "avar": "mester, rot̲l̲nal, ḥakîm",
+      "arabic": "مستر، رُتنل، حکیم",
+      "page": 6
+    },
+    {
+      "english": "Dog",
+      "english_full": "Dog",
+      "type": null,
+      "avar": "m, hawi",
+      "arabic": "هاوی، آ، غْتوزی",
+      "page": 6
+    },
+    {
+      "english": "Dog",
+      "english_full": "Dog",
+      "type": null,
+      "avar": "f, ghuvazi",
+      "arabic": "هاوی، آ، غْتوزی",
+      "page": 6
+    },
+    {
+      "english": "Down",
+      "english_full": "Down, s.",
+      "type": "substantive",
+      "avar": "(bird’s), ḥoli",
+      "arabic": "هُلی",
+      "page": 6
+    },
+    {
+      "english": "Downwards",
+      "english_full": "Downwards",
+      "type": null,
+      "avar": "ghorg",
+      "arabic": "فُورگ",
+      "page": 6
+    },
+    {
+      "english": "Drawer",
+      "english_full": "Drawer",
+      "type": null,
+      "avar": "ṭala",
+      "arabic": "تلا",
+      "page": 6
+    },
+    {
+      "english": "Dress",
+      "english_full": "Dress, s.",
+      "type": "substantive",
+      "avar": "reṭel",
+      "arabic": "رتل",
+      "page": 6
+    },
+    {
+      "english": "Drink",
+      "english_full": "Drink, v.a.",
+      "type": "verb active",
+      "avar": "hiḳizi",
+      "arabic": "هیکیزی",
+      "page": 6
+    },
+    {
+      "english": "Drop (of water)",
+      "english_full": "Drop (of water)",
+      "type": null,
+      "avar": "ṭing",
+      "arabic": "تنگ",
+      "page": 6,
+      "note": "of water"
+    },
+    {
+      "english": "Drum",
+      "english_full": "Drum",
+      "type": null,
+      "avar": "ḳali",
+      "arabic": "کلی",
+      "page": 6
+    },
+    {
+      "english": "Drunkard",
+      "english_full": "Drunkard",
+      "type": null,
+      "avar": "mikhtulauči",
+      "arabic": "میختولویچی",
+      "page": 6
+    },
+    {
+      "english": "Drunkenness",
+      "english_full": "Drunkenness",
+      "type": null,
+      "avar": "mikhtil",
+      "arabic": "میختول",
+      "page": 6
+    },
+    {
+      "english": "Duck",
+      "english_full": "Duck, s.",
+      "type": "substantive",
+      "avar": "ordek",
+      "arabic": "اُردک",
+      "page": 6
+    },
+    {
+      "english": "Dull",
+      "english_full": "Dull",
+      "type": null,
+      "avar": "rekunarib",
+      "arabic": "ریگونریب",
+      "page": 6
+    },
+    {
+      "english": "Dumb",
+      "english_full": "Dumb",
+      "type": null,
+      "avar": "maž t̲l̲alarev",
+      "arabic": "مج ءالرو",
+      "page": 6
+    },
+    {
+      "english": "Dusk",
+      "english_full": "Dusk, s.",
+      "type": "substantive",
+      "avar": "bežt̲l̲i",
+      "arabic": "بژتلی",
+      "page": 6
+    },
+    {
+      "english": "Dusk, to grow",
+      "english_full": "Dusk, to grow, v.a.",
+      "type": "verb active",
+      "avar": "bežt̲l̲izi",
+      "arabic": "بژتلیزی",
+      "page": 6
+    },
+    {
+      "english": "Dust",
+      "english_full": "Dust",
+      "type": null,
+      "avar": "ḥur",
+      "arabic": "هُر",
+      "page": 6
+    }
+  ],
+  "count": 56
+}

@@ -1,0 +1,551 @@
+{
+  "letter": "F",
+  "entries": [
+    {
+      "english": "Face",
+      "english_full": "Face",
+      "type": null,
+      "avar": "homer",
+      "arabic": "هُمر",
+      "page": 7
+    },
+    {
+      "english": "Faith",
+      "english_full": "Faith",
+      "type": null,
+      "avar": "din",
+      "arabic": "دین",
+      "page": 7
+    },
+    {
+      "english": "Faithfully",
+      "english_full": "Faithfully",
+      "type": null,
+      "avar": "biṭarau",
+      "arabic": "بیترن",
+      "page": 7
+    },
+    {
+      "english": "Fancy (reverie)",
+      "english_full": "Fancy (reverie)",
+      "type": null,
+      "avar": "orghi",
+      "arabic": "اُرغی",
+      "page": 7,
+      "note": "reverie"
+    },
+    {
+      "english": "Far away",
+      "english_full": "Far away",
+      "type": null,
+      "avar": "rit̲l̲ada",
+      "arabic": "ریتردا",
+      "page": 7
+    },
+    {
+      "english": "Fast",
+      "english_full": "Fast, s.",
+      "type": "substantive",
+      "avar": "gal guvi",
+      "arabic": "گل گوری",
+      "page": 7
+    },
+    {
+      "english": "Fat",
+      "english_full": "Fat, s.",
+      "type": "substantive",
+      "avar": "ṭaṭi",
+      "arabic": "تتی",
+      "page": 7
+    },
+    {
+      "english": "Fate, lot",
+      "english_full": "Fate, lot",
+      "type": null,
+      "avar": "mojoro",
+      "arabic": "مُجُر",
+      "page": 7
+    },
+    {
+      "english": "Father",
+      "english_full": "Father",
+      "type": null,
+      "avar": "imen",
+      "arabic": "عمن",
+      "page": 7
+    },
+    {
+      "english": "Fault",
+      "english_full": "Fault",
+      "type": null,
+      "avar": "ghalaṭt̲l̲i",
+      "arabic": "غلطی",
+      "page": 7
+    },
+    {
+      "english": "Fear",
+      "english_full": "Fear, v.",
+      "type": "verb",
+      "avar": "hinḳizi",
+      "arabic": "هنکیزی",
+      "page": 7
+    },
+    {
+      "english": "Fever",
+      "english_full": "Fever",
+      "type": null,
+      "avar": "siri",
+      "arabic": "سیری",
+      "page": 7
+    },
+    {
+      "english": "Fight",
+      "english_full": "Fight, v.",
+      "type": "verb",
+      "avar": "raghizi",
+      "arabic": "رغیزی",
+      "page": 7
+    },
+    {
+      "english": "Fill",
+      "english_full": "Fill, v.",
+      "type": "verb",
+      "avar": "t̲l̲azi",
+      "arabic": "تلاژی",
+      "page": 7
+    },
+    {
+      "english": "Find",
+      "english_full": "Find, v.",
+      "type": "verb",
+      "avar": "batizi",
+      "arabic": "بتیزی",
+      "page": 7
+    },
+    {
+      "english": "Finger",
+      "english_full": "Finger",
+      "type": null,
+      "avar": "kiliš",
+      "arabic": "کیلس",
+      "page": 7
+    },
+    {
+      "english": "Finish",
+      "english_full": "Finish, v.",
+      "type": "verb",
+      "avar": "t̲l̲uizi",
+      "arabic": "تلویزی",
+      "page": 7
+    },
+    {
+      "english": "Fire",
+      "english_full": "Fire",
+      "type": null,
+      "avar": "ža",
+      "arabic": "ز",
+      "page": 7
+    },
+    {
+      "english": "Firewood",
+      "english_full": "Firewood",
+      "type": null,
+      "avar": "žol",
+      "arabic": "ژُل",
+      "page": 7
+    },
+    {
+      "english": "Fish",
+      "english_full": "Fish",
+      "type": null,
+      "avar": "šuá",
+      "arabic": "شوا",
+      "page": 7
+    },
+    {
+      "english": "Fisherman",
+      "english_full": "Fisherman",
+      "type": null,
+      "avar": "šuá bakhulevči",
+      "arabic": "شوا بخولویچی",
+      "page": 7
+    },
+    {
+      "english": "Fist",
+      "english_full": "Fist",
+      "type": null,
+      "avar": "zar",
+      "arabic": "زر",
+      "page": 7
+    },
+    {
+      "english": "Flame",
+      "english_full": "Flame",
+      "type": null,
+      "avar": "žadol nur",
+      "arabic": "ژدُل نور",
+      "page": 7
+    },
+    {
+      "english": "Flatter",
+      "english_full": "Flatter, v.",
+      "type": "verb",
+      "avar": "huent̲l̲izi",
+      "arabic": "هُونتلیزی",
+      "page": 7
+    },
+    {
+      "english": "Flea",
+      "english_full": "Flea",
+      "type": null,
+      "avar": "čet",
+      "arabic": "چت",
+      "page": 7
+    },
+    {
+      "english": "Flint",
+      "english_full": "Flint",
+      "type": null,
+      "avar": "maču",
+      "arabic": "ماچو",
+      "page": 7
+    },
+    {
+      "english": "Flock",
+      "english_full": "Flock",
+      "type": null,
+      "avar": "reked",
+      "arabic": "رکد",
+      "page": 7
+    },
+    {
+      "english": "Floor",
+      "english_full": "Floor",
+      "type": null,
+      "avar": "čabar",
+      "arabic": "چَبَر",
+      "page": 7
+    },
+    {
+      "english": "Flour",
+      "english_full": "Flour",
+      "type": null,
+      "avar": "kharab",
+      "arabic": "خَرَب",
+      "page": 7
+    },
+    {
+      "english": "Flower",
+      "english_full": "Flower",
+      "type": null,
+      "avar": "tih",
+      "arabic": "ته",
+      "page": 7
+    },
+    {
+      "english": "Flower-bud",
+      "english_full": "Flower-bud",
+      "type": null,
+      "avar": "ubač",
+      "arabic": "اُبچ",
+      "page": 7
+    },
+    {
+      "english": "Fly",
+      "english_full": "Fly, s.",
+      "type": "substantive",
+      "avar": "ṭuṭ",
+      "arabic": "تُت",
+      "page": 7
+    },
+    {
+      "english": "Fly",
+      "english_full": "Fly, v.",
+      "type": "verb",
+      "avar": "borjini",
+      "arabic": "بُرجینی",
+      "page": 7
+    },
+    {
+      "english": "Flute",
+      "english_full": "Flute",
+      "type": null,
+      "avar": "šantikh",
+      "arabic": "شنتیخ",
+      "page": 7
+    },
+    {
+      "english": "Foal",
+      "english_full": "Foal, s.",
+      "type": "substantive",
+      "avar": "tai",
+      "arabic": "تای",
+      "page": 7
+    },
+    {
+      "english": "Food",
+      "english_full": "Food",
+      "type": null,
+      "avar": "kven",
+      "arabic": "کُون",
+      "page": 7
+    },
+    {
+      "english": "Fool",
+      "english_full": "Fool",
+      "type": null,
+      "avar": "ábadal",
+      "arabic": "آبَدل",
+      "page": 7
+    },
+    {
+      "english": "Foot",
+      "english_full": "Foot, s.",
+      "type": "substantive",
+      "avar": "ḥiṭi",
+      "arabic": "هتی",
+      "page": 8
+    },
+    {
+      "english": "Foot, on",
+      "english_full": "Foot, on",
+      "type": null,
+      "avar": "t̲l̲ilau",
+      "arabic": "تیلیان",
+      "page": 8
+    },
+    {
+      "english": "For",
+      "english_full": "For",
+      "type": null,
+      "avar": "ólon t̲l̲ii",
+      "arabic": "ذلون تلی",
+      "page": 8
+    },
+    {
+      "english": "For instance",
+      "english_full": "For instance",
+      "type": null,
+      "avar": "mathalan",
+      "arabic": "مثلن",
+      "page": 8
+    },
+    {
+      "english": "Fore-arm, hand",
+      "english_full": "Fore-arm, hand",
+      "type": null,
+      "avar": "ghenj, kver",
+      "arabic": "غنج، کُور",
+      "page": 8
+    },
+    {
+      "english": "Forest",
+      "english_full": "Forest",
+      "type": null,
+      "avar": "rog",
+      "arabic": "رُگ",
+      "page": 8
+    },
+    {
+      "english": "Forge",
+      "english_full": "Forge, s.",
+      "type": "substantive",
+      "avar": "kebet̲l̲ul rok",
+      "arabic": "کِبِتفول رُک",
+      "page": 8
+    },
+    {
+      "english": "Forge, (metals)",
+      "english_full": "Forge, v. (metals)",
+      "type": "verb",
+      "avar": "kvarṭa t̲l̲abizi",
+      "arabic": "کُورتا حلیزی",
+      "page": 8
+    },
+    {
+      "english": "Forget",
+      "english_full": "Forget, v.",
+      "type": "verb",
+      "avar": "kučuntizi",
+      "arabic": "کُذُنتیزی",
+      "page": 8
+    },
+    {
+      "english": "Forehead",
+      "english_full": "Forehead",
+      "type": null,
+      "avar": "nodo",
+      "arabic": "نُدُ",
+      "page": 8
+    },
+    {
+      "english": "Fork",
+      "english_full": "Fork",
+      "type": null,
+      "avar": "ghuč",
+      "arabic": "غُذ",
+      "page": 8
+    },
+    {
+      "english": "Fortress, strength",
+      "english_full": "Fortress, strength",
+      "type": null,
+      "avar": "khala",
+      "arabic": "خلا",
+      "page": 8
+    },
+    {
+      "english": "Forward",
+      "english_full": "Forward",
+      "type": null,
+      "avar": "ṣibi",
+      "arabic": "سیبی",
+      "page": 8
+    },
+    {
+      "english": "Fox",
+      "english_full": "Fox",
+      "type": null,
+      "avar": "tser",
+      "arabic": "تسر",
+      "page": 8
+    },
+    {
+      "english": "Freeze",
+      "english_full": "Freeze, v.a.",
+      "type": "verb active",
+      "avar": "žorozi",
+      "arabic": "ژُرُزی",
+      "page": 8
+    },
+    {
+      "english": "Freshness",
+      "english_full": "Freshness",
+      "type": null,
+      "avar": "hohan",
+      "arabic": "هُهَن",
+      "page": 8
+    },
+    {
+      "english": "Friday",
+      "english_full": "Friday",
+      "type": null,
+      "avar": "rozman ḳo",
+      "arabic": "رُزمن کو",
+      "page": 8
+    },
+    {
+      "english": "Friend",
+      "english_full": "Friend",
+      "type": null,
+      "avar": "hodol",
+      "arabic": "هُدُل",
+      "page": 8
+    },
+    {
+      "english": "Friendship",
+      "english_full": "Friendship",
+      "type": null,
+      "avar": "hodolt̲l̲i",
+      "arabic": "هُدُل تلی",
+      "page": 8
+    },
+    {
+      "english": "Fright",
+      "english_full": "Fright, s.",
+      "type": "substantive",
+      "avar": "ḥinḳi",
+      "arabic": "هنکی",
+      "page": 8
+    },
+    {
+      "english": "Frighten",
+      "english_full": "Frighten, v.",
+      "type": "verb",
+      "avar": "ḥinḳizi, habizi",
+      "arabic": "هنکیزی، هابزی",
+      "page": 8
+    },
+    {
+      "english": "Frog",
+      "english_full": "Frog, s.",
+      "type": "substantive",
+      "avar": "k̰werk̰",
+      "arabic": "کُورک",
+      "page": 8
+    },
+    {
+      "english": "From",
+      "english_full": "From, prep.",
+      "type": "preposition",
+      "avar": "ṣa",
+      "arabic": "سا",
+      "page": 8
+    },
+    {
+      "english": "From above",
+      "english_full": "From above",
+      "type": null,
+      "avar": "ṭaṣṣan",
+      "arabic": "تسن",
+      "page": 8
+    },
+    {
+      "english": "From below",
+      "english_full": "From below",
+      "type": null,
+      "avar": "ghort̲l̲an",
+      "arabic": "غُرتلن",
+      "page": 8
+    },
+    {
+      "english": "From the left",
+      "english_full": "From the left",
+      "type": null,
+      "avar": "kviáb",
+      "arabic": "کویلاب",
+      "page": 8
+    },
+    {
+      "english": "From the right",
+      "english_full": "From the right",
+      "type": null,
+      "avar": "kvaranab",
+      "arabic": "کُورناب",
+      "page": 8
+    },
+    {
+      "english": "Frontier",
+      "english_full": "Frontier",
+      "type": null,
+      "avar": "órḳhi, horḳubag",
+      "arabic": "اُرخ، هُرعوبگ",
+      "page": 8
+    },
+    {
+      "english": "Frost",
+      "english_full": "Frost",
+      "type": null,
+      "avar": "kuvačai",
+      "arabic": "کُواچای",
+      "page": 8
+    },
+    {
+      "english": "Fruit",
+      "english_full": "Fruit",
+      "type": null,
+      "avar": "fikh",
+      "arabic": "فخ",
+      "page": 8
+    },
+    {
+      "english": "Future",
+      "english_full": "Future, s.",
+      "type": "substantive",
+      "avar": "bačunib",
+      "arabic": "بذُنِب",
+      "page": 8
+    }
+  ],
+  "count": 68
+}

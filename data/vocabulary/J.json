@@ -1,0 +1,65 @@
+{
+  "letter": "J",
+  "entries": [
+    {
+      "english": "Jar (big)",
+      "english_full": "Jar (big)",
+      "type": null,
+      "avar": "raá",
+      "arabic": "رآ",
+      "page": 10,
+      "note": "big"
+    },
+    {
+      "english": "Jar (small)",
+      "english_full": "Jar (small)",
+      "type": null,
+      "avar": "gabi",
+      "arabic": "گَبی",
+      "page": 10,
+      "note": "small"
+    },
+    {
+      "english": "Jealousy",
+      "english_full": "Jealousy",
+      "type": null,
+      "avar": "šakt̲l̲i",
+      "arabic": "سَکتلی",
+      "page": 10
+    },
+    {
+      "english": "Jealous (to be)",
+      "english_full": "Jealous (to be), v.",
+      "type": "verb",
+      "avar": "šakt̲l̲izi",
+      "arabic": "سَکتِلزی",
+      "page": 10,
+      "note": "to be"
+    },
+    {
+      "english": "Joy",
+      "english_full": "Joy",
+      "type": null,
+      "avar": "rohel",
+      "arabic": "رُهِل",
+      "page": 10
+    },
+    {
+      "english": "Jump",
+      "english_full": "Jump, v.",
+      "type": "verb",
+      "avar": "ḳančizi",
+      "arabic": "کَنچیزی",
+      "page": 10
+    },
+    {
+      "english": "Jump",
+      "english_full": "Jump, s.",
+      "type": "substantive",
+      "avar": "ḳanči",
+      "arabic": "کَنچی",
+      "page": 10
+    }
+  ],
+  "count": 7
+}

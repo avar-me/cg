@@ -1,0 +1,752 @@
+{
+  "correspondence": [
+    {
+      "arabic": "ا",
+      "latin_upper": "A",
+      "latin_lower": "a",
+      "description": "Alef"
+    },
+    {
+      "arabic": "ب",
+      "latin_upper": "B",
+      "latin_lower": "b",
+      "description": "B"
+    },
+    {
+      "arabic": "پ",
+      "latin_upper": "P",
+      "latin_lower": "p",
+      "description": "P"
+    },
+    {
+      "arabic": "ت",
+      "latin_upper": "T",
+      "latin_lower": "t",
+      "description": "T"
+    },
+    {
+      "arabic": "ث",
+      "latin_upper": "Th",
+      "latin_lower": "th",
+      "description": "Th=θ in Greek= to the English th as in thick"
+    },
+    {
+      "arabic": "ج",
+      "latin_upper": "J",
+      "latin_lower": "j",
+      "description": "J, the English j"
+    },
+    {
+      "arabic": "چ",
+      "latin_upper": "Č",
+      "latin_lower": "č",
+      "description": "Č, the English ch, German tsch"
+    },
+    {
+      "arabic": "ح",
+      "latin_upper": "Ḥ",
+      "latin_lower": "ḥ",
+      "description": "Ḥ, aspirated h"
+    },
+    {
+      "arabic": "خ",
+      "latin_upper": "Kh",
+      "latin_lower": "kh",
+      "description": "Kh, guttural. Hawking sound"
+    },
+    {
+      "arabic": "د",
+      "latin_upper": "D",
+      "latin_lower": "d",
+      "description": "D"
+    },
+    {
+      "arabic": "ذ",
+      "latin_upper": "Dh",
+      "latin_lower": "dh",
+      "description": "Dh, as in this English = the δ of the Romaic"
+    },
+    {
+      "arabic": "ر",
+      "latin_upper": "R",
+      "latin_lower": "r",
+      "description": "R"
+    },
+    {
+      "arabic": "ز",
+      "latin_upper": "Z",
+      "latin_lower": "z",
+      "description": "Z"
+    },
+    {
+      "arabic": "ژ",
+      "latin_upper": "Ž",
+      "latin_lower": "ž",
+      "description": "Ž, Žh properly, but pronounced as sion in the English word persuasion, or the French j in je"
+    },
+    {
+      "arabic": "س",
+      "latin_upper": "S",
+      "latin_lower": "s",
+      "description": "S"
+    },
+    {
+      "arabic": "ش",
+      "latin_upper": "Š",
+      "latin_lower": "š",
+      "description": "Š, in English sh, in German sch"
+    },
+    {
+      "arabic": "ص",
+      "latin_upper": "Ṣ",
+      "latin_lower": "ṣ",
+      "description": "Ṣ, the intensified or double hissing S"
+    },
+    {
+      "arabic": "ض",
+      "latin_upper": "Ḍ",
+      "latin_lower": "ḍ",
+      "description": "Ḍ, the intensified or explosive D"
+    },
+    {
+      "arabic": "ط",
+      "latin_upper": "Ṭ",
+      "latin_lower": "ṭ",
+      "description": "Ṭ, the intensified or explosive T"
+    },
+    {
+      "arabic": "ض",
+      "latin_upper": "ḌḤ",
+      "latin_lower": "ḍḥ",
+      "description": "ḌḤ, the intensified or explosive Dh"
+    },
+    {
+      "arabic": "ع",
+      "latin_upper": "ʿ",
+      "latin_lower": "ʿ",
+      "description": "ʿAin, the bleating sound found especially in the Semitic languages"
+    },
+    {
+      "arabic": "غ",
+      "latin_upper": "Gh",
+      "latin_lower": "gh",
+      "description": "Gh, the guttural gurgling sound in the same"
+    },
+    {
+      "arabic": "ف",
+      "latin_upper": "F",
+      "latin_lower": "f",
+      "description": "F"
+    },
+    {
+      "arabic": "ق",
+      "latin_upper": "Ḳ",
+      "latin_lower": "ḳ",
+      "description": "Ḳ, the deep guttural K"
+    },
+    {
+      "arabic": "ك",
+      "latin_upper": "K",
+      "latin_lower": "k",
+      "description": "K, the ordinary K"
+    },
+    {
+      "arabic": "گ",
+      "latin_upper": "G",
+      "latin_lower": "g",
+      "description": "G, the hard G"
+    },
+    {
+      "arabic": "ل",
+      "latin_upper": "L",
+      "latin_lower": "l",
+      "description": "L"
+    },
+    {
+      "arabic": "م",
+      "latin_upper": "M",
+      "latin_lower": "m",
+      "description": "M"
+    },
+    {
+      "arabic": "ن",
+      "latin_upper": "N",
+      "latin_lower": "n",
+      "description": "N"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "W",
+      "latin_lower": "w",
+      "description": "W"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "V",
+      "latin_lower": "v",
+      "description": "V"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "U",
+      "latin_lower": "u",
+      "description": "U"
+    },
+    {
+      "arabic": "ه",
+      "latin_upper": "H",
+      "latin_lower": "h",
+      "description": "H"
+    },
+    {
+      "arabic": "ي",
+      "latin_upper": "Y",
+      "latin_lower": "y",
+      "description": "Y"
+    },
+    {
+      "arabic": "ڞ",
+      "latin_upper": "Tz",
+      "latin_lower": "tz",
+      "description": "Tz"
+    },
+    {
+      "arabic": "ڸ",
+      "latin_upper": "T̲l̲",
+      "latin_lower": "t̲l̲",
+      "description": "T̲l̲, the click sound to which I refer in the Introduction"
+    },
+    {
+      "arabic": "ڨ",
+      "latin_upper": "K̰",
+      "latin_lower": "k̰",
+      "description": "K̰, which my Sheikh tells me, so far as he knows, is to be found only in three or four words, the most notable of which is k̰werk̰, frog"
+    }
+  ],
+  "latin": [
+    {
+      "char": "A",
+      "unicode": "U+0041",
+      "name": "LATIN CAPITAL LETTER A",
+      "category": "Lu",
+      "description": "Alef"
+    },
+    {
+      "char": "a",
+      "unicode": "U+0061",
+      "name": "LATIN SMALL LETTER A",
+      "category": "Ll",
+      "description": "Alef"
+    },
+    {
+      "char": "B",
+      "unicode": "U+0042",
+      "name": "LATIN CAPITAL LETTER B",
+      "category": "Lu",
+      "description": "B"
+    },
+    {
+      "char": "b",
+      "unicode": "U+0062",
+      "name": "LATIN SMALL LETTER B",
+      "category": "Ll",
+      "description": "B"
+    },
+    {
+      "char": "P",
+      "unicode": "U+0050",
+      "name": "LATIN CAPITAL LETTER P",
+      "category": "Lu",
+      "description": "P"
+    },
+    {
+      "char": "p",
+      "unicode": "U+0070",
+      "name": "LATIN SMALL LETTER P",
+      "category": "Ll",
+      "description": "P"
+    },
+    {
+      "char": "T",
+      "unicode": "U+0054",
+      "name": "LATIN CAPITAL LETTER T",
+      "category": "Lu",
+      "description": "T"
+    },
+    {
+      "char": "t",
+      "unicode": "U+0074",
+      "name": "LATIN SMALL LETTER T",
+      "category": "Ll",
+      "description": "T"
+    },
+    {
+      "char": "Th",
+      "unicode": "U+0054",
+      "name": "LATIN CAPITAL LETTER T",
+      "category": "Lu",
+      "description": "Th=θ in Greek= to the English th as in thick"
+    },
+    {
+      "char": "th",
+      "unicode": "U+0074",
+      "name": "LATIN SMALL LETTER T",
+      "category": "Ll",
+      "description": "Th=θ in Greek= to the English th as in thick"
+    },
+    {
+      "char": "J",
+      "unicode": "U+004A",
+      "name": "LATIN CAPITAL LETTER J",
+      "category": "Lu",
+      "description": "J, the English j"
+    },
+    {
+      "char": "j",
+      "unicode": "U+006A",
+      "name": "LATIN SMALL LETTER J",
+      "category": "Ll",
+      "description": "J, the English j"
+    },
+    {
+      "char": "Č",
+      "unicode": "U+010C",
+      "name": "LATIN CAPITAL LETTER C WITH CARON",
+      "category": "Lu",
+      "description": "Č, the English ch, German tsch"
+    },
+    {
+      "char": "č",
+      "unicode": "U+010D",
+      "name": "LATIN SMALL LETTER C WITH CARON",
+      "category": "Ll",
+      "description": "Č, the English ch, German tsch"
+    },
+    {
+      "char": "Ḥ",
+      "unicode": "U+1E24",
+      "name": "LATIN CAPITAL LETTER H WITH DOT BELOW",
+      "category": "Lu",
+      "description": "Ḥ, aspirated h"
+    },
+    {
+      "char": "ḥ",
+      "unicode": "U+1E25",
+      "name": "LATIN SMALL LETTER H WITH DOT BELOW",
+      "category": "Ll",
+      "description": "Ḥ, aspirated h"
+    },
+    {
+      "char": "Kh",
+      "unicode": "U+004B",
+      "name": "LATIN CAPITAL LETTER K",
+      "category": "Lu",
+      "description": "Kh, guttural. Hawking sound"
+    },
+    {
+      "char": "kh",
+      "unicode": "U+006B",
+      "name": "LATIN SMALL LETTER K",
+      "category": "Ll",
+      "description": "Kh, guttural. Hawking sound"
+    },
+    {
+      "char": "D",
+      "unicode": "U+0044",
+      "name": "LATIN CAPITAL LETTER D",
+      "category": "Lu",
+      "description": "D"
+    },
+    {
+      "char": "d",
+      "unicode": "U+0064",
+      "name": "LATIN SMALL LETTER D",
+      "category": "Ll",
+      "description": "D"
+    },
+    {
+      "char": "Dh",
+      "unicode": "U+0044",
+      "name": "LATIN CAPITAL LETTER D",
+      "category": "Lu",
+      "description": "Dh, as in this English = the δ of the Romaic"
+    },
+    {
+      "char": "dh",
+      "unicode": "U+0064",
+      "name": "LATIN SMALL LETTER D",
+      "category": "Ll",
+      "description": "Dh, as in this English = the δ of the Romaic"
+    },
+    {
+      "char": "R",
+      "unicode": "U+0052",
+      "name": "LATIN CAPITAL LETTER R",
+      "category": "Lu",
+      "description": "R"
+    },
+    {
+      "char": "r",
+      "unicode": "U+0072",
+      "name": "LATIN SMALL LETTER R",
+      "category": "Ll",
+      "description": "R"
+    },
+    {
+      "char": "Z",
+      "unicode": "U+005A",
+      "name": "LATIN CAPITAL LETTER Z",
+      "category": "Lu",
+      "description": "Z"
+    },
+    {
+      "char": "z",
+      "unicode": "U+007A",
+      "name": "LATIN SMALL LETTER Z",
+      "category": "Ll",
+      "description": "Z"
+    },
+    {
+      "char": "Ž",
+      "unicode": "U+017D",
+      "name": "LATIN CAPITAL LETTER Z WITH CARON",
+      "category": "Lu",
+      "description": "Ž, Žh properly, but pronounced as sion in the English word persuasion, or the French j in je"
+    },
+    {
+      "char": "ž",
+      "unicode": "U+017E",
+      "name": "LATIN SMALL LETTER Z WITH CARON",
+      "category": "Ll",
+      "description": "Ž, Žh properly, but pronounced as sion in the English word persuasion, or the French j in je"
+    },
+    {
+      "char": "S",
+      "unicode": "U+0053",
+      "name": "LATIN CAPITAL LETTER S",
+      "category": "Lu",
+      "description": "S"
+    },
+    {
+      "char": "s",
+      "unicode": "U+0073",
+      "name": "LATIN SMALL LETTER S",
+      "category": "Ll",
+      "description": "S"
+    },
+    {
+      "char": "Š",
+      "unicode": "U+0160",
+      "name": "LATIN CAPITAL LETTER S WITH CARON",
+      "category": "Lu",
+      "description": "Š, in English sh, in German sch"
+    },
+    {
+      "char": "š",
+      "unicode": "U+0161",
+      "name": "LATIN SMALL LETTER S WITH CARON",
+      "category": "Ll",
+      "description": "Š, in English sh, in German sch"
+    },
+    {
+      "char": "Ṣ",
+      "unicode": "U+1E62",
+      "name": "LATIN CAPITAL LETTER S WITH DOT BELOW",
+      "category": "Lu",
+      "description": "Ṣ, the intensified or double hissing S"
+    },
+    {
+      "char": "ṣ",
+      "unicode": "U+1E63",
+      "name": "LATIN SMALL LETTER S WITH DOT BELOW",
+      "category": "Ll",
+      "description": "Ṣ, the intensified or double hissing S"
+    },
+    {
+      "char": "Ḍ",
+      "unicode": "U+1E0C",
+      "name": "LATIN CAPITAL LETTER D WITH DOT BELOW",
+      "category": "Lu",
+      "description": "Ḍ, the intensified or explosive D"
+    },
+    {
+      "char": "ḍ",
+      "unicode": "U+1E0D",
+      "name": "LATIN SMALL LETTER D WITH DOT BELOW",
+      "category": "Ll",
+      "description": "Ḍ, the intensified or explosive D"
+    },
+    {
+      "char": "Ṭ",
+      "unicode": "U+1E6C",
+      "name": "LATIN CAPITAL LETTER T WITH DOT BELOW",
+      "category": "Lu",
+      "description": "Ṭ, the intensified or explosive T"
+    },
+    {
+      "char": "ṭ",
+      "unicode": "U+1E6D",
+      "name": "LATIN SMALL LETTER T WITH DOT BELOW",
+      "category": "Ll",
+      "description": "Ṭ, the intensified or explosive T"
+    },
+    {
+      "char": "ḌḤ",
+      "unicode": "U+1E0C",
+      "name": "LATIN CAPITAL LETTER D WITH DOT BELOW",
+      "category": "Lu",
+      "description": "ḌḤ, the intensified or explosive Dh"
+    },
+    {
+      "char": "ḍḥ",
+      "unicode": "U+1E0D",
+      "name": "LATIN SMALL LETTER D WITH DOT BELOW",
+      "category": "Ll",
+      "description": "ḌḤ, the intensified or explosive Dh"
+    },
+    {
+      "char": "ʿ",
+      "unicode": "U+02BF",
+      "name": "MODIFIER LETTER LEFT HALF RING",
+      "category": "Lm",
+      "description": "ʿAin, the bleating sound found especially in the Semitic languages"
+    },
+    {
+      "char": "Gh",
+      "unicode": "U+0047",
+      "name": "LATIN CAPITAL LETTER G",
+      "category": "Lu",
+      "description": "Gh, the guttural gurgling sound in the same"
+    },
+    {
+      "char": "gh",
+      "unicode": "U+0067",
+      "name": "LATIN SMALL LETTER G",
+      "category": "Ll",
+      "description": "Gh, the guttural gurgling sound in the same"
+    },
+    {
+      "char": "F",
+      "unicode": "U+0046",
+      "name": "LATIN CAPITAL LETTER F",
+      "category": "Lu",
+      "description": "F"
+    },
+    {
+      "char": "f",
+      "unicode": "U+0066",
+      "name": "LATIN SMALL LETTER F",
+      "category": "Ll",
+      "description": "F"
+    },
+    {
+      "char": "Ḳ",
+      "unicode": "U+1E32",
+      "name": "LATIN CAPITAL LETTER K WITH DOT BELOW",
+      "category": "Lu",
+      "description": "Ḳ, the deep guttural K"
+    },
+    {
+      "char": "ḳ",
+      "unicode": "U+1E33",
+      "name": "LATIN SMALL LETTER K WITH DOT BELOW",
+      "category": "Ll",
+      "description": "Ḳ, the deep guttural K"
+    },
+    {
+      "char": "K",
+      "unicode": "U+004B",
+      "name": "LATIN CAPITAL LETTER K",
+      "category": "Lu",
+      "description": "K, the ordinary K"
+    },
+    {
+      "char": "k",
+      "unicode": "U+006B",
+      "name": "LATIN SMALL LETTER K",
+      "category": "Ll",
+      "description": "K, the ordinary K"
+    },
+    {
+      "char": "G",
+      "unicode": "U+0047",
+      "name": "LATIN CAPITAL LETTER G",
+      "category": "Lu",
+      "description": "G, the hard G"
+    },
+    {
+      "char": "g",
+      "unicode": "U+0067",
+      "name": "LATIN SMALL LETTER G",
+      "category": "Ll",
+      "description": "G, the hard G"
+    },
+    {
+      "char": "L",
+      "unicode": "U+004C",
+      "name": "LATIN CAPITAL LETTER L",
+      "category": "Lu",
+      "description": "L"
+    },
+    {
+      "char": "l",
+      "unicode": "U+006C",
+      "name": "LATIN SMALL LETTER L",
+      "category": "Ll",
+      "description": "L"
+    },
+    {
+      "char": "M",
+      "unicode": "U+004D",
+      "name": "LATIN CAPITAL LETTER M",
+      "category": "Lu",
+      "description": "M"
+    },
+    {
+      "char": "m",
+      "unicode": "U+006D",
+      "name": "LATIN SMALL LETTER M",
+      "category": "Ll",
+      "description": "M"
+    },
+    {
+      "char": "N",
+      "unicode": "U+004E",
+      "name": "LATIN CAPITAL LETTER N",
+      "category": "Lu",
+      "description": "N"
+    },
+    {
+      "char": "n",
+      "unicode": "U+006E",
+      "name": "LATIN SMALL LETTER N",
+      "category": "Ll",
+      "description": "N"
+    },
+    {
+      "char": "W",
+      "unicode": "U+0057",
+      "name": "LATIN CAPITAL LETTER W",
+      "category": "Lu",
+      "description": "W"
+    },
+    {
+      "char": "w",
+      "unicode": "U+0077",
+      "name": "LATIN SMALL LETTER W",
+      "category": "Ll",
+      "description": "W"
+    },
+    {
+      "char": "V",
+      "unicode": "U+0056",
+      "name": "LATIN CAPITAL LETTER V",
+      "category": "Lu",
+      "description": "V"
+    },
+    {
+      "char": "v",
+      "unicode": "U+0076",
+      "name": "LATIN SMALL LETTER V",
+      "category": "Ll",
+      "description": "V"
+    },
+    {
+      "char": "U",
+      "unicode": "U+0055",
+      "name": "LATIN CAPITAL LETTER U",
+      "category": "Lu",
+      "description": "U"
+    },
+    {
+      "char": "u",
+      "unicode": "U+0075",
+      "name": "LATIN SMALL LETTER U",
+      "category": "Ll",
+      "description": "U"
+    },
+    {
+      "char": "H",
+      "unicode": "U+0048",
+      "name": "LATIN CAPITAL LETTER H",
+      "category": "Lu",
+      "description": "H"
+    },
+    {
+      "char": "h",
+      "unicode": "U+0068",
+      "name": "LATIN SMALL LETTER H",
+      "category": "Ll",
+      "description": "H"
+    },
+    {
+      "char": "Y",
+      "unicode": "U+0059",
+      "name": "LATIN CAPITAL LETTER Y",
+      "category": "Lu",
+      "description": "Y"
+    },
+    {
+      "char": "y",
+      "unicode": "U+0079",
+      "name": "LATIN SMALL LETTER Y",
+      "category": "Ll",
+      "description": "Y"
+    },
+    {
+      "char": "Tz",
+      "unicode": "U+0054",
+      "name": "LATIN CAPITAL LETTER T",
+      "category": "Lu",
+      "description": "Tz"
+    },
+    {
+      "char": "tz",
+      "unicode": "U+0074",
+      "name": "LATIN SMALL LETTER T",
+      "category": "Ll",
+      "description": "Tz"
+    },
+    {
+      "char": "T̲l̲",
+      "unicode": "U+0054",
+      "name": "LATIN CAPITAL LETTER T",
+      "category": "Lu",
+      "description": "T̲l̲, the click sound to which I refer in the Introduction"
+    },
+    {
+      "char": "t̲l̲",
+      "unicode": "U+0074",
+      "name": "LATIN SMALL LETTER T",
+      "category": "Ll",
+      "description": "T̲l̲, the click sound to which I refer in the Introduction"
+    },
+    {
+      "char": "K̰",
+      "unicode": "U+004B",
+      "name": "LATIN CAPITAL LETTER K",
+      "category": "Lu",
+      "description": "K̰, which my Sheikh tells me, so far as he knows, is to be found only in three or four words, the most notable of which is k̰werk̰, frog"
+    },
+    {
+      "char": "k̰",
+      "unicode": "U+006B",
+      "name": "LATIN SMALL LETTER K",
+      "category": "Ll",
+      "description": "K̰, which my Sheikh tells me, so far as he knows, is to be found only in three or four words, the most notable of which is k̰werk̰, frog"
+    }
+  ],
+  "source_pages": [
+    6,
+    7,
+    8
+  ],
+  "introduction": "The Avâr possessing no written character of its own, the Muslim Sheikhs, who were the first to place this language on record, naturally had recourse to the Arabic character and to those additional symbols which represent sounds unknown to the Arabs, but which the Persians subsequently invented. Even the Persian alphabet taken over bodily was insufficient, three other symbols had to be devised, representing sounds which are pronounced neither in Arabic, Persian, nor Turkish.",
+  "main_text_before_table": "The alphabet thus engrossed, which I may call the Avar alphabet, is given below, together with the equivalents in a modified Latin character.",
+  "main_text_after_table": "K̰, which my Sheikh tells me, so far as he knows, is to be found only in three or four words, the most notable of which is k̰werk̰, frog, but he says, “I have never been able to frame my mouth to pronounce this word,” and he adds naively, “to the best of my belief no creature in the world can properly pronounce the frog’s name but the frog himself.”\nOf these 37, no less than 33 are pure consonants, and of the remaining four the 'و' and the 'ي', it may be said that they as often play the part of a consonant as of a vowel.",
+  "notes": "Note. — I prefer the č, ž, š to other notations, because they have been used ever since the old Slavonic alphabet was transferred by the Western Slavonic races to a Latin form. The signs will be known to all literary Russians, and are simpler to the stranger than those which have to be learned from the writer of every book whose genius inspires him to invent a character of his own.",
+  "full_text": "",
+  "consonants_before_table": "  Many of these were introduced to express foreign sounds.\n In several cases they may be grouped in pairs, or even triplets, for the Avâr pronunciation makes little distinction between them. These I give as follows:",
+  "consonants_after_table": "I have, however, as I thought I was in duty bound, preserved them in the text, and they are so far interesting that they may remind the inquisitive descendants of the npresent Avârs of the words, comparatively few though they be, which they owe to other languages.",
+  "vowels_before_table": "  The vowels are represented according to the Semitic system by marks placed either above or below the consonant to which they belong. In well-known languages they are only useful to beginners; in the transcription of an almost unknown language they become so essential, that without them it would be impossible to guess at what should be supplied to fill the gaps between the governing letters.\n  The fundamental vowel sounds in the Avâr are our old familiar friends a, e, i, o, u; not articulated, of course, after the English fashion, but that which prevails amongst almost all other nations of the globe.\n  The e and the i, and the o and the u are so nearly allied, however, that the most practised scholar might be unable in most cases to detect the difference between them, and I believe I am not wrong if I say that in adjacent districts the inclination may be either in favour of one sound or the other.\n\tThe numerous diphthongs may easily account for this versatility of expression. For instance:\nai\nau  German au, English ov.\nei\noi\nui\nand these without imparting to the Avâr the softness which characterises the Othmanli and the Persian, save it from the crudeness of the Turkumân.\n\tTaking the Alef as the block letter:\n\t\tthe a is represented اَ\n\t\tthe e and i اِ\n\t\tthe o and u اُ\n\tThe ٘◌٘ over a consonant tells you that it has no vowel belonging to it. The ّ  Tashdid — that it is doubled.\n\tThe terminal {ࢱ} or {ى}, should the preceding vowel be an {} or an {}, an a or an a or an e or i, become au, and {}.\n\tIn the beginning, or in the intermediate syllables, in similar circumstances, the {ࢱ} is usually a v, and the {ى} a y."
+}

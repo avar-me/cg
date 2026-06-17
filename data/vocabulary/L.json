@@ -1,0 +1,505 @@
+{
+  "letter": "L",
+  "entries": [
+    {
+      "english": "Labourer",
+      "english_full": "Labourer",
+      "type": null,
+      "avar": "vit̲l̲aru khan",
+      "arabic": "وِتْلَرو خان",
+      "page": 11
+    },
+    {
+      "english": "Ladle",
+      "english_full": "Ladle, v.",
+      "type": "verb",
+      "avar": "žizi",
+      "arabic": "ژِزی",
+      "page": 11
+    },
+    {
+      "english": "Lake",
+      "english_full": "Lake",
+      "type": null,
+      "avar": "ḥor",
+      "arabic": "هُر",
+      "page": 11
+    },
+    {
+      "english": "Lamb",
+      "english_full": "Lamb",
+      "type": null,
+      "avar": "t̲l̲er",
+      "arabic": "تلِر",
+      "page": 11
+    },
+    {
+      "english": "Large",
+      "english_full": "Large",
+      "type": null,
+      "avar": "big, gudiyuv",
+      "arabic": "گُودیوُ",
+      "page": 11
+    },
+    {
+      "english": "Late",
+      "english_full": "Late",
+      "type": null,
+      "avar": "nakhkha, kvatun",
+      "arabic": "نَخخ، کُواتوم",
+      "page": 11
+    },
+    {
+      "english": "Laugh",
+      "english_full": "Laugh, v.",
+      "type": "verb",
+      "avar": "vit̲l̲izi",
+      "arabic": "وِتلیزی",
+      "page": 11
+    },
+    {
+      "english": "Lazy",
+      "english_full": "Lazy",
+      "type": null,
+      "avar": "ántau",
+      "arabic": "آنتو",
+      "page": 11
+    },
+    {
+      "english": "Lead (metal)",
+      "english_full": "Lead (metal), s.",
+      "type": "substantive",
+      "avar": "ṭogi",
+      "arabic": "تُگی",
+      "page": 11,
+      "note": "metal"
+    },
+    {
+      "english": "Leaf (of tree)",
+      "english_full": "Leaf (of tree)",
+      "type": null,
+      "avar": "ṭamagh",
+      "arabic": "تَمَغ",
+      "page": 11,
+      "note": "of tree"
+    },
+    {
+      "english": "Learn",
+      "english_full": "Learn, v.",
+      "type": "verb",
+      "avar": "žaldizī",
+      "arabic": "زَلایزی",
+      "page": 11
+    },
+    {
+      "english": "Leather",
+      "english_full": "Leather",
+      "type": null,
+      "avar": "naḳai",
+      "arabic": "نَکای",
+      "page": 11
+    },
+    {
+      "english": "Leather strap",
+      "english_full": "Leather strap",
+      "type": null,
+      "avar": "arš",
+      "arabic": "اَرس",
+      "page": 11
+    },
+    {
+      "english": "Leech",
+      "english_full": "Leech",
+      "type": null,
+      "avar": "gvirinj, užruḳ",
+      "arabic": "گوِیرینج، اُژروک",
+      "page": 11
+    },
+    {
+      "english": "Left—to the",
+      "english_full": "Left—to the",
+      "type": null,
+      "avar": "kaábrakh, kvababrakh",
+      "arabic": "کآبرخ، کُوابَبرخ",
+      "page": 11
+    },
+    {
+      "english": "Less",
+      "english_full": "Less",
+      "type": null,
+      "avar": "kamurab",
+      "arabic": "کَمورَب",
+      "page": 11
+    },
+    {
+      "english": "Letter, alphabet",
+      "english_full": "Letter, alphabet",
+      "type": null,
+      "avar": "ḥarfa",
+      "arabic": "هَرف",
+      "page": 11
+    },
+    {
+      "english": "Letter",
+      "english_full": "Letter",
+      "type": null,
+      "avar": "epist̲l̲e, kaḳat",
+      "arabic": "کَکَت",
+      "page": 11
+    },
+    {
+      "english": "Lick",
+      "english_full": "Lick, v.",
+      "type": "verb",
+      "avar": "čigizi",
+      "arabic": "چِگیزی",
+      "page": 11
+    },
+    {
+      "english": "Lip",
+      "english_full": "Lip",
+      "type": null,
+      "avar": "guvin",
+      "arabic": "گووین",
+      "page": 11
+    },
+    {
+      "english": "Lie",
+      "english_full": "Lie, s.",
+      "type": "substantive",
+      "avar": "hereṣi",
+      "arabic": "هِرِسی",
+      "page": 11
+    },
+    {
+      "english": "Lie (to tell a lie)",
+      "english_full": "Lie (to tell a lie), v.",
+      "type": "verb",
+      "avar": "hereṣi bitzizi",
+      "arabic": "هِرِسی بیتزیزی",
+      "page": 11,
+      "note": "to tell a lie"
+    },
+    {
+      "english": "Lie (to lie down)",
+      "english_full": "Lie (to lie down), v.",
+      "type": "verb",
+      "avar": "vegezi",
+      "arabic": "وَگیزی",
+      "page": 11,
+      "note": "to lie down"
+    },
+    {
+      "english": "Life",
+      "english_full": "Life",
+      "type": null,
+      "avar": "úrmi",
+      "arabic": "اُرمی",
+      "page": 11
+    },
+    {
+      "english": "Light",
+      "english_full": "Light, adj.",
+      "type": "adjective",
+      "avar": "ṭadahab, ṭuṭab",
+      "arabic": "تَدَهَب، تُتَب",
+      "page": 11
+    },
+    {
+      "english": "Light",
+      "english_full": "Light, v.",
+      "type": "verb",
+      "avar": "žaghizi",
+      "arabic": "ژَغیزی",
+      "page": 11
+    },
+    {
+      "english": "Light",
+      "english_full": "Light, s.",
+      "type": "substantive",
+      "avar": "kant̲l̲i",
+      "arabic": "کَنتلی",
+      "page": 11
+    },
+    {
+      "english": "Lightens (it)",
+      "english_full": "Lightens (it), v.",
+      "type": "verb",
+      "avar": "piripirikhi",
+      "arabic": "پیریپیرخی",
+      "page": 11,
+      "note": "it"
+    },
+    {
+      "english": "Lightning",
+      "english_full": "Lightning, s.",
+      "type": "substantive",
+      "avar": "piri",
+      "arabic": "پیری",
+      "page": 11
+    },
+    {
+      "english": "Lime",
+      "english_full": "Lime",
+      "type": null,
+      "avar": "gag",
+      "arabic": "گَگ",
+      "page": 11
+    },
+    {
+      "english": "Lime tree",
+      "english_full": "Lime tree",
+      "type": null,
+      "avar": "ḥad",
+      "arabic": "هَد",
+      "page": 11
+    },
+    {
+      "english": "Limp",
+      "english_full": "Limp, v.",
+      "type": "verb",
+      "avar": "reḳt̲l̲izi",
+      "arabic": "رَکتلیزی",
+      "page": 11
+    },
+    {
+      "english": "Linen",
+      "english_full": "Linen",
+      "type": null,
+      "avar": "ḥebet",
+      "arabic": "هِبت",
+      "page": 11
+    },
+    {
+      "english": "Lion",
+      "english_full": "Lion",
+      "type": null,
+      "avar": "ghalbaž",
+      "arabic": "غَلبَژ",
+      "page": 11
+    },
+    {
+      "english": "Lioness",
+      "english_full": "Lioness",
+      "type": null,
+      "avar": "áridah",
+      "arabic": "آریده",
+      "page": 11
+    },
+    {
+      "english": "Lip",
+      "english_full": "Lip",
+      "type": null,
+      "avar": "guvet",
+      "arabic": "گووِت",
+      "page": 11
+    },
+    {
+      "english": "Liquid",
+      "english_full": "Liquid",
+      "type": null,
+      "avar": "t̲l̲amayab",
+      "arabic": "تَلمَیَب",
+      "page": 11
+    },
+    {
+      "english": "Listen",
+      "english_full": "Listen, v.",
+      "type": "verb",
+      "avar": "ánikizi",
+      "arabic": "آنیکیزی",
+      "page": 11
+    },
+    {
+      "english": "Little (a)",
+      "english_full": "Little (a), s.",
+      "type": "substantive",
+      "avar": "dahab, hitin",
+      "arabic": "دَهَب، هِتین",
+      "page": 11,
+      "note": "a"
+    },
+    {
+      "english": "Little",
+      "english_full": "Little, adj.",
+      "type": "adjective",
+      "avar": "hitinau",
+      "arabic": "هِتینو",
+      "page": 12
+    },
+    {
+      "english": "Live",
+      "english_full": "Live, v.",
+      "type": "verb",
+      "avar": "khizi",
+      "arabic": "خِزی",
+      "page": 12
+    },
+    {
+      "english": "Lizard",
+      "english_full": "Lizard",
+      "type": null,
+      "avar": "čarghedu, čutuk",
+      "arabic": "چَرغِدو، چوتوک",
+      "page": 12
+    },
+    {
+      "english": "Load",
+      "english_full": "Load, s.",
+      "type": "substantive",
+      "avar": "her",
+      "arabic": "هِر",
+      "page": 12
+    },
+    {
+      "english": "Load, (an animal)",
+      "english_full": "Load, v. (an animal)",
+      "type": "verb",
+      "avar": "hert̲l̲izi",
+      "arabic": "هِرتلیزی",
+      "page": 12
+    },
+    {
+      "english": "Load, (a gun)",
+      "english_full": "Load, v. (a gun)",
+      "type": "verb",
+      "avar": "žezi",
+      "arabic": "زِزی",
+      "page": 12
+    },
+    {
+      "english": "Lock (of door)",
+      "english_full": "Lock (of door)",
+      "type": null,
+      "avar": "gulal",
+      "arabic": "گولَل",
+      "page": 12,
+      "note": "of door"
+    },
+    {
+      "english": "Locksmith",
+      "english_full": "Locksmith",
+      "type": null,
+      "avar": "maḥul ḳibid",
+      "arabic": "مَهُل کِبید",
+      "page": 12
+    },
+    {
+      "english": "Long",
+      "english_full": "Long",
+      "type": null,
+      "avar": "khalatau",
+      "arabic": "خَلاتو",
+      "page": 12
+    },
+    {
+      "english": "Long ago",
+      "english_full": "Long ago",
+      "type": null,
+      "avar": "ṣebego",
+      "arabic": "سِبِگو",
+      "page": 12
+    },
+    {
+      "english": "Long time (a)",
+      "english_full": "Long time (a), s.",
+      "type": "substantive",
+      "avar": "ámer mikh",
+      "arabic": "آمِر میخ",
+      "page": 12,
+      "note": "a"
+    },
+    {
+      "english": "Loop",
+      "english_full": "Loop",
+      "type": null,
+      "avar": "noose, lasso, gilgilč",
+      "arabic": "گِیلگیل",
+      "page": 12
+    },
+    {
+      "english": "Lord, (head khan), master",
+      "english_full": "Lord, (head khan), master",
+      "type": null,
+      "avar": "beṭer khan",
+      "arabic": "بِتِر خان",
+      "page": 12
+    },
+    {
+      "english": "Lose",
+      "english_full": "Lose, v.",
+      "type": "verb",
+      "avar": "bilizi, bortizi",
+      "arabic": "بیلیزی، بُورتیزی",
+      "page": 12
+    },
+    {
+      "english": "Lot (destiny)",
+      "english_full": "Lot (destiny)",
+      "type": null,
+      "avar": "mojoro",
+      "arabic": "مُجُر",
+      "page": 12,
+      "note": "destiny"
+    },
+    {
+      "english": "Love",
+      "english_full": "Love, s.",
+      "type": "substantive",
+      "avar": "rot̲l̲i, bot̲l̲i",
+      "arabic": "رُیلی، بُوتی",
+      "page": 12
+    },
+    {
+      "english": "Love",
+      "english_full": "Love, v.",
+      "type": "verb",
+      "avar": "bot̲l̲izi",
+      "arabic": "بُوتلیزی",
+      "page": 12
+    },
+    {
+      "english": "Love (to fall in love)",
+      "english_full": "Love (to fall in love)",
+      "type": null,
+      "avar": "vit̲l̲izi",
+      "arabic": "وِتلیزی",
+      "page": 12,
+      "note": "to fall in love"
+    },
+    {
+      "english": "Louse",
+      "english_full": "Louse",
+      "type": null,
+      "avar": "naz",
+      "arabic": "نَز",
+      "page": 12
+    },
+    {
+      "english": "Low",
+      "english_full": "Low",
+      "type": null,
+      "avar": "ukhab",
+      "arabic": "اوخَب",
+      "page": 12
+    },
+    {
+      "english": "Luka (peak of a Tatar saddle, fore or aft)",
+      "english_full": "Luka (peak of a Tatar saddle, fore or aft)",
+      "type": null,
+      "avar": "t̲l̲ulul beṭer",
+      "arabic": "تلوُل بِتِر",
+      "page": 12,
+      "note": "peak of a Tatar saddle, fore or aft"
+    },
+    {
+      "english": "Lung",
+      "english_full": "Lung",
+      "type": null,
+      "avar": "huver",
+      "arabic": "هورِر",
+      "page": 12
+    }
+  ],
+  "count": 61
+}

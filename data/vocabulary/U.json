@@ -1,0 +1,38 @@
+{
+  "letter": "U",
+  "entries": [
+    {
+      "english": "Undress",
+      "english_full": "Undress, v.",
+      "type": "verb",
+      "avar": "partal bakhizi",
+      "arabic": "پَرتیَل بخیزی",
+      "page": 21
+    },
+    {
+      "english": "Universe",
+      "english_full": "Universe",
+      "type": null,
+      "avar": "dunyal",
+      "arabic": "دنیال",
+      "page": 21
+    },
+    {
+      "english": "Unripe",
+      "english_full": "Unripe",
+      "type": null,
+      "avar": "baršičib",
+      "arabic": "بَرشیچِب",
+      "page": 21
+    },
+    {
+      "english": "Untie",
+      "english_full": "Untie, v.",
+      "type": "verb",
+      "avar": "bečizi",
+      "arabic": "بیچیزی",
+      "page": 21
+    }
+  ],
+  "count": 4
+}

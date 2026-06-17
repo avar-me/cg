@@ -1,0 +1,538 @@
+{
+  "letter": "T",
+  "entries": [
+    {
+      "english": "Table",
+      "english_full": "Table",
+      "type": null,
+      "avar": "tepsi",
+      "arabic": "تِپسی",
+      "page": 20
+    },
+    {
+      "english": "Tail",
+      "english_full": "Tail",
+      "type": null,
+      "avar": "rač",
+      "arabic": "رَچ",
+      "page": 20
+    },
+    {
+      "english": "Tailor",
+      "english_full": "Tailor",
+      "type": null,
+      "avar": "partal biḳilivči",
+      "arabic": "پَرتیَل، بیکیلوچی",
+      "page": 20
+    },
+    {
+      "english": "Take out",
+      "english_full": "Take out, v.",
+      "type": "verb",
+      "avar": "bakhkhizi",
+      "arabic": "بخخیزی",
+      "page": 20
+    },
+    {
+      "english": "Tallow",
+      "english_full": "Tallow",
+      "type": null,
+      "avar": "nakh",
+      "arabic": "نَخ آهن",
+      "page": 20
+    },
+    {
+      "english": "Taste",
+      "english_full": "Taste, s.",
+      "type": "substantive",
+      "avar": "ṭaám",
+      "arabic": "تَعام",
+      "page": 20
+    },
+    {
+      "english": "Teacher",
+      "english_full": "Teacher",
+      "type": null,
+      "avar": "ustar",
+      "arabic": "اُستر",
+      "page": 20
+    },
+    {
+      "english": "Tear",
+      "english_full": "Tear, s.",
+      "type": "substantive",
+      "avar": "maá",
+      "arabic": "مآ",
+      "page": 20
+    },
+    {
+      "english": "Tell",
+      "english_full": "Tell, v.",
+      "type": "verb",
+      "avar": "bitzizi, abizi",
+      "arabic": "بیتزیزی، ابیزی",
+      "page": 20
+    },
+    {
+      "english": "Tent",
+      "english_full": "Tent",
+      "type": null,
+      "avar": "čadir",
+      "arabic": "چَدر",
+      "page": 20
+    },
+    {
+      "english": "Thank",
+      "english_full": "Thank, v.",
+      "type": "verb",
+      "avar": "raḍit̲l̲izi",
+      "arabic": "رَدیتلیزی",
+      "page": 20
+    },
+    {
+      "english": "Thaw",
+      "english_full": "Thaw, v.",
+      "type": "verb",
+      "avar": "šobizi",
+      "arabic": "شُوبیزی",
+      "page": 20
+    },
+    {
+      "english": "Theft",
+      "english_full": "Theft",
+      "type": null,
+      "avar": "žoh biḳi",
+      "arabic": "ژُه بیگی",
+      "page": 20
+    },
+    {
+      "english": "Then",
+      "english_full": "Then",
+      "type": null,
+      "avar": "domikhkhat̲l̲",
+      "arabic": "دُمیخخَتْل",
+      "page": 20
+    },
+    {
+      "english": "Thence",
+      "english_full": "Thence",
+      "type": null,
+      "avar": "duvaṣan",
+      "arabic": "دُووسَن",
+      "page": 20
+    },
+    {
+      "english": "There, thither",
+      "english_full": "There, thither",
+      "type": null,
+      "avar": "dova",
+      "arabic": "دُوَد",
+      "page": 20
+    },
+    {
+      "english": "Thief",
+      "english_full": "Thief",
+      "type": null,
+      "avar": "žohor",
+      "arabic": "ژُهُر",
+      "page": 20
+    },
+    {
+      "english": "Thick",
+      "english_full": "Thick",
+      "type": null,
+      "avar": "biḳuyab, buṣṣatab",
+      "arabic": "بیکویَب، بُصَتَب",
+      "page": 20
+    },
+    {
+      "english": "Thin",
+      "english_full": "Thin",
+      "type": null,
+      "avar": "ḥalaḳ",
+      "arabic": "هَلَک",
+      "page": 20
+    },
+    {
+      "english": "Thing",
+      "english_full": "Thing",
+      "type": null,
+      "avar": "jo, ju, žo",
+      "arabic": "جُو، جُو",
+      "page": 20
+    },
+    {
+      "english": "This",
+      "english_full": "This",
+      "type": null,
+      "avar": "that, m. hau",
+      "arabic": "هو",
+      "page": 20
+    },
+    {
+      "english": "This",
+      "english_full": "This",
+      "type": null,
+      "avar": "that, f. hai",
+      "arabic": "های",
+      "page": 20
+    },
+    {
+      "english": "Think",
+      "english_full": "Think, v.",
+      "type": "verb",
+      "avar": "urghizi",
+      "arabic": "اورغیزی",
+      "page": 20
+    },
+    {
+      "english": "Thirst",
+      "english_full": "Thirst, v.",
+      "type": "verb",
+      "avar": "ḳečizi",
+      "arabic": "کِچیزی",
+      "page": 20
+    },
+    {
+      "english": "Thou",
+      "english_full": "Thou",
+      "type": null,
+      "avar": "mon",
+      "arabic": "مون",
+      "page": 20
+    },
+    {
+      "english": "Thought, care",
+      "english_full": "Thought, care",
+      "type": null,
+      "avar": "urghi",
+      "arabic": "اورغی",
+      "page": 20
+    },
+    {
+      "english": "Thread",
+      "english_full": "Thread",
+      "type": null,
+      "avar": "kon",
+      "arabic": "کون",
+      "page": 20
+    },
+    {
+      "english": "Throat",
+      "english_full": "Throat",
+      "type": null,
+      "avar": "šeḳir",
+      "arabic": "شِکیر",
+      "page": 20
+    },
+    {
+      "english": "Throw",
+      "english_full": "Throw, v.",
+      "type": "verb",
+      "avar": "rikhizi",
+      "arabic": "ریخیزی",
+      "page": 20
+    },
+    {
+      "english": "Thunder",
+      "english_full": "Thunder, s.",
+      "type": "substantive",
+      "avar": "ghaghai",
+      "arabic": "غَغای",
+      "page": 20
+    },
+    {
+      "english": "Thunders (it)",
+      "english_full": "Thunders (it)",
+      "type": null,
+      "avar": "žoi ghaghadul",
+      "arabic": "ژُعی غَغَدُل",
+      "page": 20,
+      "note": "it"
+    },
+    {
+      "english": "Thursday",
+      "english_full": "Thursday",
+      "type": null,
+      "avar": "khamiz ḳo",
+      "arabic": "خَمیز کو",
+      "page": 20
+    },
+    {
+      "english": "Tickle",
+      "english_full": "Tickle, v.",
+      "type": "verb",
+      "avar": "gidizi",
+      "arabic": "گیدیزی",
+      "page": 20
+    },
+    {
+      "english": "Tidings",
+      "english_full": "Tidings",
+      "type": null,
+      "avar": "khaber",
+      "arabic": "خَبِر",
+      "page": 20
+    },
+    {
+      "english": "Time",
+      "english_full": "Time",
+      "type": null,
+      "avar": "mij",
+      "arabic": "میج",
+      "page": 20
+    },
+    {
+      "english": "Tinder",
+      "english_full": "Tinder",
+      "type": null,
+      "avar": "ṣat̲l̲",
+      "arabic": "صَتْل",
+      "page": 20
+    },
+    {
+      "english": "To, as far as, towards, until",
+      "english_full": "To, as far as, towards, until",
+      "type": null,
+      "avar": "aṣgur",
+      "arabic": "اسگو",
+      "page": 20
+    },
+    {
+      "english": "Tobacco",
+      "english_full": "Tobacco",
+      "type": null,
+      "avar": "tamako",
+      "arabic": "تَمکو",
+      "page": 20
+    },
+    {
+      "english": "To-day",
+      "english_full": "To-day",
+      "type": null,
+      "avar": "jaḳa",
+      "arabic": "جَک",
+      "page": 20
+    },
+    {
+      "english": "Together",
+      "english_full": "Together",
+      "type": null,
+      "avar": "ṣadakh",
+      "arabic": "سَدَخ",
+      "page": 20
+    },
+    {
+      "english": "Tomb",
+      "english_full": "Tomb",
+      "type": null,
+      "avar": "ḥobo",
+      "arabic": "هُبو",
+      "page": 20
+    },
+    {
+      "english": "Tombstone (monument)",
+      "english_full": "Tombstone (monument)",
+      "type": null,
+      "avar": "aras",
+      "arabic": "اَرَس",
+      "page": 20,
+      "note": "monument"
+    },
+    {
+      "english": "To-morrow",
+      "english_full": "To-morrow",
+      "type": null,
+      "avar": "metr",
+      "arabic": "مِتر، میسدای",
+      "page": 20
+    },
+    {
+      "english": "To-morrow",
+      "english_full": "To-morrow",
+      "type": null,
+      "avar": "day after tomorrow, misdi",
+      "arabic": "مِتر، میسدای",
+      "page": 20
+    },
+    {
+      "english": "Tongue",
+      "english_full": "Tongue",
+      "type": null,
+      "avar": "maž",
+      "arabic": "مَز",
+      "page": 20
+    },
+    {
+      "english": "Tooth",
+      "english_full": "Tooth",
+      "type": null,
+      "avar": "tzai",
+      "arabic": "تزوی",
+      "page": 20
+    },
+    {
+      "english": "Torment, torture",
+      "english_full": "Torment, torture, v.",
+      "type": "verb",
+      "avar": "ákubat̲l̲izi",
+      "arabic": "اَکوبَتلیزی",
+      "page": 20
+    },
+    {
+      "english": "Tortoise",
+      "english_full": "Tortoise",
+      "type": null,
+      "avar": "žilik̰werk̰",
+      "arabic": "ژِلیکُور",
+      "page": 21
+    },
+    {
+      "english": "Touch-hole",
+      "english_full": "Touch-hole",
+      "type": null,
+      "avar": "rasa",
+      "arabic": "رَسی",
+      "page": 21
+    },
+    {
+      "english": "Towards",
+      "english_full": "Towards",
+      "type": null,
+      "avar": "aṣgur",
+      "arabic": "اسگور",
+      "page": 21
+    },
+    {
+      "english": "Tower",
+      "english_full": "Tower",
+      "type": null,
+      "avar": "thi",
+      "arabic": "تِهی",
+      "page": 21
+    },
+    {
+      "english": "Town",
+      "english_full": "Town",
+      "type": null,
+      "avar": "šaher",
+      "arabic": "سَهِر",
+      "page": 21
+    },
+    {
+      "english": "Trade",
+      "english_full": "Trade, v.",
+      "type": "verb",
+      "avar": "daran habizi",
+      "arabic": "دارَن هابزی",
+      "page": 21
+    },
+    {
+      "english": "Trap",
+      "english_full": "Trap",
+      "type": null,
+      "avar": "snare, hen",
+      "arabic": "هِن",
+      "page": 21
+    },
+    {
+      "english": "Traitor",
+      "english_full": "Traitor",
+      "type": null,
+      "avar": "lamartavci",
+      "arabic": "لَمَرتَوچی",
+      "page": 21
+    },
+    {
+      "english": "Treason",
+      "english_full": "Treason",
+      "type": null,
+      "avar": "lamart̲l̲i",
+      "arabic": "لَمَرتلی",
+      "page": 21
+    },
+    {
+      "english": "Treat, cure",
+      "english_full": "Treat, cure, v.",
+      "type": "verb",
+      "avar": "daru habizi",
+      "arabic": "دارو هابزی",
+      "page": 21
+    },
+    {
+      "english": "Tree",
+      "english_full": "Tree",
+      "type": null,
+      "avar": "ghoveit",
+      "arabic": "غُوِیت",
+      "page": 21
+    },
+    {
+      "english": "Tremble",
+      "english_full": "Tremble, v.",
+      "type": "verb",
+      "avar": "sorozi",
+      "arabic": "سُرُزی",
+      "page": 21
+    },
+    {
+      "english": "Tresses of hair",
+      "english_full": "Tresses of hair",
+      "type": null,
+      "avar": "šagal",
+      "arabic": "سَگَل",
+      "page": 21
+    },
+    {
+      "english": "Tribe",
+      "english_full": "Tribe",
+      "type": null,
+      "avar": "tokhon",
+      "arabic": "تُخُون",
+      "page": 21
+    },
+    {
+      "english": "Tribute, tax",
+      "english_full": "Tribute, tax",
+      "type": null,
+      "avar": "ága",
+      "arabic": "آگ",
+      "page": 21
+    },
+    {
+      "english": "Trousers (Eastern)",
+      "english_full": "Trousers (Eastern)",
+      "type": null,
+      "avar": "šarbal",
+      "arabic": "سَربَل",
+      "page": 21,
+      "note": "Eastern"
+    },
+    {
+      "english": "Tuesday",
+      "english_full": "Tuesday",
+      "type": null,
+      "avar": "Thalat ḳo",
+      "arabic": "ثَلَت کو",
+      "page": 21
+    },
+    {
+      "english": "Turkey (bird)",
+      "english_full": "Turkey (bird)",
+      "type": null,
+      "avar": "gurgurángo",
+      "arabic": "گورگورانگو",
+      "page": 21,
+      "note": "bird"
+    },
+    {
+      "english": "Twin",
+      "english_full": "Twin",
+      "type": null,
+      "avar": "gigo harural",
+      "arabic": "گیگو هَرورَل",
+      "page": 21
+    }
+  ],
+  "count": 66
+}

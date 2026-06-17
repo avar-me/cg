@@ -1,0 +1,223 @@
+{
+  "letter": "O",
+  "entries": [
+    {
+      "english": "Out",
+      "english_full": "Out, v.a.",
+      "type": "verb active",
+      "avar": "ḳoṭizi",
+      "arabic": "کُتیزی",
+      "page": 5
+    },
+    {
+      "english": "Oak",
+      "english_full": "Oak",
+      "type": null,
+      "avar": "mikk",
+      "arabic": "میکّ",
+      "page": 14
+    },
+    {
+      "english": "Oat",
+      "english_full": "Oat",
+      "type": null,
+      "avar": "nekha",
+      "arabic": "نِخ",
+      "page": 14
+    },
+    {
+      "english": "Oath",
+      "english_full": "Oath",
+      "type": null,
+      "avar": "hedi",
+      "arabic": "هِدی",
+      "page": 14
+    },
+    {
+      "english": "Obstacle",
+      "english_full": "Obstacle",
+      "type": null,
+      "avar": "khoṭana",
+      "arabic": "خُتَن",
+      "page": 14
+    },
+    {
+      "english": "Occiput (nape)",
+      "english_full": "Occiput (nape)",
+      "type": null,
+      "avar": "gavinša gargas",
+      "arabic": "گَوینسا گَرگَس",
+      "page": 14,
+      "note": "nape"
+    },
+    {
+      "english": "Of",
+      "english_full": "Of",
+      "type": null,
+      "avar": "about, ṣot̲l̲",
+      "arabic": "سُعیل",
+      "page": 14
+    },
+    {
+      "english": "Offend",
+      "english_full": "Offend, v.",
+      "type": "verb",
+      "avar": "basra habizi",
+      "arabic": "بَسر هابزی",
+      "page": 14
+    },
+    {
+      "english": "Often",
+      "english_full": "Often",
+      "type": null,
+      "avar": "kheko kheko",
+      "arabic": "خِکو خِکو",
+      "page": 14
+    },
+    {
+      "english": "Oh !",
+      "english_full": "Oh !",
+      "type": null,
+      "avar": "eh !",
+      "arabic": "لِ",
+      "page": 14
+    },
+    {
+      "english": "Oil, butter",
+      "english_full": "Oil, butter",
+      "type": null,
+      "avar": "nakh",
+      "arabic": "نَخ",
+      "page": 14
+    },
+    {
+      "english": "Old age",
+      "english_full": "Old age",
+      "type": null,
+      "avar": "khert̲l̲i",
+      "arabic": "خِرتلی",
+      "page": 14
+    },
+    {
+      "english": "Old man",
+      "english_full": "Old man",
+      "type": null,
+      "avar": "khirau",
+      "arabic": "خیرو",
+      "page": 14
+    },
+    {
+      "english": "Old woman",
+      "english_full": "Old woman",
+      "type": null,
+      "avar": "khirai",
+      "arabic": "خیرای",
+      "page": 14
+    },
+    {
+      "english": "On, upon",
+      "english_full": "On, upon",
+      "type": null,
+      "avar": "ṭa",
+      "arabic": "تَ",
+      "page": 14
+    },
+    {
+      "english": "Onion",
+      "english_full": "Onion",
+      "type": null,
+      "avar": "fer",
+      "arabic": "فِر",
+      "page": 14
+    },
+    {
+      "english": "Only",
+      "english_full": "Only",
+      "type": null,
+      "avar": "hadint̲l̲u",
+      "arabic": "هَدِنتلو",
+      "page": 14
+    },
+    {
+      "english": "Open",
+      "english_full": "Open, v.",
+      "type": "verb",
+      "avar": "rahazi",
+      "arabic": "رَهازی",
+      "page": 14
+    },
+    {
+      "english": "Opinion",
+      "english_full": "Opinion",
+      "type": null,
+      "avar": "khiyal",
+      "arabic": "خیَال",
+      "page": 14
+    },
+    {
+      "english": "Or",
+      "english_full": "Or",
+      "type": null,
+      "avar": "š",
+      "arabic": "ش",
+      "page": 14
+    },
+    {
+      "english": "Orphan",
+      "english_full": "Orphan",
+      "type": null,
+      "avar": "beṣdalau",
+      "arabic": "بِگدَلو",
+      "page": 14
+    },
+    {
+      "english": "Osier",
+      "english_full": "Osier",
+      "type": null,
+      "avar": "moži",
+      "arabic": "مُژی",
+      "page": 14
+    },
+    {
+      "english": "Our",
+      "english_full": "Our",
+      "type": null,
+      "avar": "nijir",
+      "arabic": "نیجِت",
+      "page": 14
+    },
+    {
+      "english": "Out of",
+      "english_full": "Out of",
+      "type": null,
+      "avar": "khan, t̲l̲an",
+      "arabic": "خان، تَلَن",
+      "page": 14
+    },
+    {
+      "english": "Over, through, across",
+      "english_full": "Over, through, across",
+      "type": null,
+      "avar": "daṣṣan",
+      "arabic": "دَسَن",
+      "page": 14
+    },
+    {
+      "english": "Owl",
+      "english_full": "Owl",
+      "type": null,
+      "avar": "roz",
+      "arabic": "رُز",
+      "page": 14
+    },
+    {
+      "english": "Ox",
+      "english_full": "Ox",
+      "type": null,
+      "avar": "oth",
+      "arabic": "اُت",
+      "page": 14
+    }
+  ],
+  "count": 27
+}

@@ -1,0 +1,499 @@
+{
+  "letter": "H",
+  "entries": [
+    {
+      "english": "Husband's, wife's brother",
+      "english_full": "Husband's, wife's brother",
+      "type": null,
+      "avar": "čujuyat̲l̲ul vas",
+      "arabic": "وس",
+      "page": 3
+    },
+    {
+      "english": "Habit",
+      "english_full": "Habit",
+      "type": null,
+      "avar": "ámal ṭablit",
+      "arabic": "آمل ربّیت",
+      "page": 9
+    },
+    {
+      "english": "Hair",
+      "english_full": "Hair",
+      "type": null,
+      "avar": "ras",
+      "arabic": "رس",
+      "page": 9
+    },
+    {
+      "english": "Half",
+      "english_full": "Half",
+      "type": null,
+      "avar": "bašdab",
+      "arabic": "بَشدَب",
+      "page": 9
+    },
+    {
+      "english": "Halter (horse-gear)",
+      "english_full": "Halter (horse-gear)",
+      "type": null,
+      "avar": "čulur ču",
+      "arabic": "هَلتر",
+      "page": 9,
+      "note": "horse-gear"
+    },
+    {
+      "english": "Hammer",
+      "english_full": "Hammer",
+      "type": null,
+      "avar": "kuvarta",
+      "arabic": "کُوَرتا",
+      "page": 9
+    },
+    {
+      "english": "Hand",
+      "english_full": "Hand",
+      "type": null,
+      "avar": "nej kver",
+      "arabic": "نِج کُور",
+      "page": 9
+    },
+    {
+      "english": "Handkerchief",
+      "english_full": "Handkerchief",
+      "type": null,
+      "avar": "kverbaž gaz",
+      "arabic": "هَنکِرف",
+      "page": 9
+    },
+    {
+      "english": "Handle (hilt)",
+      "english_full": "Handle (hilt)",
+      "type": null,
+      "avar": "ṭaghi",
+      "arabic": "تَغی",
+      "page": 9,
+      "note": "hilt"
+    },
+    {
+      "english": "Happiness",
+      "english_full": "Happiness",
+      "type": null,
+      "avar": "talî",
+      "arabic": "تَل",
+      "page": 9
+    },
+    {
+      "english": "Happy",
+      "english_full": "Happy",
+      "type": null,
+      "avar": "taligh bugivci",
+      "arabic": "تَلِغ، بوگیوِل",
+      "page": 9
+    },
+    {
+      "english": "Hare",
+      "english_full": "Hare",
+      "type": null,
+      "avar": "anḳ",
+      "arabic": "انک",
+      "page": 9
+    },
+    {
+      "english": "Harvest",
+      "english_full": "Harvest",
+      "type": null,
+      "avar": "t̲l̲it̲l̲ari",
+      "arabic": "تِیتِلری",
+      "page": 9
+    },
+    {
+      "english": "Have",
+      "english_full": "Have, v.",
+      "type": "verb",
+      "avar": "bogit̲l̲i",
+      "arabic": "بُگِلّی",
+      "page": 9
+    },
+    {
+      "english": "Hay",
+      "english_full": "Hay",
+      "type": null,
+      "avar": "kher",
+      "arabic": "خِر",
+      "page": 9
+    },
+    {
+      "english": "He, She, It",
+      "english_full": "He, She, It",
+      "type": null,
+      "avar": "du, dî, dub",
+      "arabic": "دو، دی، دُب",
+      "page": 9
+    },
+    {
+      "english": "Head",
+      "english_full": "Head",
+      "type": null,
+      "avar": "beṭer, áda",
+      "arabic": "بِتِر، ادا",
+      "page": 9
+    },
+    {
+      "english": "Healthy",
+      "english_full": "Healthy",
+      "type": null,
+      "avar": "untičib",
+      "arabic": "اونیتیچِب",
+      "page": 9
+    },
+    {
+      "english": "Heap",
+      "english_full": "Heap, v.",
+      "type": "verb",
+      "avar": "bagarizi",
+      "arabic": "بَگریزی",
+      "page": 9
+    },
+    {
+      "english": "Hear",
+      "english_full": "Hear, v.",
+      "type": "verb",
+      "avar": "raízi",
+      "arabic": "رایزی",
+      "page": 9
+    },
+    {
+      "english": "Heart",
+      "english_full": "Heart",
+      "type": null,
+      "avar": "rag",
+      "arabic": "رگ",
+      "page": 9
+    },
+    {
+      "english": "Heat",
+      "english_full": "Heat",
+      "type": null,
+      "avar": "khant̲l̲i",
+      "arabic": "خَمیلی",
+      "page": 9
+    },
+    {
+      "english": "Heaven",
+      "english_full": "Heaven",
+      "type": null,
+      "avar": "žob",
+      "arabic": "ژُب",
+      "page": 9
+    },
+    {
+      "english": "Heavy",
+      "english_full": "Heavy",
+      "type": null,
+      "avar": "bagab",
+      "arabic": "بَگَب",
+      "page": 9
+    },
+    {
+      "english": "Heir",
+      "english_full": "Heir",
+      "type": null,
+      "avar": "ratat̲l̲ilau",
+      "arabic": "رَتَتِلّو",
+      "page": 9
+    },
+    {
+      "english": "Hell",
+      "english_full": "Hell",
+      "type": null,
+      "avar": "jojaḥ",
+      "arabic": "جُجَه",
+      "page": 9
+    },
+    {
+      "english": "Hen",
+      "english_full": "Hen",
+      "type": null,
+      "avar": "ángo",
+      "arabic": "آنگو",
+      "page": 9
+    },
+    {
+      "english": "Hence",
+      "english_full": "Hence",
+      "type": null,
+      "avar": "hanaṣṣa",
+      "arabic": "هَنَسا",
+      "page": 9
+    },
+    {
+      "english": "Herb, grass",
+      "english_full": "Herb, grass",
+      "type": null,
+      "avar": "óršinai khir",
+      "arabic": "برشینای",
+      "page": 9
+    },
+    {
+      "english": "Herd",
+      "english_full": "Herd",
+      "type": null,
+      "avar": "rekhed",
+      "arabic": "رِخِد",
+      "page": 9
+    },
+    {
+      "english": "Here",
+      "english_full": "Here",
+      "type": null,
+      "avar": "hanab",
+      "arabic": "هَنَب",
+      "page": 10
+    },
+    {
+      "english": "Hiceough",
+      "english_full": "Hiceough",
+      "type": null,
+      "avar": "hagdi",
+      "arabic": "هَگدی",
+      "page": 10
+    },
+    {
+      "english": "Hide",
+      "english_full": "Hide, s.",
+      "type": "substantive",
+      "avar": "ḳekh",
+      "arabic": "عَجْر",
+      "page": 10
+    },
+    {
+      "english": "Hide",
+      "english_full": "Hide, v.",
+      "type": "verb",
+      "avar": "bekhačizī",
+      "arabic": "بَخاچیزی",
+      "page": 10
+    },
+    {
+      "english": "High",
+      "english_full": "High",
+      "type": null,
+      "avar": "borkhatau",
+      "arabic": "بُرخَتو",
+      "page": 10
+    },
+    {
+      "english": "His",
+      "english_full": "His",
+      "type": null,
+      "avar": "dasul",
+      "arabic": "دَسُل",
+      "page": 10
+    },
+    {
+      "english": "Hither",
+      "english_full": "Hither",
+      "type": null,
+      "avar": "hanab",
+      "arabic": "هَنَب",
+      "page": 10
+    },
+    {
+      "english": "Hive",
+      "english_full": "Hive",
+      "type": null,
+      "avar": "tayal, ṭal",
+      "arabic": "تَیَل، تَل",
+      "page": 10
+    },
+    {
+      "english": "Hole",
+      "english_full": "Hole",
+      "type": null,
+      "avar": "karaṭ",
+      "arabic": "کَرت",
+      "page": 10
+    },
+    {
+      "english": "Holiday",
+      "english_full": "Holiday",
+      "type": null,
+      "avar": "gal bišai",
+      "arabic": "گَل بِشای",
+      "page": 10
+    },
+    {
+      "english": "Honey",
+      "english_full": "Honey",
+      "type": null,
+      "avar": "hožo",
+      "arabic": "هُژُ",
+      "page": 10
+    },
+    {
+      "english": "Hoof",
+      "english_full": "Hoof",
+      "type": null,
+      "avar": "šengal",
+      "arabic": "شِنگَل",
+      "page": 10
+    },
+    {
+      "english": "Hook (small)",
+      "english_full": "Hook (small)",
+      "type": null,
+      "avar": "bak ghanza",
+      "arabic": "بَک غَنز",
+      "page": 10,
+      "note": "small"
+    },
+    {
+      "english": "Hope",
+      "english_full": "Hope, s.",
+      "type": "substantive",
+      "avar": "gol",
+      "arabic": "گُل",
+      "page": 10
+    },
+    {
+      "english": "Hope",
+      "english_full": "Hope, v.a.",
+      "type": "verb active",
+      "avar": "gol t̲l̲izi",
+      "arabic": "گُل تلیزی",
+      "page": 10
+    },
+    {
+      "english": "Horn (of an animal)",
+      "english_full": "Horn (of an animal)",
+      "type": null,
+      "avar": "t̲l̲ar",
+      "arabic": "اولَر",
+      "page": 10,
+      "note": "of an animal"
+    },
+    {
+      "english": "Horse",
+      "english_full": "Horse",
+      "type": null,
+      "avar": "ču",
+      "arabic": "عَجْر",
+      "page": 10
+    },
+    {
+      "english": "Horseback (on)",
+      "english_full": "Horseback (on)",
+      "type": null,
+      "avar": "rigun",
+      "arabic": "ریگون",
+      "page": 10,
+      "note": "on"
+    },
+    {
+      "english": "Horseman",
+      "english_full": "Horseman",
+      "type": null,
+      "avar": "rigarau",
+      "arabic": "ریگرو",
+      "page": 10
+    },
+    {
+      "english": "Horseshoe",
+      "english_full": "Horseshoe",
+      "type": null,
+      "avar": "ṭoḳbi",
+      "arabic": "تُکبو",
+      "page": 10
+    },
+    {
+      "english": "Hospitable",
+      "english_full": "Hospitable",
+      "type": null,
+      "avar": "hobol t̲l̲ikau",
+      "arabic": "هُبُل تِیلکو",
+      "page": 10
+    },
+    {
+      "english": "Hostage",
+      "english_full": "Hostage",
+      "type": null,
+      "avar": "mit̲l̲i",
+      "arabic": "مِتلی",
+      "page": 10
+    },
+    {
+      "english": "Hot",
+      "english_full": "Hot",
+      "type": null,
+      "avar": "buḥarrau",
+      "arabic": "بوهررو",
+      "page": 10
+    },
+    {
+      "english": "Hour",
+      "english_full": "Hour",
+      "type": null,
+      "avar": "ṣaát",
+      "arabic": "گادی",
+      "page": 10
+    },
+    {
+      "english": "House",
+      "english_full": "House",
+      "type": null,
+      "avar": "roḳ",
+      "arabic": "رُک",
+      "page": 10
+    },
+    {
+      "english": "How",
+      "english_full": "How",
+      "type": null,
+      "avar": "kin",
+      "arabic": "کین",
+      "page": 10
+    },
+    {
+      "english": "Hump",
+      "english_full": "Hump",
+      "type": null,
+      "avar": "ḳuli",
+      "arabic": "کُلی",
+      "page": 10
+    },
+    {
+      "english": "Hump-backed",
+      "english_full": "Hump-backed",
+      "type": null,
+      "avar": "ḳularau",
+      "arabic": "کولَرو",
+      "page": 10
+    },
+    {
+      "english": "Hunger",
+      "english_full": "Hunger",
+      "type": null,
+      "avar": "vaḳḳi",
+      "arabic": "وَکّی",
+      "page": 10
+    },
+    {
+      "english": "Husband",
+      "english_full": "Husband",
+      "type": null,
+      "avar": "roṣ",
+      "arabic": "رُس",
+      "page": 10
+    },
+    {
+      "english": "Husband’s father",
+      "english_full": "Husband’s father",
+      "type": null,
+      "avar": "vat̲l̲ad",
+      "arabic": "وَتیَد",
+      "page": 10
+    }
+  ],
+  "count": 61
+}

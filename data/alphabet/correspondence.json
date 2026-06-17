@@ -1,0 +1,234 @@
+{
+  "title": "Arabic-Latin Correspondence",
+  "description": "Correspondence between Arabic and Latin characters as in the document",
+  "source_pages": [
+    6,
+    7,
+    8
+  ],
+  "note": "This table shows the correspondence between Arabic script and Latin transliteration as presented in the original document.",
+  "correspondences": [
+    {
+      "arabic": "ا",
+      "latin_upper": "A",
+      "latin_lower": "a",
+      "description": "Alef"
+    },
+    {
+      "arabic": "ب",
+      "latin_upper": "B",
+      "latin_lower": "b",
+      "description": "B"
+    },
+    {
+      "arabic": "پ",
+      "latin_upper": "P",
+      "latin_lower": "p",
+      "description": "P"
+    },
+    {
+      "arabic": "ت",
+      "latin_upper": "T",
+      "latin_lower": "t",
+      "description": "T"
+    },
+    {
+      "arabic": "ث",
+      "latin_upper": "Th",
+      "latin_lower": "th",
+      "description": "Th=θ in Greek= to the English th as in thick"
+    },
+    {
+      "arabic": "ج",
+      "latin_upper": "J",
+      "latin_lower": "j",
+      "description": "J, the English j"
+    },
+    {
+      "arabic": "چ",
+      "latin_upper": "Č",
+      "latin_lower": "č",
+      "description": "Č, the English ch, German tsch"
+    },
+    {
+      "arabic": "ح",
+      "latin_upper": "Ḥ",
+      "latin_lower": "ḥ",
+      "description": "Ḥ, aspirated h"
+    },
+    {
+      "arabic": "خ",
+      "latin_upper": "Kh",
+      "latin_lower": "kh",
+      "description": "Kh, guttural. Hawking sound"
+    },
+    {
+      "arabic": "د",
+      "latin_upper": "D",
+      "latin_lower": "d",
+      "description": "D"
+    },
+    {
+      "arabic": "ذ",
+      "latin_upper": "Dh",
+      "latin_lower": "dh",
+      "description": "Dh, as in this English = the δ of the Romaic"
+    },
+    {
+      "arabic": "ر",
+      "latin_upper": "R",
+      "latin_lower": "r",
+      "description": "R"
+    },
+    {
+      "arabic": "ز",
+      "latin_upper": "Z",
+      "latin_lower": "z",
+      "description": "Z"
+    },
+    {
+      "arabic": "ژ",
+      "latin_upper": "Ž",
+      "latin_lower": "ž",
+      "description": "Ž, Žh properly, but pronounced as sion in the English word persuasion, or the French j in je"
+    },
+    {
+      "arabic": "س",
+      "latin_upper": "S",
+      "latin_lower": "s",
+      "description": "S"
+    },
+    {
+      "arabic": "ش",
+      "latin_upper": "Š",
+      "latin_lower": "š",
+      "description": "Š, in English sh, in German sch"
+    },
+    {
+      "arabic": "ص",
+      "latin_upper": "Ṣ",
+      "latin_lower": "ṣ",
+      "description": "Ṣ, the intensified or double hissing S"
+    },
+    {
+      "arabic": "ض",
+      "latin_upper": "Ḍ",
+      "latin_lower": "ḍ",
+      "description": "Ḍ, the intensified or explosive D"
+    },
+    {
+      "arabic": "ط",
+      "latin_upper": "Ṭ",
+      "latin_lower": "ṭ",
+      "description": "Ṭ, the intensified or explosive T"
+    },
+    {
+      "arabic": "ض",
+      "latin_upper": "ḌḤ",
+      "latin_lower": "ḍḥ",
+      "description": "ḌḤ, the intensified or explosive Dh"
+    },
+    {
+      "arabic": "ع",
+      "latin_upper": "ʿ",
+      "latin_lower": "ʿ",
+      "description": "ʿAin, the bleating sound found especially in the Semitic languages"
+    },
+    {
+      "arabic": "غ",
+      "latin_upper": "Gh",
+      "latin_lower": "gh",
+      "description": "Gh, the guttural gurgling sound in the same"
+    },
+    {
+      "arabic": "ف",
+      "latin_upper": "F",
+      "latin_lower": "f",
+      "description": "F"
+    },
+    {
+      "arabic": "ق",
+      "latin_upper": "Ḳ",
+      "latin_lower": "ḳ",
+      "description": "Ḳ, the deep guttural K"
+    },
+    {
+      "arabic": "ك",
+      "latin_upper": "K",
+      "latin_lower": "k",
+      "description": "K, the ordinary K"
+    },
+    {
+      "arabic": "گ",
+      "latin_upper": "G",
+      "latin_lower": "g",
+      "description": "G, the hard G"
+    },
+    {
+      "arabic": "ل",
+      "latin_upper": "L",
+      "latin_lower": "l",
+      "description": "L"
+    },
+    {
+      "arabic": "م",
+      "latin_upper": "M",
+      "latin_lower": "m",
+      "description": "M"
+    },
+    {
+      "arabic": "ن",
+      "latin_upper": "N",
+      "latin_lower": "n",
+      "description": "N"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "W",
+      "latin_lower": "w",
+      "description": "W"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "V",
+      "latin_lower": "v",
+      "description": "V"
+    },
+    {
+      "arabic": "و",
+      "latin_upper": "U",
+      "latin_lower": "u",
+      "description": "U"
+    },
+    {
+      "arabic": "ه",
+      "latin_upper": "H",
+      "latin_lower": "h",
+      "description": "H"
+    },
+    {
+      "arabic": "ي",
+      "latin_upper": "Y",
+      "latin_lower": "y",
+      "description": "Y"
+    },
+    {
+      "arabic": "ڞ",
+      "latin_upper": "Tz",
+      "latin_lower": "tz",
+      "description": "Tz"
+    },
+    {
+      "arabic": "ڸ",
+      "latin_upper": "T̲l̲",
+      "latin_lower": "t̲l̲",
+      "description": "T̲l̲, the click sound to which I refer in the Introduction"
+    },
+    {
+      "arabic": "ڨ",
+      "latin_upper": "K̰",
+      "latin_lower": "k̰",
+      "description": "K̰, which my Sheikh tells me, so far as he knows, is to be found only in three or four words, the most notable of which is k̰werk̰, frog"
+    }
+  ]
+}

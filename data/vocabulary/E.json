@@ -1,0 +1,282 @@
+{
+  "letter": "E",
+  "entries": [
+    {
+      "english": "Each",
+      "english_full": "Each",
+      "type": null,
+      "avar": "sebab",
+      "arabic": "سبب",
+      "page": 6
+    },
+    {
+      "english": "Eagle",
+      "english_full": "Eagle",
+      "type": null,
+      "avar": "ḳegab žun",
+      "arabic": "کگب ژون",
+      "page": 6
+    },
+    {
+      "english": "Ear",
+      "english_full": "Ear",
+      "type": null,
+      "avar": "ín",
+      "arabic": "ان",
+      "page": 6
+    },
+    {
+      "english": "Earring",
+      "english_full": "Earring",
+      "type": null,
+      "avar": "gilig",
+      "arabic": "گیلگ",
+      "page": 6
+    },
+    {
+      "english": "Early",
+      "english_full": "Early",
+      "type": null,
+      "avar": "ṣodongo radal",
+      "arabic": "سُدنگر رَدل",
+      "page": 6
+    },
+    {
+      "english": "Earth",
+      "english_full": "Earth",
+      "type": null,
+      "avar": "rat̲l̲",
+      "arabic": "رَتْل",
+      "page": 6
+    },
+    {
+      "english": "Earth hut",
+      "english_full": "Earth hut",
+      "type": null,
+      "avar": "kvand-ṭolrok, کُوند-",
+      "arabic": "تولرُک",
+      "page": 6
+    },
+    {
+      "english": "Earthquake",
+      "english_full": "Earthquake",
+      "type": null,
+      "avar": "rot̲l̲ baghari",
+      "arabic": "رُتل بغری",
+      "page": 6
+    },
+    {
+      "english": "East",
+      "english_full": "East",
+      "type": null,
+      "avar": "baḳ bakuda",
+      "arabic": "بک بوکُدا",
+      "page": 6
+    },
+    {
+      "english": "Echo",
+      "english_full": "Echo",
+      "type": null,
+      "avar": "dandi riji",
+      "arabic": "دندی ریج",
+      "page": 6
+    },
+    {
+      "english": "Eclipse (of moon)",
+      "english_full": "Eclipse (of moon)",
+      "type": null,
+      "avar": "mož kuvai",
+      "arabic": "مژ کُوای",
+      "page": 6,
+      "note": "of moon"
+    },
+    {
+      "english": "Eclipse (of sun)",
+      "english_full": "Eclipse (of sun)",
+      "type": null,
+      "avar": "baḳ kuvai",
+      "arabic": "بک کُوای",
+      "page": 6,
+      "note": "of sun"
+    },
+    {
+      "english": "Egg",
+      "english_full": "Egg",
+      "type": null,
+      "avar": "khono",
+      "arabic": "خونُ",
+      "page": 6
+    },
+    {
+      "english": "Elbow",
+      "english_full": "Elbow",
+      "type": null,
+      "avar": "khongrot̲l̲",
+      "arabic": "خُنگرُتل",
+      "page": 6
+    },
+    {
+      "english": "Elect",
+      "english_full": "Elect, v.a.",
+      "type": "verb active",
+      "avar": "bagarizi",
+      "arabic": "بگریزی",
+      "page": 6
+    },
+    {
+      "english": "Elephant",
+      "english_full": "Elephant",
+      "type": null,
+      "avar": "fíl",
+      "arabic": "فل",
+      "page": 6
+    },
+    {
+      "english": "Embrace",
+      "english_full": "Embrace, v.",
+      "type": "verb",
+      "avar": "ḳoćezi",
+      "arabic": "کُچیزی",
+      "page": 6
+    },
+    {
+      "english": "Embroider",
+      "english_full": "Embroider, v.",
+      "type": "verb",
+      "avar": "buḳizi",
+      "arabic": "بوکیزی",
+      "page": 6
+    },
+    {
+      "english": "Enamel",
+      "english_full": "Enamel, s.",
+      "type": "substantive",
+      "avar": "besarab",
+      "arabic": "بسرَب",
+      "page": 6
+    },
+    {
+      "english": "End",
+      "english_full": "End, s.",
+      "type": "substantive",
+      "avar": "nakhaṣṣa",
+      "arabic": "نخسا",
+      "page": 7
+    },
+    {
+      "english": "Enemy",
+      "english_full": "Enemy",
+      "type": null,
+      "avar": "tušman",
+      "arabic": "توسمن",
+      "page": 7
+    },
+    {
+      "english": "Enough (sufficiently)",
+      "english_full": "Enough (sufficiently)",
+      "type": null,
+      "avar": "íla",
+      "arabic": "علا",
+      "page": 7,
+      "note": "sufficiently"
+    },
+    {
+      "english": "Enquire",
+      "english_full": "Enquire, v.",
+      "type": "verb",
+      "avar": "haḳḳizi",
+      "arabic": "هکّیزی",
+      "page": 7
+    },
+    {
+      "english": "Escort",
+      "english_full": "Escort, s.",
+      "type": "substantive",
+      "avar": "holmagh",
+      "arabic": "هُلما غ",
+      "page": 7
+    },
+    {
+      "english": "Evening",
+      "english_full": "Evening",
+      "type": null,
+      "avar": "bogot̲l̲",
+      "arabic": "بُگُتی",
+      "page": 7
+    },
+    {
+      "english": "Ever",
+      "english_full": "Ever",
+      "type": null,
+      "avar": "šinakhi",
+      "arabic": "سنخی",
+      "page": 7
+    },
+    {
+      "english": "Everywhere",
+      "english_full": "Everywhere",
+      "type": null,
+      "avar": "kibgo",
+      "arabic": "کیبگو",
+      "page": 7
+    },
+    {
+      "english": "Example",
+      "english_full": "Example",
+      "type": null,
+      "avar": "haghadin",
+      "arabic": "هغدن",
+      "page": 7
+    },
+    {
+      "english": "Executioner (public)",
+      "english_full": "Executioner (public)",
+      "type": null,
+      "avar": "ášṭiči jalaṭ",
+      "arabic": "آشتچی جَلت",
+      "page": 7,
+      "note": "public"
+    },
+    {
+      "english": "Expenses, Expenditure",
+      "english_full": "Expenses, Expenditure",
+      "type": null,
+      "avar": "kharj",
+      "arabic": "خری",
+      "page": 7
+    },
+    {
+      "english": "Expressly",
+      "english_full": "Expressly",
+      "type": null,
+      "avar": "úrghungo",
+      "arabic": "عترغونگو",
+      "page": 7
+    },
+    {
+      "english": "Extinguished, (to be done)",
+      "english_full": "Extinguished, v. (to be done)",
+      "type": "verb",
+      "avar": "ṣovenizi",
+      "arabic": "سُوِنیزی",
+      "page": 7
+    },
+    {
+      "english": "Eye",
+      "english_full": "Eye",
+      "type": null,
+      "avar": "bir",
+      "arabic": "بیر",
+      "page": 7
+    },
+    {
+      "english": "Eyebrow",
+      "english_full": "Eyebrow",
+      "type": null,
+      "avar": "t̲l̲enser",
+      "arabic": "تلنسر",
+      "page": 7
+    }
+  ],
+  "count": 34
+}

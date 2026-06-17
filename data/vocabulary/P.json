@@ -1,0 +1,494 @@
+{
+  "letter": "P",
+  "entries": [
+    {
+      "english": "Paint",
+      "english_full": "Paint",
+      "type": "verb",
+      "avar": "dye, bakhizi",
+      "arabic": "بَخیزی",
+      "page": 14
+    },
+    {
+      "english": "Palm of hand",
+      "english_full": "Palm of hand",
+      "type": null,
+      "avar": "ughu khat",
+      "arabic": "اوغو خَت",
+      "page": 14
+    },
+    {
+      "english": "Paradise",
+      "english_full": "Paradise",
+      "type": null,
+      "avar": "aljan",
+      "arabic": "الجَن",
+      "page": 14
+    },
+    {
+      "english": "Pass (to walk past)",
+      "english_full": "Pass (to walk past), v.",
+      "type": "verb",
+      "avar": "gvadizi",
+      "arabic": "گوادیزی",
+      "page": 14,
+      "note": "to walk past"
+    },
+    {
+      "english": "Patience",
+      "english_full": "Patience",
+      "type": null,
+      "avar": "ṣaburt̲l̲i",
+      "arabic": "سَبُرتلی",
+      "page": 14
+    },
+    {
+      "english": "Paw",
+      "english_full": "Paw",
+      "type": null,
+      "avar": "kvāč",
+      "arabic": "کُواچ",
+      "page": 14
+    },
+    {
+      "english": "Pay",
+      "english_full": "Pay, v.",
+      "type": "verb",
+      "avar": "mog t̲l̲izi",
+      "arabic": "مُگ تِیلزی",
+      "page": 14
+    },
+    {
+      "english": "Pay (settle)",
+      "english_full": "Pay (settle), v.",
+      "type": "verb",
+      "avar": "bižizi",
+      "arabic": "بیژیزی",
+      "page": 14,
+      "note": "settle"
+    },
+    {
+      "english": "Peace",
+      "english_full": "Peace",
+      "type": null,
+      "avar": "reḳel",
+      "arabic": "رِکل",
+      "page": 15
+    },
+    {
+      "english": "Play",
+      "english_full": "Play, v.",
+      "type": "verb",
+      "avar": "vasandizi",
+      "arabic": "وَسَندزی",
+      "page": 15
+    },
+    {
+      "english": "Peach",
+      "english_full": "Peach",
+      "type": null,
+      "avar": "mit̲l̲ir",
+      "arabic": "مِتْلیر",
+      "page": 15
+    },
+    {
+      "english": "Play (a musical instrument)",
+      "english_full": "Play (a musical instrument)",
+      "type": null,
+      "avar": "ḳerizi",
+      "arabic": "کِریزی",
+      "page": 15,
+      "note": "a musical instrument"
+    },
+    {
+      "english": "Pear",
+      "english_full": "Pear",
+      "type": null,
+      "avar": "gibi",
+      "arabic": "گیبی",
+      "page": 15
+    },
+    {
+      "english": "Plough",
+      "english_full": "Plough, s.",
+      "type": "substantive",
+      "avar": "puruṣ",
+      "arabic": "پورُس",
+      "page": 15
+    },
+    {
+      "english": "Pearl",
+      "english_full": "Pearl",
+      "type": null,
+      "avar": "margal",
+      "arabic": "مَرگَل",
+      "page": 15
+    },
+    {
+      "english": "Plum",
+      "english_full": "Plum",
+      "type": null,
+      "avar": "kulan",
+      "arabic": "کولَن",
+      "page": 15
+    },
+    {
+      "english": "Pelisse",
+      "english_full": "Pelisse",
+      "type": null,
+      "avar": "ṭimogh, khabarča",
+      "arabic": "تِیموغ، خَبَرچ",
+      "page": 15
+    },
+    {
+      "english": "Pen, feather",
+      "english_full": "Pen, feather",
+      "type": null,
+      "avar": "ḳalam, mit̲l̲er",
+      "arabic": "کَلَم، مِتلِر",
+      "page": 15
+    },
+    {
+      "english": "Plunder",
+      "english_full": "Plunder, v.",
+      "type": "verb",
+      "avar": "tala habizi",
+      "arabic": "تَلا هابزی",
+      "page": 15
+    },
+    {
+      "english": "People (a)",
+      "english_full": "People (a), s.",
+      "type": "substantive",
+      "avar": "ámirauči, khalk",
+      "arabic": "خَلک",
+      "page": 15,
+      "note": "a"
+    },
+    {
+      "english": "Pepper",
+      "english_full": "Pepper",
+      "type": null,
+      "avar": "filfil",
+      "arabic": "فِلفِل",
+      "page": 15
+    },
+    {
+      "english": "Perhaps",
+      "english_full": "Perhaps",
+      "type": null,
+      "avar": "bigini batila",
+      "arabic": "بیگینی بَتیلا",
+      "page": 15
+    },
+    {
+      "english": "Perspire",
+      "english_full": "Perspire",
+      "type": null,
+      "avar": "íṭ bazi",
+      "arabic": "عِط بَزی",
+      "page": 15
+    },
+    {
+      "english": "Petition",
+      "english_full": "Petition",
+      "type": null,
+      "avar": "árṣ",
+      "arabic": "عَرس",
+      "page": 15
+    },
+    {
+      "english": "Petitioner",
+      "english_full": "Petitioner",
+      "type": null,
+      "avar": "árṣ habulevčí",
+      "arabic": "عَرس هَبولویچی",
+      "page": 15
+    },
+    {
+      "english": "Pewter",
+      "english_full": "Pewter",
+      "type": null,
+      "avar": "ghali",
+      "arabic": "غَل",
+      "page": 15
+    },
+    {
+      "english": "Pheasant (hen of the forests)",
+      "english_full": "Pheasant (hen of the forests)",
+      "type": null,
+      "avar": "rogol ángo",
+      "arabic": "رُگُل",
+      "page": 15,
+      "note": "hen of the forests"
+    },
+    {
+      "english": "Picture",
+      "english_full": "Picture",
+      "type": null,
+      "avar": "ṣurat",
+      "arabic": "مَرتَت",
+      "page": 15
+    },
+    {
+      "english": "Pig",
+      "english_full": "Pig",
+      "type": null,
+      "avar": "bot̲l̲t̲l̲on",
+      "arabic": "بُتلْفُلُون",
+      "page": 15
+    },
+    {
+      "english": "Pigeon",
+      "english_full": "Pigeon",
+      "type": null,
+      "avar": "mekki",
+      "arabic": "مِکّی",
+      "page": 15
+    },
+    {
+      "english": "Pillow",
+      "english_full": "Pillow",
+      "type": null,
+      "avar": "ḳandat̲l̲u ḳadanibcu",
+      "arabic": "کَندَتلو کَدَنِبچو",
+      "page": 15
+    },
+    {
+      "english": "Pipe",
+      "english_full": "Pipe",
+      "type": null,
+      "avar": "conduit, roóro",
+      "arabic": "رُبر",
+      "page": 15
+    },
+    {
+      "english": "Pistol",
+      "english_full": "Pistol",
+      "type": null,
+      "avar": "tamanča",
+      "arabic": "تَمَنچ",
+      "page": 15
+    },
+    {
+      "english": "Pity",
+      "english_full": "Pity, s.",
+      "type": "substantive",
+      "avar": "oh áíb gurhi",
+      "arabic": "اَه عَلب گورهی",
+      "page": 15
+    },
+    {
+      "english": "Pity",
+      "english_full": "Pity, v.",
+      "type": "verb",
+      "avar": "gurḥizi",
+      "arabic": "زَجْر",
+      "page": 15
+    },
+    {
+      "english": "Plain",
+      "english_full": "Plain",
+      "type": null,
+      "avar": "bag baudan gal",
+      "arabic": "بَگ بَودَن گَل",
+      "page": 15
+    },
+    {
+      "english": "Plank",
+      "english_full": "Plank",
+      "type": null,
+      "avar": "kharši",
+      "arabic": "خَرشی",
+      "page": 15
+    },
+    {
+      "english": "Poor",
+      "english_full": "Poor",
+      "type": null,
+      "avar": "meṣkinu",
+      "arabic": "وَشْکَدُ",
+      "page": 15
+    },
+    {
+      "english": "Pot, or bag for grease",
+      "english_full": "Pot, or bag for grease",
+      "type": null,
+      "avar": "nakh t̲l̲olibju",
+      "arabic": "إِلَيْحَ",
+      "page": 15
+    },
+    {
+      "english": "Pour",
+      "english_full": "Pour, v.",
+      "type": "verb",
+      "avar": "ṭezi",
+      "arabic": "طِرْ",
+      "page": 15
+    },
+    {
+      "english": "Powder horn",
+      "english_full": "Powder horn",
+      "type": null,
+      "avar": "khariruk",
+      "arabic": "حَرْزِ",
+      "page": 15
+    },
+    {
+      "english": "Pray",
+      "english_full": "Pray, v.",
+      "type": "verb",
+      "avar": "kak bazi",
+      "arabic": "کَک بَزی",
+      "page": 15
+    },
+    {
+      "english": "Prayer (a prayer)",
+      "english_full": "Prayer (a prayer), s.",
+      "type": "substantive",
+      "avar": "ruá",
+      "arabic": "عِرْ",
+      "page": 15,
+      "note": "a prayer"
+    },
+    {
+      "english": "Present (to make a)",
+      "english_full": "Present (to make a), v.",
+      "type": "verb",
+      "avar": "čubugu t̲l̲izi",
+      "arabic": "نَوْبَکَ",
+      "page": 15,
+      "note": "to make a"
+    },
+    {
+      "english": "Preserve",
+      "english_full": "Preserve, v.",
+      "type": "verb",
+      "avar": "git̲l̲izi",
+      "arabic": "دَارَ",
+      "page": 15
+    },
+    {
+      "english": "Press, to crush",
+      "english_full": "Press, v. to crush",
+      "type": "verb",
+      "avar": "mirgizi",
+      "arabic": "رَجْر",
+      "page": 15
+    },
+    {
+      "english": "Pretext",
+      "english_full": "Pretext",
+      "type": null,
+      "avar": "behama",
+      "arabic": "بَيْبَل",
+      "page": 15
+    },
+    {
+      "english": "Pretty",
+      "english_full": "Pretty",
+      "type": null,
+      "avar": "bertzinab",
+      "arabic": "یَرْتَت",
+      "page": 15
+    },
+    {
+      "english": "Prisoner",
+      "english_full": "Prisoner",
+      "type": null,
+      "avar": "tuṣnahk",
+      "arabic": "قَفْت",
+      "page": 15
+    },
+    {
+      "english": "Profit, gain",
+      "english_full": "Profit, gain",
+      "type": null,
+      "avar": "t̲l̲igt̲l̲i",
+      "arabic": "بَيْبِل",
+      "page": 15
+    },
+    {
+      "english": "Promise",
+      "english_full": "Promise, s.",
+      "type": "substantive",
+      "avar": "ḳoṭi habi",
+      "arabic": "فِظْرَقَ",
+      "page": 15
+    },
+    {
+      "english": "Promise",
+      "english_full": "Promise, v.",
+      "type": "verb",
+      "avar": "ḳoṭi habizi",
+      "arabic": "فِظْرَقَ",
+      "page": 15
+    },
+    {
+      "english": "Property",
+      "english_full": "Property",
+      "type": null,
+      "avar": "bozi",
+      "arabic": "بَيْبِل",
+      "page": 15
+    },
+    {
+      "english": "Prophet",
+      "english_full": "Prophet",
+      "type": null,
+      "avar": "avarag",
+      "arabic": "أَورْل",
+      "page": 15
+    },
+    {
+      "english": "Punish",
+      "english_full": "Punish, v.",
+      "type": "verb",
+      "avar": "tamiḥ habizi",
+      "arabic": "تَمِه هابزی",
+      "page": 16
+    },
+    {
+      "english": "Punishment",
+      "english_full": "Punishment",
+      "type": null,
+      "avar": "timiḥ",
+      "arabic": "تِیمِه",
+      "page": 16
+    },
+    {
+      "english": "Puppy",
+      "english_full": "Puppy",
+      "type": null,
+      "avar": "cub, koó",
+      "arabic": "چُب، کُب",
+      "page": 16
+    },
+    {
+      "english": "Purity, cleanliness",
+      "english_full": "Purity, cleanliness",
+      "type": null,
+      "avar": "bažat̲l̲i",
+      "arabic": "بَزَتلی",
+      "page": 16
+    },
+    {
+      "english": "Purse",
+      "english_full": "Purse",
+      "type": null,
+      "avar": "kisa",
+      "arabic": "کِس",
+      "page": 16
+    },
+    {
+      "english": "Put (to put down)",
+      "english_full": "Put (to put down), v.",
+      "type": "verb",
+      "avar": "t̲l̲izi",
+      "arabic": "تلیزی",
+      "page": 16,
+      "note": "to put down"
+    }
+  ],
+  "count": 60
+}

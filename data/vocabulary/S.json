@@ -1,0 +1,1271 @@
+{
+  "letter": "S",
+  "entries": [
+    {
+      "english": "Sack, bag",
+      "english_full": "Sack, bag",
+      "type": null,
+      "avar": "tandat̲l̲o, ṭarga",
+      "arabic": "تَندَلّو، تَرگ",
+      "page": 17
+    },
+    {
+      "english": "Sacrifice, victim",
+      "english_full": "Sacrifice, s. victim",
+      "type": "substantive",
+      "avar": "ḳorman",
+      "arabic": "کُرمَن",
+      "page": 17
+    },
+    {
+      "english": "Saddle",
+      "english_full": "Saddle, s.",
+      "type": "substantive",
+      "avar": "t̲l̲ili",
+      "arabic": "تِلی",
+      "page": 17
+    },
+    {
+      "english": "Saddle",
+      "english_full": "Saddle, v.",
+      "type": "verb",
+      "avar": "ču t̲l̲uluzi",
+      "arabic": "چو تیولوزی",
+      "page": 17
+    },
+    {
+      "english": "Saliva",
+      "english_full": "Saliva",
+      "type": null,
+      "avar": "gal beži",
+      "arabic": "گَل بِژی",
+      "page": 17
+    },
+    {
+      "english": "Salt",
+      "english_full": "Salt, adj.",
+      "type": "adjective",
+      "avar": "žan álau",
+      "arabic": "ژَن آَلَن",
+      "page": 17
+    },
+    {
+      "english": "Salt",
+      "english_full": "Salt, s.",
+      "type": "substantive",
+      "avar": "žan, žam",
+      "arabic": "ژَن، ژَم",
+      "page": 17
+    },
+    {
+      "english": "Salutation",
+      "english_full": "Salutation",
+      "type": null,
+      "avar": "ṣalam",
+      "arabic": "سَلَم",
+      "page": 17
+    },
+    {
+      "english": "Sand",
+      "english_full": "Sand",
+      "type": null,
+      "avar": "sali",
+      "arabic": "سَلی",
+      "page": 17
+    },
+    {
+      "english": "Satisfied, satiated (to be)",
+      "english_full": "Satisfied, satiated (to be)",
+      "type": null,
+      "avar": "úrsizi",
+      "arabic": "سَتییت",
+      "page": 17
+    },
+    {
+      "english": "Saturday",
+      "english_full": "Saturday",
+      "type": null,
+      "avar": "ṣamat ko",
+      "arabic": "کَمَت کو",
+      "page": 17
+    },
+    {
+      "english": "Saw",
+      "english_full": "Saw, s.",
+      "type": "substantive",
+      "avar": "khokhadru",
+      "arabic": "خُخَدرُ",
+      "page": 17
+    },
+    {
+      "english": "Saw",
+      "english_full": "Saw, v.",
+      "type": "verb",
+      "avar": "khokhazi",
+      "arabic": "خُخازی",
+      "page": 17
+    },
+    {
+      "english": "Scabbard",
+      "english_full": "Scabbard",
+      "type": null,
+      "avar": "t̲l̲il",
+      "arabic": "تِلی",
+      "page": 17
+    },
+    {
+      "english": "Scales (of fish)",
+      "english_full": "Scales (of fish)",
+      "type": null,
+      "avar": "ṭant̲l̲al",
+      "arabic": "تَنتجَل",
+      "page": 17,
+      "note": "of fish"
+    },
+    {
+      "english": "Scimetar",
+      "english_full": "Scimetar",
+      "type": null,
+      "avar": "khvalčin",
+      "arabic": "خوَلچِن",
+      "page": 17
+    },
+    {
+      "english": "Scorpion",
+      "english_full": "Scorpion",
+      "type": null,
+      "avar": "ič gal",
+      "arabic": "ایچ گَل",
+      "page": 17
+    },
+    {
+      "english": "Scream",
+      "english_full": "Scream, v.",
+      "type": "verb",
+      "avar": "íri íridizi",
+      "arabic": "عیری عیریدیزی",
+      "page": 17
+    },
+    {
+      "english": "Sea",
+      "english_full": "Sea",
+      "type": null,
+      "avar": "rat̲l̲ad",
+      "arabic": "رَتْلَد",
+      "page": 17
+    },
+    {
+      "english": "Seal, impression",
+      "english_full": "Seal, impression",
+      "type": null,
+      "avar": "mohdo",
+      "arabic": "مُهدُ",
+      "page": 17
+    },
+    {
+      "english": "Seam",
+      "english_full": "Seam",
+      "type": null,
+      "avar": "buḳarai bag",
+      "arabic": "بوکَرای بَگ",
+      "page": 17
+    },
+    {
+      "english": "Seated, to be",
+      "english_full": "Seated, to be",
+      "type": null,
+      "avar": "óduvu ginizi",
+      "arabic": "اُودوو گینیزی",
+      "page": 17
+    },
+    {
+      "english": "Secret",
+      "english_full": "Secret",
+      "type": null,
+      "avar": "bat̲l̲u",
+      "arabic": "بَتلو",
+      "page": 17
+    },
+    {
+      "english": "See",
+      "english_full": "See, v.",
+      "type": "verb",
+      "avar": "bigizi",
+      "arabic": "بیگیزی",
+      "page": 17
+    },
+    {
+      "english": "Seed, pip",
+      "english_full": "Seed, pip",
+      "type": null,
+      "avar": "gon",
+      "arabic": "گُون",
+      "page": 17
+    },
+    {
+      "english": "Seldom",
+      "english_full": "Seldom",
+      "type": null,
+      "avar": "t̲l̲idarib",
+      "arabic": "تِلیدَریب",
+      "page": 17
+    },
+    {
+      "english": "Senility",
+      "english_full": "Senility",
+      "type": null,
+      "avar": "khort̲l̲i",
+      "arabic": "خُریلی",
+      "page": 17
+    },
+    {
+      "english": "Sermon",
+      "english_full": "Sermon",
+      "type": null,
+      "avar": "khaber bitzin",
+      "arabic": "خَبِر بیتزِن",
+      "page": 17
+    },
+    {
+      "english": "Serpent",
+      "english_full": "Serpent",
+      "type": null,
+      "avar": "borog",
+      "arabic": "بُرگ",
+      "page": 17
+    },
+    {
+      "english": "Servant",
+      "english_full": "Servant",
+      "type": null,
+      "avar": "m. khuluč či",
+      "arabic": "خولُچ چی",
+      "page": 17
+    },
+    {
+      "english": "Servant",
+      "english_full": "Servant",
+      "type": null,
+      "avar": "f. khuluč habilai",
+      "arabic": "خولُچ هَبِلای",
+      "page": 17
+    },
+    {
+      "english": "Severe, strict",
+      "english_full": "Severe, strict",
+      "type": null,
+      "avar": "žakau",
+      "arabic": "ژَکَن",
+      "page": 17
+    },
+    {
+      "english": "Sew",
+      "english_full": "Sew, v.",
+      "type": "verb",
+      "avar": "buḳizi",
+      "arabic": "بوکیزی",
+      "page": 17
+    },
+    {
+      "english": "Shade, shadow",
+      "english_full": "Shade, shadow",
+      "type": null,
+      "avar": "raád",
+      "arabic": "رآد",
+      "page": 17
+    },
+    {
+      "english": "Shame, to feel shame",
+      "english_full": "Shame, to feel shame, v.",
+      "type": "verb",
+      "avar": "ničizi",
+      "arabic": "نیچیزی",
+      "page": 17
+    },
+    {
+      "english": "Shave",
+      "english_full": "Shave, v.",
+      "type": "verb",
+      "avar": "gvazi",
+      "arabic": "گوَزی",
+      "page": 17
+    },
+    {
+      "english": "Shed",
+      "english_full": "Shed, s.",
+      "type": "substantive",
+      "avar": "ṭoḳo",
+      "arabic": "تُکو",
+      "page": 17
+    },
+    {
+      "english": "Sheep (a)",
+      "english_full": "Sheep (a)",
+      "type": null,
+      "avar": "í",
+      "arabic": "ای",
+      "page": 17,
+      "note": "a"
+    },
+    {
+      "english": "Sheep (collectively)",
+      "english_full": "Sheep (collectively)",
+      "type": null,
+      "avar": "limag",
+      "arabic": "گَش",
+      "page": 17,
+      "note": "collectively"
+    },
+    {
+      "english": "Shell",
+      "english_full": "Shell",
+      "type": null,
+      "avar": "žamoḥerš",
+      "arabic": "زَمُهَرش",
+      "page": 17
+    },
+    {
+      "english": "Shepherd",
+      "english_full": "Shepherd",
+      "type": null,
+      "avar": "vit̲l̲, vekh",
+      "arabic": "وِتل، وِخ",
+      "page": 17
+    },
+    {
+      "english": "Shepherds",
+      "english_full": "Shepherds",
+      "type": null,
+      "avar": "pl, úkhbi",
+      "arabic": "ژَه",
+      "page": 17
+    },
+    {
+      "english": "Shirt",
+      "english_full": "Shirt",
+      "type": null,
+      "avar": "gurdi",
+      "arabic": "گوردی",
+      "page": 17
+    },
+    {
+      "english": "Shiver (tremble)",
+      "english_full": "Shiver (tremble), v.",
+      "type": "verb",
+      "avar": "sorozi",
+      "arabic": "سُرُزی",
+      "page": 17,
+      "note": "tremble"
+    },
+    {
+      "english": "Shoes (native)",
+      "english_full": "Shoes (native)",
+      "type": null,
+      "avar": "mačuyal",
+      "arabic": "ماچویَل",
+      "page": 17,
+      "note": "native"
+    },
+    {
+      "english": "Shoot",
+      "english_full": "Shoot, v.",
+      "type": "verb",
+      "avar": "t̲l̲uva hizi",
+      "arabic": "تلوا هِزی",
+      "page": 17
+    },
+    {
+      "english": "Shop",
+      "english_full": "Shop, s.",
+      "type": "substantive",
+      "avar": "tukan",
+      "arabic": "توکَن",
+      "page": 17
+    },
+    {
+      "english": "Short",
+      "english_full": "Short",
+      "type": null,
+      "avar": "ḳuḳab",
+      "arabic": "کوکَب",
+      "page": 17
+    },
+    {
+      "english": "Shot for gun (small shot)",
+      "english_full": "Shot for gun (small shot)",
+      "type": null,
+      "avar": "čačima",
+      "arabic": "چدما",
+      "page": 18,
+      "note": "small shot"
+    },
+    {
+      "english": "Shoulder",
+      "english_full": "Shoulder",
+      "type": null,
+      "avar": "gighij",
+      "arabic": "گیغیج",
+      "page": 18
+    },
+    {
+      "english": "Shudder",
+      "english_full": "Shudder, s.",
+      "type": "substantive",
+      "avar": "soroi",
+      "arabic": "سُرُعی",
+      "page": 18
+    },
+    {
+      "english": "Shut",
+      "english_full": "Shut, v.",
+      "type": "verb",
+      "avar": "tadt̲l̲izi, rakhizi",
+      "arabic": "تَدطِلزی، رخیزی",
+      "page": 18
+    },
+    {
+      "english": "Skull",
+      "english_full": "Skull",
+      "type": null,
+      "avar": "áda",
+      "arabic": "آدا، آ",
+      "page": 18
+    },
+    {
+      "english": "Sick (a sick man)",
+      "english_full": "Sick (a sick man), s.",
+      "type": "substantive",
+      "avar": "untarau",
+      "arabic": "اونتَرو",
+      "page": 18,
+      "note": "a sick man"
+    },
+    {
+      "english": "Sick (to be sick)",
+      "english_full": "Sick (to be sick), v.",
+      "type": "verb",
+      "avar": "untizi",
+      "arabic": "اونتِیزی",
+      "page": 18,
+      "note": "to be sick"
+    },
+    {
+      "english": "Sickness",
+      "english_full": "Sickness",
+      "type": null,
+      "avar": "unti",
+      "arabic": "اونتی",
+      "page": 18
+    },
+    {
+      "english": "Sieve",
+      "english_full": "Sieve, s.",
+      "type": "substantive",
+      "avar": "žalgo",
+      "arabic": "زَلگو",
+      "page": 18
+    },
+    {
+      "english": "Sigh",
+      "english_full": "Sigh, v.",
+      "type": "verb",
+      "avar": "khagizi",
+      "arabic": "خَگِیادی",
+      "page": 18
+    },
+    {
+      "english": "Sight",
+      "english_full": "Sight",
+      "type": null,
+      "avar": "berḳal",
+      "arabic": "بِرکَل",
+      "page": 18
+    },
+    {
+      "english": "Silent, to be",
+      "english_full": "Silent, to be, v.",
+      "type": "verb",
+      "avar": "vužun vigizi",
+      "arabic": "وُژون وِگیزی",
+      "page": 18
+    },
+    {
+      "english": "Silk",
+      "english_full": "Silk",
+      "type": null,
+      "avar": "čillah",
+      "arabic": "چِلَّه",
+      "page": 18
+    },
+    {
+      "english": "Silly (a silly man)",
+      "english_full": "Silly (a silly man), s.",
+      "type": "substantive",
+      "avar": "hagau",
+      "arabic": "هَگَن",
+      "page": 18,
+      "note": "a silly man"
+    },
+    {
+      "english": "Silver",
+      "english_full": "Silver, s.",
+      "type": "substantive",
+      "avar": "áratz",
+      "arabic": "آراتز",
+      "page": 18
+    },
+    {
+      "english": "Silver (of silver)",
+      "english_full": "Silver (of silver), adj.",
+      "type": "adjective",
+      "avar": "áratzul",
+      "arabic": "آراتزول",
+      "page": 18,
+      "note": "of silver"
+    },
+    {
+      "english": "Sin",
+      "english_full": "Sin, s.",
+      "type": "substantive",
+      "avar": "monah",
+      "arabic": "مُنَه",
+      "page": 18
+    },
+    {
+      "english": "Sing",
+      "english_full": "Sing, v.",
+      "type": "verb",
+      "avar": "keč akhizi",
+      "arabic": "کِچ اخیزی",
+      "page": 18
+    },
+    {
+      "english": "Sister",
+      "english_full": "Sister",
+      "type": null,
+      "avar": "yatz",
+      "arabic": "یَتز",
+      "page": 18
+    },
+    {
+      "english": "Sit",
+      "english_full": "Sit, v.",
+      "type": "verb",
+      "avar": "áduvugizi",
+      "arabic": "آدووگیزی",
+      "page": 18
+    },
+    {
+      "english": "Skin",
+      "english_full": "Skin",
+      "type": null,
+      "avar": "ṭun",
+      "arabic": "تون",
+      "page": 18
+    },
+    {
+      "english": "Sky",
+      "english_full": "Sky",
+      "type": null,
+      "avar": "zob, žob",
+      "arabic": "زُب، ژُب",
+      "page": 18
+    },
+    {
+      "english": "Slave",
+      "english_full": "Slave",
+      "type": null,
+      "avar": "lagh",
+      "arabic": "لَغ",
+      "page": 18
+    },
+    {
+      "english": "Sleep",
+      "english_full": "Sleep, s.",
+      "type": "substantive",
+      "avar": "mat̲l̲u",
+      "arabic": "مَطلو",
+      "page": 18
+    },
+    {
+      "english": "Sleep",
+      "english_full": "Sleep, v.",
+      "type": "verb",
+      "avar": "t̲l̲ibizi, t̲l̲ijizi",
+      "arabic": "تِیلبیادی",
+      "page": 18
+    },
+    {
+      "english": "Sleeve",
+      "english_full": "Sleeve, s.",
+      "type": "substantive",
+      "avar": "ḳval",
+      "arabic": "کُول",
+      "page": 18
+    },
+    {
+      "english": "Small, fine, pretty",
+      "english_full": "Small, fine, pretty",
+      "type": null,
+      "avar": "ásinai",
+      "arabic": "آسِنای",
+      "page": 18
+    },
+    {
+      "english": "Small, little",
+      "english_full": "Small, little",
+      "type": null,
+      "avar": "heṭini",
+      "arabic": "هِطینی",
+      "page": 18
+    },
+    {
+      "english": "Smell",
+      "english_full": "Smell, v.",
+      "type": "verb",
+      "avar": "hongizi",
+      "arabic": "هُنگیزی",
+      "page": 18
+    },
+    {
+      "english": "Smithy",
+      "english_full": "Smithy",
+      "type": null,
+      "avar": "ḳebet̲l̲i",
+      "arabic": "کِبِتلی",
+      "page": 18
+    },
+    {
+      "english": "Smoke",
+      "english_full": "Smoke, s.",
+      "type": "substantive",
+      "avar": "kvaï",
+      "arabic": "کُوای",
+      "page": 18
+    },
+    {
+      "english": "Smoke",
+      "english_full": "Smoke, v.",
+      "type": "verb",
+      "avar": "žazi",
+      "arabic": "زَزی",
+      "page": 18
+    },
+    {
+      "english": "Snare, trap",
+      "english_full": "Snare, trap",
+      "type": null,
+      "avar": "hen",
+      "arabic": "هِن",
+      "page": 18
+    },
+    {
+      "english": "Sneeze",
+      "english_full": "Sneeze, v.",
+      "type": "verb",
+      "avar": "ágadizi",
+      "arabic": "آگَدیادی",
+      "page": 18
+    },
+    {
+      "english": "Snow",
+      "english_full": "Snow",
+      "type": null,
+      "avar": "ázu",
+      "arabic": "آزو",
+      "page": 18
+    },
+    {
+      "english": "Snowstorm",
+      "english_full": "Snowstorm",
+      "type": null,
+      "avar": "t̲l̲irkhin",
+      "arabic": "تِلیرخِن",
+      "page": 18
+    },
+    {
+      "english": "Snuff",
+      "english_full": "Snuff",
+      "type": null,
+      "avar": "şunṭ",
+      "arabic": "صونت",
+      "page": 18
+    },
+    {
+      "english": "So, thus",
+      "english_full": "So, thus",
+      "type": null,
+      "avar": "hadin",
+      "arabic": "هَدِن",
+      "page": 18
+    },
+    {
+      "english": "Soap",
+      "english_full": "Soap",
+      "type": null,
+      "avar": "ṣapun",
+      "arabic": "سَپون",
+      "page": 18
+    },
+    {
+      "english": "Soft",
+      "english_full": "Soft",
+      "type": null,
+      "avar": "tamakhau",
+      "arabic": "تَمَخَتو",
+      "page": 18
+    },
+    {
+      "english": "Sometimes",
+      "english_full": "Sometimes",
+      "type": null,
+      "avar": "tzotzomiḥal",
+      "arabic": "تزو تزو میهَل",
+      "page": 18
+    },
+    {
+      "english": "Son, child",
+      "english_full": "Son, child",
+      "type": null,
+      "avar": "vas",
+      "arabic": "وَس",
+      "page": 18
+    },
+    {
+      "english": "Son-in-law",
+      "english_full": "Son-in-law",
+      "type": null,
+      "avar": "durtz",
+      "arabic": "دورتز",
+      "page": 18
+    },
+    {
+      "english": "Song",
+      "english_full": "Song",
+      "type": null,
+      "avar": "keč",
+      "arabic": "کِچ",
+      "page": 18
+    },
+    {
+      "english": "Soul",
+      "english_full": "Soul",
+      "type": null,
+      "avar": "ruḥ",
+      "arabic": "روح",
+      "page": 18
+    },
+    {
+      "english": "Sour",
+      "english_full": "Sour",
+      "type": null,
+      "avar": "žagab",
+      "arabic": "زَگَب",
+      "page": 18
+    },
+    {
+      "english": "Source",
+      "english_full": "Source",
+      "type": null,
+      "avar": "iṣṣ",
+      "arabic": "عِس",
+      "page": 18
+    },
+    {
+      "english": "South",
+      "english_full": "South",
+      "type": null,
+      "avar": "kiluba moghrab rakh",
+      "arabic": "کیلوبا مغرَب رخ",
+      "page": 18
+    },
+    {
+      "english": "Sow (vide to cook)",
+      "english_full": "Sow (vide to cook), v.",
+      "type": "verb",
+      "avar": "bit̲l̲izi",
+      "arabic": "بیتلیزی",
+      "page": 18,
+      "note": "vide to cook"
+    },
+    {
+      "english": "Space, area, also threshing-floor",
+      "english_full": "Space, area, also threshing-floor",
+      "type": null,
+      "avar": "hoči",
+      "arabic": "هُچی",
+      "page": 18
+    },
+    {
+      "english": "Spark",
+      "english_full": "Spark",
+      "type": null,
+      "avar": "žuva",
+      "arabic": "ژووا",
+      "page": 18
+    },
+    {
+      "english": "Sparrow",
+      "english_full": "Sparrow",
+      "type": null,
+      "avar": "ḳadako",
+      "arabic": "کَدَکو",
+      "page": 18
+    },
+    {
+      "english": "Speak",
+      "english_full": "Speak, v.",
+      "type": "verb",
+      "avar": "gat̲l̲azi",
+      "arabic": "گَطلاَزی",
+      "page": 18
+    },
+    {
+      "english": "Spectacles",
+      "english_full": "Spectacles",
+      "type": null,
+      "avar": "žorobiral",
+      "arabic": "زُرُبیرَل",
+      "page": 19
+    },
+    {
+      "english": "Spend, the night",
+      "english_full": "Spend, the night, v.",
+      "type": "verb",
+      "avar": "tokliyažibiži",
+      "arabic": "تُوکلییاژیبِژی",
+      "page": 19
+    },
+    {
+      "english": "Spider",
+      "english_full": "Spider",
+      "type": null,
+      "avar": "ḳorola",
+      "arabic": "کُرُلا",
+      "page": 19
+    },
+    {
+      "english": "Spit",
+      "english_full": "Spit, v.",
+      "type": "verb",
+      "avar": "tuizi",
+      "arabic": "تویزی",
+      "page": 19
+    },
+    {
+      "english": "Spoil",
+      "english_full": "Spoil, v.",
+      "type": "verb",
+      "avar": "khuvazi habizi",
+      "arabic": "خُوَزی هابزی",
+      "page": 19
+    },
+    {
+      "english": "Spoon",
+      "english_full": "Spoon",
+      "type": null,
+      "avar": "ghud",
+      "arabic": "غُد",
+      "page": 19
+    },
+    {
+      "english": "Sport, chase",
+      "english_full": "Sport, chase",
+      "type": null,
+      "avar": "čiri, čan",
+      "arabic": "چیری، چَن",
+      "page": 19
+    },
+    {
+      "english": "Sprain",
+      "english_full": "Sprain",
+      "type": null,
+      "avar": "borči",
+      "arabic": "بُرچی",
+      "page": 19
+    },
+    {
+      "english": "Spring (of water)",
+      "english_full": "Spring (of water)",
+      "type": null,
+      "avar": "ij",
+      "arabic": "چَشم",
+      "page": 19,
+      "note": "of water"
+    },
+    {
+      "english": "Spring (of the year)",
+      "english_full": "Spring (of the year)",
+      "type": null,
+      "avar": "iž",
+      "arabic": "بهار",
+      "page": 19,
+      "note": "of the year"
+    },
+    {
+      "english": "Sprinkle",
+      "english_full": "Sprinkle, v.",
+      "type": "verb",
+      "avar": "toršizi",
+      "arabic": "تُورشیزی",
+      "page": 19
+    },
+    {
+      "english": "Squint",
+      "english_full": "Squint, v.",
+      "type": "verb",
+      "avar": "ḳinkizi",
+      "arabic": "کینکیزی",
+      "page": 19
+    },
+    {
+      "english": "Staircase",
+      "english_full": "Staircase",
+      "type": null,
+      "avar": "mali",
+      "arabic": "مَلی",
+      "page": 19
+    },
+    {
+      "english": "Stallion",
+      "english_full": "Stallion",
+      "type": null,
+      "avar": "barṭi",
+      "arabic": "بَرتج",
+      "page": 19
+    },
+    {
+      "english": "Stammerer",
+      "english_full": "Stammerer",
+      "type": null,
+      "avar": "mož ṭiḳau",
+      "arabic": "مژ تیکو",
+      "page": 19
+    },
+    {
+      "english": "Standard",
+      "english_full": "Standard",
+      "type": null,
+      "avar": "bairakh",
+      "arabic": "بَیرَخ",
+      "page": 19
+    },
+    {
+      "english": "Star",
+      "english_full": "Star",
+      "type": null,
+      "avar": "žabi, žabat̲l̲ul",
+      "arabic": "ژَبی، ژَبَتْلول",
+      "page": 19
+    },
+    {
+      "english": "Steal",
+      "english_full": "Steal, v.",
+      "type": "verb",
+      "avar": "biḳizi, žohodizi, žohidizi",
+      "arabic": "بیتیزی، ژُهودیزی، ژُهیدیزی",
+      "page": 19
+    },
+    {
+      "english": "Steel",
+      "english_full": "Steel, s.",
+      "type": "substantive",
+      "avar": "žaíl",
+      "arabic": "ژَیل",
+      "page": 19
+    },
+    {
+      "english": "Steel (a steel for flint)",
+      "english_full": "Steel (a steel for flint)",
+      "type": null,
+      "avar": "čaran",
+      "arabic": "چَقماق",
+      "page": 19,
+      "note": "a steel for flint"
+    },
+    {
+      "english": "Stem of pipe",
+      "english_full": "Stem of pipe",
+      "type": null,
+      "avar": "mašu",
+      "arabic": "مَشو",
+      "page": 19
+    },
+    {
+      "english": "Stepmother",
+      "english_full": "Stepmother",
+      "type": null,
+      "avar": "beṣdal ibel",
+      "arabic": "بِگدَل ایبِل",
+      "page": 19
+    },
+    {
+      "english": "Stick",
+      "english_full": "Stick",
+      "type": null,
+      "avar": "ṭil",
+      "arabic": "طیل",
+      "page": 19
+    },
+    {
+      "english": "Stingy, (a stingy man)",
+      "english_full": "Stingy, s. (a stingy man)",
+      "type": "substantive",
+      "avar": "barakh šarau",
+      "arabic": "بَرَخ شارو",
+      "page": 19
+    },
+    {
+      "english": "Stirrup",
+      "english_full": "Stirrup",
+      "type": null,
+      "avar": "ḥoṭo, čuyal",
+      "arabic": "هُتو، چویَل",
+      "page": 19
+    },
+    {
+      "english": "Stock of gun",
+      "english_full": "Stock of gun",
+      "type": null,
+      "avar": "khondagh",
+      "arabic": "خِندَغ",
+      "page": 19
+    },
+    {
+      "english": "Stocking",
+      "english_full": "Stocking",
+      "type": null,
+      "avar": "šuvat",
+      "arabic": "شُوَتَ",
+      "page": 19
+    },
+    {
+      "english": "Stone",
+      "english_full": "Stone",
+      "type": null,
+      "avar": "hežo, t̲l̲amač",
+      "arabic": "هِژُ، تَلامچ",
+      "page": 19
+    },
+    {
+      "english": "Stony",
+      "english_full": "Stony",
+      "type": null,
+      "avar": "t̲l̲amač bukibag",
+      "arabic": "تَلامچ بوکیبَگ",
+      "page": 19
+    },
+    {
+      "english": "Stoppage (in a mountain pass from debris)",
+      "english_full": "Stoppage (in a mountain pass from debris)",
+      "type": null,
+      "avar": "nokh ḳoti",
+      "arabic": "نُخ کُتی",
+      "page": 19,
+      "note": "in a mountain pass from debris"
+    },
+    {
+      "english": "Storm, thunder",
+      "english_full": "Storm, thunder",
+      "type": null,
+      "avar": "etc, žoi ghaghalibu yogo",
+      "arabic": "ژُعی غَلغَلیبو یوگو",
+      "page": 19
+    },
+    {
+      "english": "Straw",
+      "english_full": "Straw",
+      "type": null,
+      "avar": "balča, guṭ",
+      "arabic": "بَلچ، گُت",
+      "page": 19
+    },
+    {
+      "english": "Street",
+      "english_full": "Street",
+      "type": null,
+      "avar": "ḳuvaṭ",
+      "arabic": "کُوَتَ",
+      "page": 19
+    },
+    {
+      "english": "Strife, Contest",
+      "english_full": "Strife, Contest",
+      "type": null,
+      "avar": "ḳasan",
+      "arabic": "کسن",
+      "page": 19
+    },
+    {
+      "english": "Strong",
+      "english_full": "Strong",
+      "type": null,
+      "avar": "kutag, begev",
+      "arabic": "کوتَگ، بِگِو",
+      "page": 19
+    },
+    {
+      "english": "Strength",
+      "english_full": "Strength",
+      "type": null,
+      "avar": "hal",
+      "arabic": "هَل",
+      "page": 19
+    },
+    {
+      "english": "Suck",
+      "english_full": "Suck, v.",
+      "type": "verb",
+      "avar": "khakhizi",
+      "arabic": "خَخیزی",
+      "page": 19
+    },
+    {
+      "english": "Suddenly",
+      "english_full": "Suddenly",
+      "type": null,
+      "avar": "farṭun, t̲l̲ačogo",
+      "arabic": "فَرتون، تلاچوگو",
+      "page": 19
+    },
+    {
+      "english": "Sufficient",
+      "english_full": "Sufficient",
+      "type": null,
+      "avar": "íla",
+      "arabic": "علا",
+      "page": 19
+    },
+    {
+      "english": "Sugar",
+      "english_full": "Sugar",
+      "type": null,
+      "avar": "čakar",
+      "arabic": "چَکَر",
+      "page": 19
+    },
+    {
+      "english": "Summer",
+      "english_full": "Summer",
+      "type": null,
+      "avar": "ri-i",
+      "arabic": "ری-ت",
+      "page": 19
+    },
+    {
+      "english": "Sun",
+      "english_full": "Sun",
+      "type": null,
+      "avar": "baḳ",
+      "arabic": "بَک",
+      "page": 19
+    },
+    {
+      "english": "Sunday",
+      "english_full": "Sunday",
+      "type": null,
+      "avar": "Faṭai ḳo",
+      "arabic": "فَتَای کو",
+      "page": 19
+    },
+    {
+      "english": "Sunset",
+      "english_full": "Sunset",
+      "type": null,
+      "avar": "baḳ ṭergi",
+      "arabic": "بَک تِرگی",
+      "page": 19
+    },
+    {
+      "english": "Sup",
+      "english_full": "Sup, v.",
+      "type": "verb",
+      "avar": "ḳaşşi kvanizi",
+      "arabic": "کَصی کُوانیزی",
+      "page": 19
+    },
+    {
+      "english": "Supper",
+      "english_full": "Supper",
+      "type": null,
+      "avar": "ḳaşşi kuvani",
+      "arabic": "کَصی کُوانی",
+      "page": 19
+    },
+    {
+      "english": "Surface (plane)",
+      "english_full": "Surface (plane)",
+      "type": null,
+      "avar": "baidan",
+      "arabic": "بَلدَن",
+      "page": 19,
+      "note": "plane"
+    },
+    {
+      "english": "Swallow (bird)",
+      "english_full": "Swallow (bird), s.",
+      "type": "substantive",
+      "avar": "čorolo",
+      "arabic": "چُرُلو",
+      "page": 19,
+      "note": "bird"
+    },
+    {
+      "english": "Swallow",
+      "english_full": "Swallow, v.",
+      "type": "verb",
+      "avar": "kulčizi",
+      "arabic": "کولچیزی",
+      "page": 19
+    },
+    {
+      "english": "Swear",
+      "english_full": "Swear, v.",
+      "type": "verb",
+      "avar": "hedizi",
+      "arabic": "هِدیزی",
+      "page": 19
+    },
+    {
+      "english": "Swearing",
+      "english_full": "Swearing, s.",
+      "type": "substantive",
+      "avar": "hedi",
+      "arabic": "چِدی",
+      "page": 20
+    },
+    {
+      "english": "Sweet̲l̲y",
+      "english_full": "Sweet̲l̲y",
+      "type": null,
+      "avar": "hoinab",
+      "arabic": "گُشتی",
+      "page": 20
+    },
+    {
+      "english": "Swelling",
+      "english_full": "Swelling",
+      "type": null,
+      "avar": "horoi",
+      "arabic": "گُرگُعی",
+      "page": 20
+    },
+    {
+      "english": "Swim",
+      "english_full": "Swim, v.",
+      "type": "verb",
+      "avar": "čuvirdizi",
+      "arabic": "چُویردِزی",
+      "page": 20
+    },
+    {
+      "english": "Switch",
+      "english_full": "Switch",
+      "type": null,
+      "avar": "žal",
+      "arabic": "زَل",
+      "page": 20
+    }
+  ],
+  "count": 156
+}

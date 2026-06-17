@@ -1,0 +1,498 @@
+{
+  "letter": "M",
+  "entries": [
+    {
+      "english": "Malediction",
+      "english_full": "Malediction",
+      "type": null,
+      "avar": "gandulev",
+      "arabic": "گَندولِو",
+      "page": 12
+    },
+    {
+      "english": "Man (in general)",
+      "english_full": "Man (in general)",
+      "type": null,
+      "avar": "čai, adamal",
+      "arabic": "اَدم",
+      "page": 12,
+      "note": "in general"
+    },
+    {
+      "english": "Man",
+      "english_full": "Man",
+      "type": null,
+      "avar": "ros",
+      "arabic": "رُس",
+      "page": 12
+    },
+    {
+      "english": "Man (a)",
+      "english_full": "Man (a)",
+      "type": null,
+      "avar": "bikinči",
+      "arabic": "بی کینچی",
+      "page": 12,
+      "note": "a"
+    },
+    {
+      "english": "Mane",
+      "english_full": "Mane",
+      "type": null,
+      "avar": "žal",
+      "arabic": "زَ",
+      "page": 12
+    },
+    {
+      "english": "Many, how many",
+      "english_full": "Many, how many",
+      "type": null,
+      "avar": "kaán",
+      "arabic": "کَان",
+      "page": 12
+    },
+    {
+      "english": "Mare",
+      "english_full": "Mare",
+      "type": null,
+      "avar": "ála",
+      "arabic": "آلا",
+      "page": 12
+    },
+    {
+      "english": "Marriage",
+      "english_full": "Marriage",
+      "type": null,
+      "avar": "berten",
+      "arabic": "بِرتِن",
+      "page": 12
+    },
+    {
+      "english": "Marsh",
+      "english_full": "Marsh",
+      "type": null,
+      "avar": "gož bogi bal",
+      "arabic": "گُژ بُگی بَل",
+      "page": 12
+    },
+    {
+      "english": "Masticate",
+      "english_full": "Masticate, v.",
+      "type": "verb",
+      "avar": "čamizi",
+      "arabic": "چَمیزی",
+      "page": 12
+    },
+    {
+      "english": "Means",
+      "english_full": "Means",
+      "type": null,
+      "avar": "čara",
+      "arabic": "چَر",
+      "page": 12
+    },
+    {
+      "english": "Meat (butcher’s, full grown)",
+      "english_full": "Meat (butcher’s, full grown)",
+      "type": null,
+      "avar": "usul han",
+      "arabic": "اوسول هَن",
+      "page": 12,
+      "note": "butcher’s, full grown"
+    },
+    {
+      "english": "Medicine",
+      "english_full": "Medicine",
+      "type": null,
+      "avar": "daru",
+      "arabic": "دارو",
+      "page": 12
+    },
+    {
+      "english": "Meet",
+      "english_full": "Meet, v.",
+      "type": "verb",
+      "avar": "dandit̲l̲izi",
+      "arabic": "دَندتلیزی",
+      "page": 12
+    },
+    {
+      "english": "Meeting",
+      "english_full": "Meeting, s.",
+      "type": "substantive",
+      "avar": "dandi",
+      "arabic": "دَندی",
+      "page": 12
+    },
+    {
+      "english": "Melon",
+      "english_full": "Melon",
+      "type": null,
+      "avar": "paṭikh",
+      "arabic": "پَتِخ",
+      "page": 12
+    },
+    {
+      "english": "Merchant",
+      "english_full": "Merchant",
+      "type": null,
+      "avar": "bazar gan",
+      "arabic": "بازَر گَن",
+      "page": 12
+    },
+    {
+      "english": "Merely",
+      "english_full": "Merely",
+      "type": null,
+      "avar": "hadint̲l̲u",
+      "arabic": "هَدِنتلو",
+      "page": 12
+    },
+    {
+      "english": "Middle",
+      "english_full": "Middle",
+      "type": null,
+      "avar": "centre, bat̲l̲ot̲l̲",
+      "arabic": "بَتلوَتْل",
+      "page": 12
+    },
+    {
+      "english": "Milk",
+      "english_full": "Milk, s.",
+      "type": "substantive",
+      "avar": "rag",
+      "arabic": "رَگ",
+      "page": 12
+    },
+    {
+      "english": "Milk",
+      "english_full": "Milk, v.",
+      "type": "verb",
+      "avar": "bečezi",
+      "arabic": "بِچیزی",
+      "page": 12
+    },
+    {
+      "english": "Mill",
+      "english_full": "Mill",
+      "type": null,
+      "avar": "hobo",
+      "arabic": "هُبو",
+      "page": 12
+    },
+    {
+      "english": "Miller",
+      "english_full": "Miller",
+      "type": null,
+      "avar": "hobohon",
+      "arabic": "بُبُهون",
+      "page": 12
+    },
+    {
+      "english": "Millet",
+      "english_full": "Millet",
+      "type": null,
+      "avar": "moč",
+      "arabic": "مُچ",
+      "page": 12
+    },
+    {
+      "english": "Mine, p. pron.",
+      "english_full": "Mine, p. pron.",
+      "type": "pronoun",
+      "avar": "der, deri",
+      "arabic": "دِر، دِری",
+      "page": 12
+    },
+    {
+      "english": "Mine",
+      "english_full": "Mine, s.",
+      "type": "substantive",
+      "avar": "maádin",
+      "arabic": "مآدِن",
+      "page": 12
+    },
+    {
+      "english": "Minute (of time)",
+      "english_full": "Minute (of time), s.",
+      "type": "substantive",
+      "avar": "daḳiḳa",
+      "arabic": "دَکیَک",
+      "page": 12,
+      "note": "of time"
+    },
+    {
+      "english": "Mirror",
+      "english_full": "Mirror",
+      "type": null,
+      "avar": "maṭu",
+      "arabic": "مَتو",
+      "page": 12
+    },
+    {
+      "english": "Misfortune",
+      "english_full": "Misfortune",
+      "type": null,
+      "avar": "balah",
+      "arabic": "بَله",
+      "page": 12
+    },
+    {
+      "english": "Mix",
+      "english_full": "Mix, v.",
+      "type": "verb",
+      "avar": "jubizi",
+      "arabic": "جوبیزی",
+      "page": 13
+    },
+    {
+      "english": "Monday",
+      "english_full": "Monday",
+      "type": null,
+      "avar": "Itniko, Itniḳo",
+      "arabic": "اثنیکو، اثنیکو",
+      "page": 13
+    },
+    {
+      "english": "Money",
+      "english_full": "Money",
+      "type": null,
+      "avar": "áratz",
+      "arabic": "آرَز",
+      "page": 13
+    },
+    {
+      "english": "Monkey",
+      "english_full": "Monkey",
+      "type": null,
+      "avar": "mai malak",
+      "arabic": "می مالک",
+      "page": 13
+    },
+    {
+      "english": "Month",
+      "english_full": "Month",
+      "type": null,
+      "avar": "mož",
+      "arabic": "مُد",
+      "page": 13
+    },
+    {
+      "english": "Moon",
+      "english_full": "Moon",
+      "type": null,
+      "avar": "mož",
+      "arabic": "مون",
+      "page": 13
+    },
+    {
+      "english": "More",
+      "english_full": "More",
+      "type": null,
+      "avar": "nakhagi, ṭarigi, ṭogab",
+      "arabic": "نخگی، تریگی، تُگَب",
+      "page": 13
+    },
+    {
+      "english": "Morning",
+      "english_full": "Morning",
+      "type": null,
+      "avar": "radaliṣi",
+      "arabic": "رَدلیسی، رَحَتْل",
+      "page": 13
+    },
+    {
+      "english": "Morning",
+      "english_full": "Morning",
+      "type": null,
+      "avar": "(in the morning), raḥat̲l̲",
+      "arabic": "رَدلیسی، رَحَتْل",
+      "page": 13
+    },
+    {
+      "english": "Morrow (to-morrow)",
+      "english_full": "Morrow (to-morrow)",
+      "type": null,
+      "avar": "meter",
+      "arabic": "مِتر",
+      "page": 13,
+      "note": "to-morrow"
+    },
+    {
+      "english": "Mosk",
+      "english_full": "Mosk",
+      "type": null,
+      "avar": "mejket",
+      "arabic": "مِجکِت",
+      "page": 13
+    },
+    {
+      "english": "Moth",
+      "english_full": "Moth",
+      "type": null,
+      "avar": "is",
+      "arabic": "عیس",
+      "page": 13
+    },
+    {
+      "english": "Mother",
+      "english_full": "Mother",
+      "type": null,
+      "avar": "ibel",
+      "arabic": "ایبِل",
+      "page": 13
+    },
+    {
+      "english": "Mot̲l̲ey, speckled",
+      "english_full": "Mot̲l̲ey, speckled",
+      "type": null,
+      "avar": "čarab",
+      "arabic": "چَرَب",
+      "page": 13
+    },
+    {
+      "english": "Mound (rampart)",
+      "english_full": "Mound (rampart)",
+      "type": null,
+      "avar": "ṣangar",
+      "arabic": "صَنگَر",
+      "page": 13,
+      "note": "rampart"
+    },
+    {
+      "english": "Mountain",
+      "english_full": "Mountain",
+      "type": null,
+      "avar": "miír",
+      "arabic": "میر",
+      "page": 13
+    },
+    {
+      "english": "Mountainous",
+      "english_full": "Mountainous",
+      "type": null,
+      "avar": "maárul (baku)",
+      "arabic": "مآرُل (بکو)",
+      "page": 13
+    },
+    {
+      "english": "Mouse",
+      "english_full": "Mouse",
+      "type": null,
+      "avar": "ónk",
+      "arabic": "بْنک",
+      "page": 13
+    },
+    {
+      "english": "Month",
+      "english_full": "Month",
+      "type": null,
+      "avar": "gal",
+      "arabic": "گَل",
+      "page": 13
+    },
+    {
+      "english": "Mow",
+      "english_full": "Mow, v.",
+      "type": "verb",
+      "avar": "večizi",
+      "arabic": "رِچیزی",
+      "page": 13
+    },
+    {
+      "english": "Much (as much as)",
+      "english_full": "Much (as much as)",
+      "type": null,
+      "avar": "ímer",
+      "arabic": "عِمر",
+      "page": 13,
+      "note": "as much as"
+    },
+    {
+      "english": "Much (how)",
+      "english_full": "Much (how)",
+      "type": null,
+      "avar": "kaán",
+      "arabic": "کَان",
+      "page": 13,
+      "note": "how"
+    },
+    {
+      "english": "Much (not)",
+      "english_full": "Much (not)",
+      "type": null,
+      "avar": "rahab",
+      "arabic": "رَهَب",
+      "page": 13,
+      "note": "not"
+    },
+    {
+      "english": "Much (so)",
+      "english_full": "Much (so)",
+      "type": null,
+      "avar": "hadián",
+      "arabic": "هَدیان",
+      "page": 13,
+      "note": "so"
+    },
+    {
+      "english": "Much (very)",
+      "english_full": "Much (very)",
+      "type": null,
+      "avar": "žaḳ ámiri",
+      "arabic": "ژَک آمری",
+      "page": 13,
+      "note": "very"
+    },
+    {
+      "english": "Mucous",
+      "english_full": "Mucous",
+      "type": null,
+      "avar": "khančrul",
+      "arabic": "خَنچرُل",
+      "page": 13
+    },
+    {
+      "english": "Mud",
+      "english_full": "Mud",
+      "type": null,
+      "avar": "ḥarš",
+      "arabic": "لارس",
+      "page": 13
+    },
+    {
+      "english": "Mule",
+      "english_full": "Mule",
+      "type": null,
+      "avar": "úrčen",
+      "arabic": "عِترچِن",
+      "page": 13
+    },
+    {
+      "english": "Murder",
+      "english_full": "Murder",
+      "type": null,
+      "avar": "čuvi",
+      "arabic": "چوری",
+      "page": 13
+    },
+    {
+      "english": "Muzzle (of gun)",
+      "english_full": "Muzzle (of gun)",
+      "type": null,
+      "avar": "tufenkut̲l̲gal",
+      "arabic": "توفِنکُتلگَل",
+      "page": 13,
+      "note": "of gun"
+    },
+    {
+      "english": "Mystery",
+      "english_full": "Mystery",
+      "type": null,
+      "avar": "bot̲l̲agu",
+      "arabic": "بُتْلگو",
+      "page": 13
+    }
+  ],
+  "count": 60
+}

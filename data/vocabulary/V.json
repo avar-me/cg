@@ -1,0 +1,87 @@
+{
+  "letter": "V",
+  "entries": [
+    {
+      "english": "Vain (in)",
+      "english_full": "Vain (in)",
+      "type": null,
+      "avar": "adada",
+      "arabic": "آدَدا",
+      "page": 21,
+      "note": "in"
+    },
+    {
+      "english": "Vein",
+      "english_full": "Vein",
+      "type": null,
+      "avar": "bidurik",
+      "arabic": "بیدوریک",
+      "page": 21
+    },
+    {
+      "english": "Very",
+      "english_full": "Very",
+      "type": null,
+      "avar": "žaḳ",
+      "arabic": "ژَک",
+      "page": 21
+    },
+    {
+      "english": "Vexation",
+      "english_full": "Vexation",
+      "type": null,
+      "avar": "kvarit̲l̲i, ṣankhan",
+      "arabic": "کُورتِطی، سَنخَن",
+      "page": 21
+    },
+    {
+      "english": "Victim",
+      "english_full": "Victim",
+      "type": null,
+      "avar": "korman",
+      "arabic": "کُرمَن",
+      "page": 21
+    },
+    {
+      "english": "Victory",
+      "english_full": "Victory",
+      "type": null,
+      "avar": "bir hent̲l̲i",
+      "arabic": "بیر هِنول",
+      "page": 21
+    },
+    {
+      "english": "Village",
+      "english_full": "Village",
+      "type": null,
+      "avar": "rotho",
+      "arabic": "رُثُ",
+      "page": 21
+    },
+    {
+      "english": "Vinegar",
+      "english_full": "Vinegar",
+      "type": null,
+      "avar": "ḳanza",
+      "arabic": "کَنز",
+      "page": 21
+    },
+    {
+      "english": "Voice",
+      "english_full": "Voice",
+      "type": null,
+      "avar": "harat̲l̲",
+      "arabic": "هَرَطی",
+      "page": 21
+    },
+    {
+      "english": "Vulture",
+      "english_full": "Vulture",
+      "type": null,
+      "avar": "iṭarku",
+      "arabic": "عِتَرکو",
+      "page": 21
+    }
+  ],
+  "count": 10
+}

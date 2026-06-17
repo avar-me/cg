@@ -1,0 +1,790 @@
+{
+  "letter": "B",
+  "entries": [
+    {
+      "english": "Back, spine",
+      "english_full": "Back, spine, s.",
+      "type": "substantive",
+      "avar": "mogh",
+      "arabic": "موغ",
+      "page": 1
+    },
+    {
+      "english": "Backward",
+      "english_full": "Backward, adv.",
+      "type": "adverb",
+      "avar": "khadob",
+      "arabic": "خدب",
+      "page": 2
+    },
+    {
+      "english": "Badly",
+      "english_full": "Badly, adv.",
+      "type": "adverb",
+      "avar": "ḥalak",
+      "arabic": "هلک",
+      "page": 2
+    },
+    {
+      "english": "Bag, sack",
+      "english_full": "Bag, sack",
+      "type": null,
+      "avar": "tandat̲l̲u, ṭarga",
+      "arabic": "تندت، ترگ",
+      "page": 2
+    },
+    {
+      "english": "Balcony",
+      "english_full": "Balcony",
+      "type": null,
+      "avar": "raghi",
+      "arabic": "رغی",
+      "page": 2
+    },
+    {
+      "english": "Bald",
+      "english_full": "Bald, adj.",
+      "type": "adjective",
+      "avar": "tiḥavči",
+      "arabic": "تیبوچی",
+      "page": 2
+    },
+    {
+      "english": "Bale, (to ladle)",
+      "english_full": "Bale, v.a. (to ladle)",
+      "type": "verb active",
+      "avar": "žizi",
+      "arabic": "ژزی",
+      "page": 2
+    },
+    {
+      "english": "Bank, shore",
+      "english_full": "Bank, shore",
+      "type": null,
+      "avar": "raāk",
+      "arabic": "رآک",
+      "page": 2
+    },
+    {
+      "english": "Bark",
+      "english_full": "Bark, v.",
+      "type": "verb",
+      "avar": "ḥapdizī",
+      "arabic": "حپدیزی",
+      "page": 2
+    },
+    {
+      "english": "Barley",
+      "english_full": "Barley",
+      "type": null,
+      "avar": "forčina",
+      "arabic": "فرچنا",
+      "page": 2
+    },
+    {
+      "english": "Barrel",
+      "english_full": "Barrel",
+      "type": null,
+      "avar": "ḥinḳi",
+      "arabic": "هنکی",
+      "page": 2
+    },
+    {
+      "english": "Bastard",
+      "english_full": "Bastard",
+      "type": null,
+      "avar": "kva ṭut̲l̲a",
+      "arabic": "کوا توْتلا",
+      "page": 2
+    },
+    {
+      "english": "Bat (mouse bird)",
+      "english_full": "Bat (mouse bird)",
+      "type": null,
+      "avar": "unḳ henč",
+      "arabic": "اونک هنچ",
+      "page": 2,
+      "note": "mouse bird"
+    },
+    {
+      "english": "Bathe",
+      "english_full": "Bathe, v.a.",
+      "type": "verb active",
+      "avar": "čuvirdizi",
+      "arabic": "چویردزی",
+      "page": 2
+    },
+    {
+      "english": "Be",
+      "english_full": "Be, v.a.",
+      "type": "verb active",
+      "avar": "bukizi",
+      "arabic": "بوکیزی",
+      "page": 2
+    },
+    {
+      "english": "Beak (of bird)",
+      "english_full": "Beak (of bird)",
+      "type": null,
+      "avar": "gozo",
+      "arabic": "گوز",
+      "page": 2,
+      "note": "of bird"
+    },
+    {
+      "english": "Bean",
+      "english_full": "Bean",
+      "type": null,
+      "avar": "holo",
+      "arabic": "هُل",
+      "page": 2
+    },
+    {
+      "english": "Bear",
+      "english_full": "Bear",
+      "type": null,
+      "avar": "tzii",
+      "arabic": "تزی",
+      "page": 2
+    },
+    {
+      "english": "Beard",
+      "english_full": "Beard",
+      "type": null,
+      "avar": "megej",
+      "arabic": "میگج",
+      "page": 2
+    },
+    {
+      "english": "Beat",
+      "english_full": "Beat, v.a.",
+      "type": "verb active",
+      "avar": "t̲l̲abizi",
+      "arabic": "تابزی",
+      "page": 2
+    },
+    {
+      "english": "Because",
+      "english_full": "Because",
+      "type": null,
+      "avar": "guruni, šei guruni",
+      "arabic": "گورونی، شی گورنی",
+      "page": 2
+    },
+    {
+      "english": "Bee",
+      "english_full": "Bee",
+      "type": null,
+      "avar": "nai",
+      "arabic": "نی",
+      "page": 2
+    },
+    {
+      "english": "Beet̲l̲e",
+      "english_full": "Beet̲l̲e",
+      "type": null,
+      "avar": "doz",
+      "arabic": "دُز",
+      "page": 2
+    },
+    {
+      "english": "Before",
+      "english_full": "Before",
+      "type": null,
+      "avar": "sebe, tsebe",
+      "arabic": "سبه، تسبه",
+      "page": 2
+    },
+    {
+      "english": "Beg (ask)",
+      "english_full": "Beg (ask), v.a.",
+      "type": "verb active",
+      "avar": "herizi",
+      "arabic": "هیرزی",
+      "page": 2,
+      "note": "ask"
+    },
+    {
+      "english": "Beggar",
+      "english_full": "Beggar",
+      "type": null,
+      "avar": "hardukhan",
+      "arabic": "هردوخان",
+      "page": 2
+    },
+    {
+      "english": "Behead",
+      "english_full": "Behead, v.a.",
+      "type": "verb active",
+      "avar": "khovezi-habezi",
+      "arabic": "خوِزی-هَبزی",
+      "page": 2
+    },
+    {
+      "english": "Bell (small)",
+      "english_full": "Bell (small)",
+      "type": null,
+      "avar": "žumur",
+      "arabic": "ژومر",
+      "page": 2,
+      "note": "small"
+    },
+    {
+      "english": "Belly",
+      "english_full": "Belly",
+      "type": null,
+      "avar": "ček",
+      "arabic": "چک",
+      "page": 2
+    },
+    {
+      "english": "Berry",
+      "english_full": "Berry",
+      "type": null,
+      "avar": "ḳari",
+      "arabic": "کری",
+      "page": 2
+    },
+    {
+      "english": "Belt",
+      "english_full": "Belt",
+      "type": null,
+      "avar": "račel",
+      "arabic": "راچل",
+      "page": 2
+    },
+    {
+      "english": "Benefit (profit)",
+      "english_full": "Benefit (profit)",
+      "type": null,
+      "avar": "khair, habuna",
+      "arabic": "خیر، هبونا",
+      "page": 2,
+      "note": "profit"
+    },
+    {
+      "english": "Bequeath",
+      "english_full": "Bequeath, v.a.",
+      "type": "verb active",
+      "avar": "vaṣiyat habizi",
+      "arabic": "وصیت هابزی",
+      "page": 2
+    },
+    {
+      "english": "Betray",
+      "english_full": "Betray, v.a.",
+      "type": "verb active",
+      "avar": "lamart̲l̲i habizi",
+      "arabic": "لمرولی هابزی",
+      "page": 2
+    },
+    {
+      "english": "Between",
+      "english_full": "Between",
+      "type": null,
+      "avar": "hort̲l̲o",
+      "arabic": "هرتلو",
+      "page": 2
+    },
+    {
+      "english": "Big, large",
+      "english_full": "Big, large",
+      "type": null,
+      "avar": "gudiyao",
+      "arabic": "گودیو",
+      "page": 2
+    },
+    {
+      "english": "Bigness",
+      "english_full": "Bigness",
+      "type": null,
+      "avar": "gudiyavt̲l̲i",
+      "arabic": "گودیووتلی",
+      "page": 2
+    },
+    {
+      "english": "Bird",
+      "english_full": "Bird",
+      "type": null,
+      "avar": "ḥinč",
+      "arabic": "هنچ",
+      "page": 2
+    },
+    {
+      "english": "Birth",
+      "english_full": "Birth, s.",
+      "type": "substantive",
+      "avar": "habi",
+      "arabic": "هبی",
+      "page": 2
+    },
+    {
+      "english": "Birth, to give",
+      "english_full": "Birth, to give, v.a.",
+      "type": "verb active",
+      "avar": "kent̲l̲izi",
+      "arabic": "کنتلیزی",
+      "page": 2
+    },
+    {
+      "english": "Bitterly",
+      "english_full": "Bitterly",
+      "type": null,
+      "avar": "t̲l̲uib",
+      "arabic": "تویب",
+      "page": 2
+    },
+    {
+      "english": "Bitumen",
+      "english_full": "Bitumen",
+      "type": null,
+      "avar": "pič",
+      "arabic": ".. پیچ",
+      "page": 2
+    },
+    {
+      "english": "Black",
+      "english_full": "Black, adj.",
+      "type": "adjective",
+      "avar": "čairab",
+      "arabic": "چیرب",
+      "page": 2
+    },
+    {
+      "english": "Blacksmith",
+      "english_full": "Blacksmith",
+      "type": null,
+      "avar": "makhul uṣtar",
+      "arabic": "مخول استر",
+      "page": 2
+    },
+    {
+      "english": "Blade (of sword or knife)",
+      "english_full": "Blade (of sword or knife)",
+      "type": null,
+      "avar": "bal",
+      "arabic": "بل",
+      "page": 2,
+      "note": "of sword or knife"
+    },
+    {
+      "english": "Blanket, coverlet",
+      "english_full": "Blanket, coverlet",
+      "type": null,
+      "avar": "vivghan",
+      "arabic": "ویوغان",
+      "page": 2
+    },
+    {
+      "english": "Blind, blind man, (a man in darkness)",
+      "english_full": "Blind, s. blind man, (a man in darkness)",
+      "type": "substantive",
+      "avar": "bičau",
+      "arabic": "بیچو",
+      "page": 2
+    },
+    {
+      "english": "Blood",
+      "english_full": "Blood",
+      "type": null,
+      "avar": "bi",
+      "arabic": "بی",
+      "page": 2
+    },
+    {
+      "english": "Blow, puff",
+      "english_full": "Blow, puff, v.",
+      "type": "verb",
+      "avar": "puizi",
+      "arabic": "پویزی",
+      "page": 2
+    },
+    {
+      "english": "Blue",
+      "english_full": "Blue",
+      "type": null,
+      "avar": "ḳaḥelab",
+      "arabic": "کحلب",
+      "page": 2
+    },
+    {
+      "english": "Blunt, dull",
+      "english_full": "Blunt, dull",
+      "type": null,
+      "avar": "regunarib",
+      "arabic": "ریگونریب",
+      "page": 2
+    },
+    {
+      "english": "Boat (small)",
+      "english_full": "Boat (small)",
+      "type": null,
+      "avar": "gama",
+      "arabic": "گما",
+      "page": 2,
+      "note": "small"
+    },
+    {
+      "english": "Board",
+      "english_full": "Board",
+      "type": null,
+      "avar": "kharši",
+      "arabic": "خرشی",
+      "page": 2
+    },
+    {
+      "english": "Bodkin",
+      "english_full": "Bodkin",
+      "type": null,
+      "avar": "sasu",
+      "arabic": "زیکین، ساسو",
+      "page": 3
+    },
+    {
+      "english": "Boil",
+      "english_full": "Boil, v.a.",
+      "type": "verb active",
+      "avar": "bet̲l̲ezi",
+      "arabic": "نی، بتلزی",
+      "page": 3
+    },
+    {
+      "english": "Boiler, cauldron",
+      "english_full": "Boiler, cauldron",
+      "type": null,
+      "avar": "gag",
+      "arabic": "گگ",
+      "page": 3
+    },
+    {
+      "english": "Boiling (to be)",
+      "english_full": "Boiling (to be), v.a.",
+      "type": "verb active",
+      "avar": "haldezi",
+      "arabic": "هالدیزی",
+      "page": 3,
+      "note": "to be"
+    },
+    {
+      "english": "Bone",
+      "english_full": "Bone",
+      "type": null,
+      "avar": "rat̲l̲a",
+      "arabic": "رتلا",
+      "page": 3
+    },
+    {
+      "english": "Book",
+      "english_full": "Book",
+      "type": null,
+      "avar": "ṭig",
+      "arabic": "ریگ",
+      "page": 3
+    },
+    {
+      "english": "Boot",
+      "english_full": "Boot",
+      "type": null,
+      "avar": "čakma",
+      "arabic": "چکما",
+      "page": 3
+    },
+    {
+      "english": "Bott̲l̲e",
+      "english_full": "Bott̲l̲e",
+      "type": null,
+      "avar": "šiša",
+      "arabic": "شیسا",
+      "page": 3
+    },
+    {
+      "english": "Bottom",
+      "english_full": "Bottom",
+      "type": null,
+      "avar": "tinu",
+      "arabic": "تینو",
+      "page": 3
+    },
+    {
+      "english": "Boundary",
+      "english_full": "Boundary",
+      "type": null,
+      "avar": "órḳhi, horḳubag",
+      "arabic": "اُرخ، هُرعوبگ",
+      "page": 3
+    },
+    {
+      "english": "Bow, saluto",
+      "english_full": "Bow, saluto, v.a.",
+      "type": "verb active",
+      "avar": "beter čavazi",
+      "arabic": "او، سالوتو، بتِر چاوازی",
+      "page": 3
+    },
+    {
+      "english": "Bow, (for arrows)",
+      "english_full": "Bow, s. (for arrows)",
+      "type": "substantive",
+      "avar": "boṭ",
+      "arabic": "بُت",
+      "page": 3
+    },
+    {
+      "english": "Box",
+      "english_full": "Box",
+      "type": null,
+      "avar": "ghamaṣ",
+      "arabic": "غمس",
+      "page": 3
+    },
+    {
+      "english": "Brains",
+      "english_full": "Brains",
+      "type": null,
+      "avar": "adalnakh",
+      "arabic": "ادلنخ",
+      "page": 3
+    },
+    {
+      "english": "Branch, twig",
+      "english_full": "Branch, twig",
+      "type": null,
+      "avar": "žolbol ghayu, art̲l̲al",
+      "arabic": "ژُلبُل غیو، ارتلال",
+      "page": 3
+    },
+    {
+      "english": "Brandy",
+      "english_full": "Brandy",
+      "type": null,
+      "avar": "áraki",
+      "arabic": "آروکی",
+      "page": 3
+    },
+    {
+      "english": "Bread",
+      "english_full": "Bread",
+      "type": null,
+      "avar": "čed",
+      "arabic": "چد",
+      "page": 3
+    },
+    {
+      "english": "Break",
+      "english_full": "Break, v.a.",
+      "type": "verb active",
+      "avar": "bekizi ghorizi",
+      "arabic": "بیکیزی غُریزی",
+      "page": 3
+    },
+    {
+      "english": "Breast",
+      "english_full": "Breast",
+      "type": null,
+      "avar": "keren",
+      "arabic": "کِرن",
+      "page": 3
+    },
+    {
+      "english": "Breathe",
+      "english_full": "Breathe, v.a.",
+      "type": "verb active",
+      "avar": "ḥug bakhizi",
+      "arabic": "هوگ بخیزی",
+      "page": 3
+    },
+    {
+      "english": "Bribe, present",
+      "english_full": "Bribe, present",
+      "type": null,
+      "avar": "kvelṭi",
+      "arabic": "کوِلتای",
+      "page": 3
+    },
+    {
+      "english": "Bride",
+      "english_full": "Bride",
+      "type": null,
+      "avar": "aburai yas",
+      "arabic": "ابورای یس",
+      "page": 3
+    },
+    {
+      "english": "Bridegroom",
+      "english_full": "Bridegroom",
+      "type": null,
+      "avar": "aburau vas",
+      "arabic": "ابورو یس",
+      "page": 3
+    },
+    {
+      "english": "Bridge",
+      "english_full": "Bridge",
+      "type": null,
+      "avar": "t̲l̲o, t̲l̲ot̲l̲",
+      "arabic": "تلو، تلوْتل",
+      "page": 3
+    },
+    {
+      "english": "Broad",
+      "english_full": "Broad",
+      "type": null,
+      "avar": "ibau",
+      "arabic": "ایبو",
+      "page": 3
+    },
+    {
+      "english": "Broom",
+      "english_full": "Broom",
+      "type": null,
+      "avar": "želiž",
+      "arabic": "ژِلیز",
+      "page": 3
+    },
+    {
+      "english": "Brother",
+      "english_full": "Brother",
+      "type": null,
+      "avar": "vas",
+      "arabic": "رُثر، وس",
+      "page": 3
+    },
+    {
+      "english": "Brother-in-law",
+      "english_full": "Brother-in-law",
+      "type": null,
+      "avar": "vat̲l̲ad vas",
+      "arabic": "ولّد وس",
+      "page": 3
+    },
+    {
+      "english": "Brown",
+      "english_full": "Brown, adj.",
+      "type": "adjective",
+      "avar": "tut̲l̲alterab",
+      "arabic": "توتْلَتِرَب",
+      "page": 3
+    },
+    {
+      "english": "Bruise",
+      "english_full": "Bruise, v.a.",
+      "type": "verb active",
+      "avar": "činṭizi",
+      "arabic": "چینتیزی",
+      "page": 3
+    },
+    {
+      "english": "Buckle",
+      "english_full": "Buckle",
+      "type": null,
+      "avar": "ig, maž",
+      "arabic": "ایگ، مز",
+      "page": 3
+    },
+    {
+      "english": "Bud",
+      "english_full": "Bud",
+      "type": null,
+      "avar": "ubač",
+      "arabic": "اُبچ",
+      "page": 3
+    },
+    {
+      "english": "Bug",
+      "english_full": "Bug",
+      "type": null,
+      "avar": "junjura",
+      "arabic": "جونجور",
+      "page": 3
+    },
+    {
+      "english": "Build",
+      "english_full": "Build, v.a.",
+      "type": "verb active",
+      "avar": "habizi, razi",
+      "arabic": "هابزی",
+      "page": 3
+    },
+    {
+      "english": "Bullet",
+      "english_full": "Bullet",
+      "type": null,
+      "avar": "gulla",
+      "arabic": "گُلا",
+      "page": 3
+    },
+    {
+      "english": "Bullock, Buffalo",
+      "english_full": "Bullock, Buffalo",
+      "type": null,
+      "avar": "gamuš",
+      "arabic": "بوفلو",
+      "page": 3
+    },
+    {
+      "english": "Burn",
+      "english_full": "Burn, v.a.",
+      "type": "verb active",
+      "avar": "žaghizi",
+      "arabic": "ژگبیزی",
+      "page": 3
+    },
+    {
+      "english": "Bush",
+      "english_full": "Bush",
+      "type": null,
+      "avar": "zaz",
+      "arabic": "زز",
+      "page": 3
+    },
+    {
+      "english": "Business",
+      "english_full": "Business",
+      "type": null,
+      "avar": "ḥalṭi",
+      "arabic": "هَلتی",
+      "page": 3
+    },
+    {
+      "english": "But",
+      "english_full": "But",
+      "type": null,
+      "avar": "huv",
+      "arabic": "هوو",
+      "page": 3
+    },
+    {
+      "english": "Butter",
+      "english_full": "Butter",
+      "type": null,
+      "avar": "nakh",
+      "arabic": "نخ",
+      "page": 3
+    },
+    {
+      "english": "Butterfly",
+      "english_full": "Butterfly",
+      "type": null,
+      "avar": "tatalat̲l̲uč",
+      "arabic": "تَتَلَتْلُچ",
+      "page": 3
+    },
+    {
+      "english": "Button",
+      "english_full": "Button",
+      "type": null,
+      "avar": "íg",
+      "arabic": "ایگ",
+      "page": 3
+    },
+    {
+      "english": "Buy",
+      "english_full": "Buy, v.a.",
+      "type": "verb active",
+      "avar": "bičun bisizi",
+      "arabic": "بیچون بیسیزی",
+      "page": 3
+    }
+  ],
+  "count": 97
+}

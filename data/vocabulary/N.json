@@ -1,0 +1,292 @@
+{
+  "letter": "N",
+  "entries": [
+    {
+      "english": "Nail (of finger)",
+      "english_full": "Nail (of finger)",
+      "type": null,
+      "avar": "mot̲l̲",
+      "arabic": "مُتل",
+      "page": 13,
+      "note": "of finger"
+    },
+    {
+      "english": "Nail (iron)",
+      "english_full": "Nail (iron)",
+      "type": null,
+      "avar": "maá",
+      "arabic": "مآ",
+      "page": 13,
+      "note": "iron"
+    },
+    {
+      "english": "Naked",
+      "english_full": "Naked",
+      "type": null,
+      "avar": "ížau",
+      "arabic": "لژو",
+      "page": 13
+    },
+    {
+      "english": "Name",
+      "english_full": "Name",
+      "type": null,
+      "avar": "žar",
+      "arabic": "ژَر",
+      "page": 13
+    },
+    {
+      "english": "Nape (of neck)",
+      "english_full": "Nape (of neck)",
+      "type": null,
+      "avar": "gavinša, gargas",
+      "arabic": "گَوینسا، گَرگَس",
+      "page": 13,
+      "note": "of neck"
+    },
+    {
+      "english": "Naphtha",
+      "english_full": "Naphtha",
+      "type": null,
+      "avar": "nap, nart",
+      "arabic": "نَپ، نَرت",
+      "page": 13
+    },
+    {
+      "english": "Narrow",
+      "english_full": "Narrow",
+      "type": null,
+      "avar": "ḳvaridau",
+      "arabic": "کُواریدو",
+      "page": 13
+    },
+    {
+      "english": "Navel",
+      "english_full": "Navel",
+      "type": null,
+      "avar": "žan",
+      "arabic": "ژَن",
+      "page": 13
+    },
+    {
+      "english": "Near (in the presence of)",
+      "english_full": "Near (in the presence of)",
+      "type": null,
+      "avar": "ṣibi",
+      "arabic": "سیبی",
+      "page": 13,
+      "note": "in the presence of"
+    },
+    {
+      "english": "Near (in the neighbourhood)",
+      "english_full": "Near (in the neighbourhood)",
+      "type": null,
+      "avar": "ágar",
+      "arabic": "آگَر",
+      "page": 13,
+      "note": "in the neighbourhood"
+    },
+    {
+      "english": "Nearly",
+      "english_full": "Nearly",
+      "type": null,
+      "avar": "bali",
+      "arabic": "بَیل",
+      "page": 13
+    },
+    {
+      "english": "Neck",
+      "english_full": "Neck",
+      "type": null,
+      "avar": "gabor",
+      "arabic": "گَبر",
+      "page": 13
+    },
+    {
+      "english": "Needle",
+      "english_full": "Needle",
+      "type": null,
+      "avar": "rogen",
+      "arabic": "رُگِن",
+      "page": 13
+    },
+    {
+      "english": "Neigh",
+      "english_full": "Neigh, v.",
+      "type": "verb",
+      "avar": "ḥiḥidizi",
+      "arabic": "هی هیدیزی",
+      "page": 13
+    },
+    {
+      "english": "Neighbour",
+      "english_full": "Neighbour",
+      "type": null,
+      "avar": "madohol",
+      "arabic": "مَدُهُل",
+      "page": 13
+    },
+    {
+      "english": "Nest",
+      "english_full": "Nest",
+      "type": null,
+      "avar": "bosin, ḥenčel",
+      "arabic": "بُسِن، هِنچِل",
+      "page": 13
+    },
+    {
+      "english": "Never",
+      "english_full": "Never",
+      "type": null,
+      "avar": "šimikhat̲l̲ogo kidago",
+      "arabic": "سیمیختلگو کیدگو",
+      "page": 13
+    },
+    {
+      "english": "New born",
+      "english_full": "New born",
+      "type": null,
+      "avar": "t̲l̲imir",
+      "arabic": "تِیل میر",
+      "page": 13
+    },
+    {
+      "english": "New",
+      "english_full": "New",
+      "type": null,
+      "avar": "ič",
+      "arabic": "ایچ",
+      "page": 14
+    },
+    {
+      "english": "News",
+      "english_full": "News",
+      "type": null,
+      "avar": "žiyau",
+      "arabic": "ژِیو",
+      "page": 14
+    },
+    {
+      "english": "Night",
+      "english_full": "Night, s.",
+      "type": "substantive",
+      "avar": "sordo",
+      "arabic": "سُردُ",
+      "page": 14
+    },
+    {
+      "english": "Night (by, or during the)",
+      "english_full": "Night (by, or during the), adv.",
+      "type": "adverb",
+      "avar": "kaṣṣi",
+      "arabic": "کَسی",
+      "page": 14,
+      "note": "by, or during the"
+    },
+    {
+      "english": "Nightingale",
+      "english_full": "Nightingale",
+      "type": null,
+      "avar": "bulbul",
+      "arabic": "بُلبُل",
+      "page": 14
+    },
+    {
+      "english": "No",
+      "english_full": "No",
+      "type": null,
+      "avar": "goro, hečo",
+      "arabic": "گُر، هِچُ",
+      "page": 14
+    },
+    {
+      "english": "Nobody",
+      "english_full": "Nobody",
+      "type": null,
+      "avar": "goro, viču",
+      "arabic": "گُر، وِچو",
+      "page": 14
+    },
+    {
+      "english": "Nod",
+      "english_full": "Nod",
+      "type": "verb",
+      "avar": "doze, ghaghulut̲l̲un vuguzi, tat̲l̲i ḳubizi",
+      "arabic": "غَغُلتیلون، یوگوُزی، تَتلی کوُبیزی",
+      "page": 14
+    },
+    {
+      "english": "North",
+      "english_full": "North",
+      "type": null,
+      "avar": "ḳilba",
+      "arabic": "کِلب",
+      "page": 14
+    },
+    {
+      "english": "Noose",
+      "english_full": "Noose",
+      "type": null,
+      "avar": "ék",
+      "arabic": "عِک",
+      "page": 14
+    },
+    {
+      "english": "Nose",
+      "english_full": "Nose",
+      "type": null,
+      "avar": "máír",
+      "arabic": "مایر",
+      "page": 14
+    },
+    {
+      "english": "Nostrils",
+      "english_full": "Nostrils",
+      "type": null,
+      "avar": "maírzo ḳalal",
+      "arabic": "مایزو کَلَل",
+      "page": 14
+    },
+    {
+      "english": "Now",
+      "english_full": "Now",
+      "type": null,
+      "avar": "hanj, ášṭi",
+      "arabic": "هَنج، آستی",
+      "page": 14
+    },
+    {
+      "english": "Nurse",
+      "english_full": "Nurse",
+      "type": null,
+      "avar": "rakkan ibel",
+      "arabic": "رَکّن ایبِل",
+      "page": 14
+    },
+    {
+      "english": "Nut",
+      "english_full": "Nut",
+      "type": null,
+      "avar": "žolat̲l̲u",
+      "arabic": "ژُلَتلو",
+      "page": 14
+    },
+    {
+      "english": "Nutshell",
+      "english_full": "Nutshell",
+      "type": null,
+      "avar": "ábul",
+      "arabic": "آبُل",
+      "page": 14
+    },
+    {
+      "english": "Nut tree",
+      "english_full": "Nut tree",
+      "type": null,
+      "avar": "žolat̲l̲u ghoveṭ",
+      "arabic": "ژُلَتلو غوِت",
+      "page": 14
+    }
+  ],
+  "count": 35
+}

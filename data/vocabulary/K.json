@@ -1,0 +1,103 @@
+{
+  "letter": "K",
+  "entries": [
+    {
+      "english": "Kettle",
+      "english_full": "Kettle",
+      "type": null,
+      "avar": "khag",
+      "arabic": "خَگ",
+      "page": 11
+    },
+    {
+      "english": "Key",
+      "english_full": "Key",
+      "type": null,
+      "avar": "ḳol",
+      "arabic": "کُل",
+      "page": 11
+    },
+    {
+      "english": "Kidney",
+      "english_full": "Kidney",
+      "type": null,
+      "avar": "tahol ḳuvača",
+      "arabic": "تَهُل کُواچ",
+      "page": 11
+    },
+    {
+      "english": "Kill",
+      "english_full": "Kill, v.",
+      "type": "verb",
+      "avar": "čuvazi",
+      "arabic": "چُوَزی",
+      "page": 11
+    },
+    {
+      "english": "Kind",
+      "english_full": "Kind",
+      "type": null,
+      "avar": "adj, t̲l̲iyab",
+      "arabic": "تِلیوب",
+      "page": 11
+    },
+    {
+      "english": "Kiss",
+      "english_full": "Kiss, s.",
+      "type": "substantive",
+      "avar": "ubač",
+      "arabic": "اُبچ",
+      "page": 11
+    },
+    {
+      "english": "Kitchen",
+      "english_full": "Kitchen",
+      "type": null,
+      "avar": "kvanerut",
+      "arabic": "کُوَنِرُت",
+      "page": 11
+    },
+    {
+      "english": "Knee",
+      "english_full": "Knee",
+      "type": null,
+      "avar": "nako",
+      "arabic": "نَکو",
+      "page": 11
+    },
+    {
+      "english": "Knife",
+      "english_full": "Knife",
+      "type": null,
+      "avar": "nos",
+      "arabic": "نُس",
+      "page": 11
+    },
+    {
+      "english": "Knot",
+      "english_full": "Knot",
+      "type": null,
+      "avar": "karaž",
+      "arabic": "کَراژ",
+      "page": 11
+    },
+    {
+      "english": "Know",
+      "english_full": "Know, v.",
+      "type": "verb",
+      "avar": "t̲l̲azi",
+      "arabic": "تلاژی",
+      "page": 11
+    },
+    {
+      "english": "Kurgàn (a mound or tumulus)",
+      "english_full": "Kurgàn (a mound or tumulus)",
+      "type": null,
+      "avar": "koḥ",
+      "arabic": "کُل",
+      "page": 11,
+      "note": "a mound or tumulus"
+    }
+  ],
+  "count": 12
+}

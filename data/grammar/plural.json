@@ -1,0 +1,22 @@
+{
+  "title": "4C. The Formation of the Plural",
+  "sections": [
+    {
+      "id": "general",
+      "title": "General Pattern",
+      "content": "The ending [-al] is the most common form, though in a number of cases, especially when the noun ends in a vowel or a sonorant, -bi (ب) is used instead. I cannot, however, give a general rule, and suspect that practice will show only a broad direction in these declensions. For example:",
+      "body": "<table class=\"grammar-table compact\"><thead><tr><th>Singular</th><th>Gloss</th><th>Plural</th><th>Gloss</th></tr></thead><tbody><tr><td class=\"latin\">ṭaṭalatluč</td><td>“butterfly”</td><td class=\"latin\">ṭaṭalatluč-al</td><td>“butterflies”</td></tr><tr><td class=\"latin\">ragh</td><td>“war”</td><td class=\"latin\">raghal</td><td>“wars”</td></tr><tr><td class=\"latin\">ṭino</td><td>“bottom”</td><td class=\"latin\">ṭinabi</td><td>“depths”</td></tr><tr><td class=\"latin\">maṭo</td><td>“mirror”</td><td class=\"latin\">maṭibi</td><td>“mirrors”</td></tr><tr><td class=\"latin\">roggen</td><td>“needle”</td><td class=\"latin\">roggibi</td><td>“needles”</td></tr></tbody></table>"
+    },
+    {
+      "id": "irregular",
+      "title": "Stem-vowel Changes",
+      "content": "The vowel accompanying the final root consonant in the singular, as in 'Othmanli, almost certainly undergoes some modification in the plural and in combination with another word.\n\nThis simply has to be memorised. Take, for instance, the following words, though more may be found:",
+      "body": "<table class=\"grammar-table compact\"><thead><tr><th>Singular</th><th>Gloss</th><th>Plural</th><th>Gloss</th></tr></thead><tbody><tr><td class=\"latin\">žohor</td><td>“thief”</td><td class=\"latin\">žohorzabi</td><td>“thieves”</td></tr><tr><td class=\"latin\">keren</td><td>“breast”</td><td class=\"latin\">kurmul</td><td>“breasts”</td></tr><tr><td class=\"latin\">ghoveṭ</td><td>“tree”</td><td class=\"latin\">ghoṭobe</td><td>“trees”</td></tr><tr><td class=\"latin\">tlimer</td><td>“child”</td><td class=\"latin\">tlimal</td><td>“children”</td></tr><tr><td class=\"latin\">'abdal</td><td>“fool”</td><td class=\"latin\">'abdalzabi</td><td>“fools”</td></tr><tr><td class=\"latin\">tinge</td><td>“drop”</td><td class=\"latin\">tingina</td><td>“drops”</td></tr><tr><td class=\"latin\">in</td><td>“ear”</td><td class=\"latin\">indol</td><td>“ears”</td></tr></tbody></table>"
+    },
+    {
+      "id": "no_plural",
+      "title": "Nouns Without a Plural",
+      "content": "Verbal nouns have no plural: habi “action,” from habiži “to do”; ḳobultli “agreement,” from ḳobultlizi “to agree”; and in several other cases for which I cannot give a reason: mikk “oak,” ḳoli “hill,” žebil “grape,” while words with collective meaning, such as bičitli “wealth,” naturally have no singular."
+    }
+  ]
+}

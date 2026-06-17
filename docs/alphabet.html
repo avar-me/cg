@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE ALPHABET - The Avâr Language</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>The Avâr Language</h1>
+            <p>Vocabulary compiled by Cyril Graham, Royal Asiatic Society, 1881</p>
+        </div>
+    </header>
+
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Vocabulary</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="alphabet.html">Alphabet</a></li>
+                <li><a href="grammar/index.html">Grammar</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container">
+            <div class="content-section">
+                <h2>THE ALPHABET</h2>
+                
+                <!-- Introduction text -->
+                <div id="introduction-text">
+                    <p class="loading">Loading introduction...</p>
+                </div>
+                
+                <!-- Main text -->
+                <div id="main-text">
+                    <p class="loading">Loading main text...</p>
+                </div>
+                
+                <!-- Notes section -->
+                <div id="notes-text">
+                    <p class="loading">Loading notes...</p>
+                </div>
+                
+                <!-- Consonants section -->
+                <div id="consonants-section">
+                    <p class="loading">Loading consonants information...</p>
+                </div>
+                
+                <!-- Vowels section -->
+                <div id="vowels-section">
+                    <p class="loading">Loading vowels information...</p>
+                </div>
+                
+                <!-- Additional table: Latin Alphabet with Unicode Information -->
+                <h3>Latin Alphabet with Unicode Information</h3>
+                <p>
+                    These are the Latin characters used to represent Avar sounds, with their Unicode information.
+                </p>
+                <div id="latin-table">
+                    <p class="loading">Loading Latin alphabet data...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 The Avâr Language Project | <a href="mailto:admin@avar.me">admin@avar.me</a></p>
+        </div>
+    </footer>
+
+    <script>
+        // Format text as HTML paragraphs
+        function formatTextAsHtml(text) {
+            if (!text) return '';
+            
+            // Split by double newlines for paragraphs
+            const paragraphs = text.split('\n\n');
+            const htmlParagraphs = [];
+            
+            paragraphs.forEach(para => {
+                para = para.trim();
+                if (!para) return;
+                
+                // Check if this looks like a heading (all caps, short, ends with period or colon)
+                const isHeading = (para.length < 100 && 
+                    (para === para.toUpperCase() || 
+                     /^(Consonants|Vowels|Notes?|Note\.|Nors\.)/i.test(para)));
+                
+                if (isHeading) {
+                    // Format as heading
+                    const headingText = para.replace(/\.$/, ''); // Remove trailing period
+                    htmlParagraphs.push(`<h3>${headingText}</h3>`);
+                } else {
+                    // Replace single newlines with <br>
+                    para = para.replace(/\n/g, '<br>');
+                    // Clean up multiple spaces
+                    para = para.replace(/ +/g, ' ');
+                    // Clean up OCR artifacts
+                    para = para.replace(/_{2,}/g, '');
+                    
+                    htmlParagraphs.push(`<p>${para}</p>`);
+                }
+            });
+            
+            return htmlParagraphs.join('\n');
+        }
+        
+        // Load and display alphabet data
+        async function loadAlphabet() {
+            try {
+                const response = await fetch('data/alphabet.json');
+                const data = await response.json();
+                
+                // Display introduction text
+                if (data.introduction) {
+                    document.getElementById('introduction-text').innerHTML = formatTextAsHtml(data.introduction);
+                } else {
+                    document.getElementById('introduction-text').innerHTML = '';
+                }
+                
+                // Display main text with table inserted between parts
+                let mainTextHtml = '';
+                
+                // Display text before table
+                if (data.main_text_before_table) {
+                    mainTextHtml += formatTextAsHtml(data.main_text_before_table);
+                }
+                
+                // Insert correspondence table right after the phrase
+                if (data.correspondence && data.correspondence.length > 0) {
+                    mainTextHtml += '<h3>Arabic-Latin Correspondence</h3>';
+                    mainTextHtml += '<p>This table shows the correspondence between Arabic script and Latin transliteration as presented in the original document.</p>';
+                    mainTextHtml += generateCorrespondenceTableHtml(data.correspondence);
+                }
+                
+                // Display text after table
+                if (data.main_text_after_table && data.main_text_after_table.trim()) {
+                    mainTextHtml += formatTextAsHtml(data.main_text_after_table);
+                }
+                
+                document.getElementById('main-text').innerHTML = mainTextHtml;
+                
+                // Display notes
+                if (data.notes) {
+                    document.getElementById('notes-text').innerHTML = formatTextAsHtml(data.notes);
+                } else {
+                    document.getElementById('notes-text').innerHTML = '';
+                }
+                
+                // Display consonants section
+                let consonantsHtml = '';
+                if (data.consonants_before_table) {
+                    consonantsHtml += formatTextAsHtml(data.consonants_before_table);
+                }
+                if (data.consonants_after_table) {
+                    consonantsHtml += formatTextAsHtml(data.consonants_after_table);
+                }
+                if (consonantsHtml) {
+                    document.getElementById('consonants-section').innerHTML = '<h3>Consonants</h3>' + consonantsHtml;
+                } else {
+                    document.getElementById('consonants-section').innerHTML = '';
+                }
+                
+                // Display vowels section
+                let vowelsHtml = '';
+                if (data.vowels_before_table) {
+                    vowelsHtml += formatTextAsHtml(data.vowels_before_table);
+                }
+                if (vowelsHtml) {
+                    document.getElementById('vowels-section').innerHTML = '<h3>Vowels</h3>' + vowelsHtml;
+                } else {
+                    document.getElementById('vowels-section').innerHTML = '';
+                }
+                
+                // Display Latin alphabet table with Unicode information
+                if (data.latin && data.latin.length > 0) {
+                    displayLatinTable('latin-table', data.latin);
+                } else {
+                    document.getElementById('latin-table').innerHTML = 
+                        '<p>Latin alphabet data will be available after PDF parsing.</p>';
+                }
+            } catch (error) {
+                console.error('Error loading alphabet:', error);
+                document.getElementById('correspondence-table').innerHTML = 
+                    '<p>Error loading alphabet data. Please check the console for details.</p>';
+                document.getElementById('latin-table').innerHTML = 
+                    '<p>Error loading alphabet data. Please check the console for details.</p>';
+            }
+        }
+        
+        function generateCorrespondenceTableHtml(data) {
+            if (!data || data.length === 0) {
+                return '<p>No data available.</p>';
+            }
+            
+            let html = '<table class="alphabet-table"><thead><tr>';
+            html += '<th>Arabic</th><th>Latin (Upper)</th><th>Latin (Lower)</th><th>Description</th>';
+            html += '</tr></thead><tbody>';
+            
+            data.forEach(item => {
+                html += '<tr>';
+                html += `<td style="direction: rtl; text-align: right; font-size: 1.5em; font-family: Arial, sans-serif;">${item.arabic || ''}</td>`;
+                html += `<td style="font-size: 1.2em; font-weight: bold;">${item.latin_upper || ''}</td>`;
+                html += `<td style="font-size: 1.2em;">${item.latin_lower || ''}</td>`;
+                html += `<td>${item.description || ''}</td>`;
+                html += '</tr>';
+            });
+            
+            html += '</tbody></table>';
+            return html;
+        }
+        
+        function displayCorrespondenceTable(containerId, data) {
+            const container = document.getElementById(containerId);
+            if (!container) {
+                return;
+            }
+            container.innerHTML = generateCorrespondenceTableHtml(data);
+        }
+        
+        function displayLatinTable(containerId, data) {
+            const container = document.getElementById(containerId);
+            if (!container || !data || data.length === 0) {
+                container.innerHTML = '<p>No data available.</p>';
+                return;
+            }
+            
+            let html = '<table class="alphabet-table"><thead><tr>';
+            html += '<th>Character</th><th>Unicode</th><th>Name</th><th>Category</th><th>Description</th>';
+            html += '</tr></thead><tbody>';
+            
+            data.forEach(item => {
+                html += '<tr>';
+                html += `<td style="font-size: 1.2em; font-weight: bold;">${item.char || ''}</td>`;
+                html += `<td class="unicode-info">${item.unicode || ''}</td>`;
+                html += `<td>${item.name || ''}</td>`;
+                html += `<td>${item.category || ''}</td>`;
+                html += `<td>${item.description || ''}</td>`;
+                html += '</tr>';
+            });
+            
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+        
+        document.addEventListener('DOMContentLoaded', loadAlphabet);
+    </script>
+</body>
+</html>

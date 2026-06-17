@@ -1,0 +1,378 @@
+{
+  "letter": "G",
+  "entries": [
+    {
+      "english": "Gain",
+      "english_full": "Gain, v.",
+      "type": "verb",
+      "avar": "berṣinizi",
+      "arabic": "برسینیزی",
+      "page": 8
+    },
+    {
+      "english": "Game",
+      "english_full": "Game, s.",
+      "type": "substantive",
+      "avar": "rasindi",
+      "arabic": "رَسندی",
+      "page": 8
+    },
+    {
+      "english": "Garden",
+      "english_full": "Garden",
+      "type": null,
+      "avar": "akh",
+      "arabic": "اخ",
+      "page": 8
+    },
+    {
+      "english": "Gardener",
+      "english_full": "Gardener",
+      "type": null,
+      "avar": "akh gigilevči",
+      "arabic": "اخ گیگیلوی",
+      "page": 8
+    },
+    {
+      "english": "Garlick",
+      "english_full": "Garlick",
+      "type": null,
+      "avar": "rajifer",
+      "arabic": "رجفر",
+      "page": 8
+    },
+    {
+      "english": "Gate",
+      "english_full": "Gate",
+      "type": null,
+      "avar": "rah",
+      "arabic": "ره",
+      "page": 8
+    },
+    {
+      "english": "Gather",
+      "english_full": "Gather",
+      "type": "verb",
+      "avar": "heap",
+      "arabic": "بگریزی",
+      "page": 8
+    },
+    {
+      "english": "Gelding",
+      "english_full": "Gelding",
+      "type": null,
+      "avar": "anta",
+      "arabic": "انت",
+      "page": 8
+    },
+    {
+      "english": "Giant",
+      "english_full": "Giant",
+      "type": null,
+      "avar": "narṭ",
+      "arabic": "مرت",
+      "page": 8
+    },
+    {
+      "english": "Gift",
+      "english_full": "Gift",
+      "type": null,
+      "avar": "ṣapeghat",
+      "arabic": "سپغت",
+      "page": 8
+    },
+    {
+      "english": "Gilding",
+      "english_full": "Gilding",
+      "type": null,
+      "avar": "mesidil",
+      "arabic": "مسیدل",
+      "page": 8
+    },
+    {
+      "english": "Gimlet",
+      "english_full": "Gimlet",
+      "type": null,
+      "avar": "borau, rotzokhin",
+      "arabic": "بُرو، رُتزُخِن",
+      "page": 8
+    },
+    {
+      "english": "Give",
+      "english_full": "Give, v.",
+      "type": "verb",
+      "avar": "t̲l̲azi",
+      "arabic": "تلاژی",
+      "page": 8
+    },
+    {
+      "english": "Glass",
+      "english_full": "Glass",
+      "type": null,
+      "avar": "žar",
+      "arabic": "زر",
+      "page": 8
+    },
+    {
+      "english": "Glove",
+      "english_full": "Glove",
+      "type": null,
+      "avar": "kvert khelal",
+      "arabic": "کُورت خلال",
+      "page": 8
+    },
+    {
+      "english": "Go, walk",
+      "english_full": "Go, walk, v.",
+      "type": "verb",
+      "avar": "vit̲l̲inzi",
+      "arabic": "ویدیمزی",
+      "page": 8
+    },
+    {
+      "english": "Goat",
+      "english_full": "Goat, s.m.",
+      "type": "substantive masculine",
+      "avar": "ži",
+      "arabic": "ژ، دیان",
+      "page": 8
+    },
+    {
+      "english": "Goat",
+      "english_full": "Goat, s.f.",
+      "type": "substantive feminine",
+      "avar": "diín",
+      "arabic": "ژ، دیان",
+      "page": 8
+    },
+    {
+      "english": "God",
+      "english_full": "God",
+      "type": null,
+      "avar": "Bečed",
+      "arabic": "بیعد",
+      "page": 8
+    },
+    {
+      "english": "Gold",
+      "english_full": "Gold",
+      "type": null,
+      "avar": "mesed",
+      "arabic": "مسد",
+      "page": 8
+    },
+    {
+      "english": "Good",
+      "english_full": "Good, s.",
+      "type": "substantive",
+      "avar": "t̲l̲igit̲l̲i",
+      "arabic": "تلیگیتلی",
+      "page": 8
+    },
+    {
+      "english": "Good, kind",
+      "english_full": "Good, kind, adj.",
+      "type": "adjective",
+      "avar": "t̲l̲iyab",
+      "arabic": "تلیوب",
+      "page": 8
+    },
+    {
+      "english": "Goose",
+      "english_full": "Goose",
+      "type": null,
+      "avar": "khaz, kaz",
+      "arabic": "خز، کز",
+      "page": 9
+    },
+    {
+      "english": "Goshawk",
+      "english_full": "Goshawk",
+      "type": null,
+      "avar": "ḥergho",
+      "arabic": "لجِرغو",
+      "page": 9
+    },
+    {
+      "english": "Grain",
+      "english_full": "Grain",
+      "type": null,
+      "avar": "moh",
+      "arabic": "مُه",
+      "page": 9
+    },
+    {
+      "english": "Granddaughter",
+      "english_full": "Granddaughter",
+      "type": null,
+      "avar": "vaṣaṣul yas",
+      "arabic": "رَسَسُل یس",
+      "page": 9
+    },
+    {
+      "english": "Grandmother",
+      "english_full": "Grandmother",
+      "type": null,
+      "avar": "guribi ibel bazar",
+      "arabic": "گوریبی ایبِل بازار",
+      "page": 9
+    },
+    {
+      "english": "Grandson",
+      "english_full": "Grandson",
+      "type": null,
+      "avar": "vaṣaṣul vas",
+      "arabic": "رَسَسُل یس",
+      "page": 9
+    },
+    {
+      "english": "Grape",
+      "english_full": "Grape",
+      "type": null,
+      "avar": "žebil",
+      "arabic": "زِبل",
+      "page": 9
+    },
+    {
+      "english": "Grass",
+      "english_full": "Grass",
+      "type": null,
+      "avar": "órtzinau khir",
+      "arabic": "ارتزینو خیر",
+      "page": 9
+    },
+    {
+      "english": "Grasshopper, locust",
+      "english_full": "Grasshopper, locust",
+      "type": null,
+      "avar": "girž",
+      "arabic": "گِیرز",
+      "page": 9
+    },
+    {
+      "english": "Great-Grandmother",
+      "english_full": "Great-Grandmother",
+      "type": null,
+      "avar": "korian ibelat̲l̲ul ibel",
+      "arabic": "کوریان ایبِلتْبُل ایبِل",
+      "page": 9
+    },
+    {
+      "english": "Green",
+      "english_full": "Green",
+      "type": null,
+      "avar": "óršini",
+      "arabic": "برشینی",
+      "page": 9
+    },
+    {
+      "english": "Grief, sorrow",
+      "english_full": "Grief, sorrow",
+      "type": null,
+      "avar": "urghel",
+      "arabic": "اورغِل",
+      "page": 9
+    },
+    {
+      "english": "Grind (corn)",
+      "english_full": "Grind (corn), v.",
+      "type": "verb",
+      "avar": "kvazi, kinizi",
+      "arabic": "کُوازی، کینیزی",
+      "page": 9,
+      "note": "corn"
+    },
+    {
+      "english": "Grip",
+      "english_full": "Grip",
+      "type": null,
+      "avar": "úrt̲l̲",
+      "arabic": "اورتل",
+      "page": 9
+    },
+    {
+      "english": "Grind (steel)",
+      "english_full": "Grind (steel), v.",
+      "type": "verb",
+      "avar": "t̲l̲ukizi",
+      "arabic": "تلوکیزی",
+      "page": 9,
+      "note": "steel"
+    },
+    {
+      "english": "Ground (on the)",
+      "english_full": "Ground (on the)",
+      "type": null,
+      "avar": "ódu, ódob",
+      "arabic": "اُدو، اُدُب",
+      "page": 9,
+      "note": "on the"
+    },
+    {
+      "english": "Guest",
+      "english_full": "Guest",
+      "type": null,
+      "avar": "hobol",
+      "arabic": "هُلُل",
+      "page": 9
+    },
+    {
+      "english": "Guide",
+      "english_full": "Guide",
+      "type": null,
+      "avar": "ṭuviṭolviči",
+      "arabic": "تَویتُوکریچی",
+      "page": 9
+    },
+    {
+      "english": "Guilty",
+      "english_full": "Guilty",
+      "type": null,
+      "avar": "garčamau",
+      "arabic": "گَرچمو",
+      "page": 9
+    },
+    {
+      "english": "Gums (the)",
+      "english_full": "Gums (the), s.",
+      "type": "substantive",
+      "avar": "dab, dabal",
+      "arabic": "دُب، دَبَل",
+      "page": 9,
+      "note": "the"
+    },
+    {
+      "english": "Gun",
+      "english_full": "Gun",
+      "type": null,
+      "avar": "tufeng",
+      "arabic": "تورِنگ",
+      "page": 9
+    },
+    {
+      "english": "Gunpowder",
+      "english_full": "Gunpowder",
+      "type": null,
+      "avar": "tufengul khir",
+      "arabic": "تورنگول خیر",
+      "page": 9
+    },
+    {
+      "english": "Gun-stock",
+      "english_full": "Gun-stock",
+      "type": null,
+      "avar": "khondagh",
+      "arabic": "خُندَغ",
+      "page": 9
+    },
+    {
+      "english": "Gutter",
+      "english_full": "Gutter",
+      "type": null,
+      "avar": "gomot̲l̲",
+      "arabic": "گُمُتل",
+      "page": 9
+    }
+  ],
+  "count": 46
+}

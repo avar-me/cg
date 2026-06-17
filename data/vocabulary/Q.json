@@ -1,0 +1,38 @@
+{
+  "letter": "Q",
+  "entries": [
+    {
+      "english": "Quoumber",
+      "english_full": "Quoumber",
+      "type": null,
+      "avar": "okhtzir",
+      "arabic": "اوختزیر",
+      "page": 5
+    },
+    {
+      "english": "Quarrel",
+      "english_full": "Quarrel, s.",
+      "type": "substantive",
+      "avar": "ḳitzin",
+      "arabic": "کِتزِن",
+      "page": 16
+    },
+    {
+      "english": "Quarrel",
+      "english_full": "Quarrel, v.",
+      "type": "verb",
+      "avar": "ḳatzandizi",
+      "arabic": "کَتزَندزی",
+      "page": 16
+    },
+    {
+      "english": "Quickly",
+      "english_full": "Quickly",
+      "type": null,
+      "avar": "hekko",
+      "arabic": "هِکّو",
+      "page": 16
+    }
+  ],
+  "count": 4
+}

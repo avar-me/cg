@@ -1,0 +1,355 @@
+{
+  "letter": "A",
+  "entries": [
+    {
+      "english": "Able (to be)",
+      "english_full": "Able (to be), v.a.",
+      "type": "verb active",
+      "avar": "gūwi",
+      "arabic": "غووی",
+      "page": 1,
+      "note": "to be"
+    },
+    {
+      "english": "About, concerning",
+      "english_full": "About, prep. concerning",
+      "type": "preposition",
+      "avar": "t̲l̲îl",
+      "arabic": "شاغ",
+      "page": 1
+    },
+    {
+      "english": "Acquaintance",
+      "english_full": "Acquaintance",
+      "type": null,
+      "avar": "t̲l̲alivci",
+      "arabic": "تهالیوچی",
+      "page": 1
+    },
+    {
+      "english": "Afar",
+      "english_full": "Afar",
+      "type": null,
+      "avar": "rigad bugu",
+      "arabic": "ریگد، بوگو",
+      "page": 1
+    },
+    {
+      "english": "Afterwards",
+      "english_full": "Afterwards",
+      "type": null,
+      "avar": "tzingi",
+      "arabic": "تزینگی",
+      "page": 1
+    },
+    {
+      "english": "Again",
+      "english_full": "Again",
+      "type": null,
+      "avar": "nakhigi",
+      "arabic": "نخگی",
+      "page": 1
+    },
+    {
+      "english": "Age (old)",
+      "english_full": "Age (old), s.",
+      "type": "substantive",
+      "avar": "khert̲l̲i",
+      "arabic": "خیرتلی",
+      "page": 1,
+      "note": "old"
+    },
+    {
+      "english": "Agree",
+      "english_full": "Agree, v.a.",
+      "type": "verb active",
+      "avar": "k̰abul habizi",
+      "arabic": "قبول هابزی",
+      "page": 1
+    },
+    {
+      "english": "Agreeable",
+      "english_full": "Agreeable, adj.",
+      "type": "adjective",
+      "avar": "lazat bugib",
+      "arabic": "لذت بوگیب",
+      "page": 1
+    },
+    {
+      "english": "Air",
+      "english_full": "Air",
+      "type": null,
+      "avar": "hawa",
+      "arabic": "هوا",
+      "page": 1
+    },
+    {
+      "english": "Along (at the rate of)",
+      "english_full": "Along (at the rate of)",
+      "type": null,
+      "avar": "daṣṣan",
+      "arabic": "دسان",
+      "page": 1,
+      "note": "at the rate of"
+    },
+    {
+      "english": "Always",
+      "english_full": "Always",
+      "type": null,
+      "avar": "kidago",
+      "arabic": "کیدگو",
+      "page": 1
+    },
+    {
+      "english": "Ambler",
+      "english_full": "Ambler, s.",
+      "type": "substantive",
+      "avar": "yorgha",
+      "arabic": "یورغ",
+      "page": 1
+    },
+    {
+      "english": "And",
+      "english_full": "And",
+      "type": null,
+      "avar": "gi",
+      "arabic": "گی",
+      "page": 1
+    },
+    {
+      "english": "Angel",
+      "english_full": "Angel",
+      "type": null,
+      "avar": "malîk",
+      "arabic": "مالک",
+      "page": 1
+    },
+    {
+      "english": "Angry, in a rage",
+      "english_full": "Angry, in a rage, v.a.",
+      "type": "verb active",
+      "avar": "tzen bakhizi",
+      "arabic": "تن بخزی",
+      "page": 1
+    },
+    {
+      "english": "Animal (in general)",
+      "english_full": "Animal (in general), s.",
+      "type": "substantive",
+      "avar": "ḥaivan",
+      "arabic": "بایوان",
+      "page": 1,
+      "note": "in general"
+    },
+    {
+      "english": "Animal",
+      "english_full": "Animal, s.m.",
+      "type": "substantive masculine",
+      "avar": "biginau",
+      "arabic": "بیگینو",
+      "page": 1
+    },
+    {
+      "english": "Animal",
+      "english_full": "Animal, s.f.",
+      "type": "substantive feminine",
+      "avar": "žoyau",
+      "arabic": "زویو",
+      "page": 1
+    },
+    {
+      "english": "Annually",
+      "english_full": "Annually",
+      "type": null,
+      "avar": "kinabgo sonat̲l̲",
+      "arabic": "کینبگو سونتی",
+      "page": 1
+    },
+    {
+      "english": "Anoint, grease",
+      "english_full": "Anoint, grease, v.",
+      "type": "verb",
+      "avar": "bakhinzi",
+      "arabic": "بخینزی",
+      "page": 1
+    },
+    {
+      "english": "Ant",
+      "english_full": "Ant, s.",
+      "type": "substantive",
+      "avar": "žunžra",
+      "arabic": "ژونژرا",
+      "page": 1
+    },
+    {
+      "english": "Anxiety",
+      "english_full": "Anxiety",
+      "type": null,
+      "avar": "urghil",
+      "arabic": "اورغیل",
+      "page": 1
+    },
+    {
+      "english": "Apple",
+      "english_full": "Apple",
+      "type": null,
+      "avar": "íč",
+      "arabic": "ایچ",
+      "page": 1
+    },
+    {
+      "english": "Apricot",
+      "english_full": "Apricot",
+      "type": null,
+      "avar": "kurak",
+      "arabic": "کورک",
+      "page": 1
+    },
+    {
+      "english": "Army",
+      "english_full": "Army",
+      "type": null,
+      "avar": "bo",
+      "arabic": "بو",
+      "page": 1
+    },
+    {
+      "english": "Armour, breastplate",
+      "english_full": "Armour, breastplate",
+      "type": null,
+      "avar": "ḳvalden",
+      "arabic": "کوالدن",
+      "page": 1
+    },
+    {
+      "english": "Around",
+      "english_full": "Around",
+      "type": null,
+      "avar": "ṣverun, ṣirun",
+      "arabic": "سورون، سیرون",
+      "page": 1
+    },
+    {
+      "english": "Arrest",
+      "english_full": "Arrest, v.a.",
+      "type": "verb active",
+      "avar": "tuṣnakh habizi",
+      "arabic": "توسنخ هابزی",
+      "page": 1
+    },
+    {
+      "english": "Arrive (in an equipage, in state)",
+      "english_full": "Arrive (in an equipage, in state), v.a.",
+      "type": "verb active",
+      "avar": "vačinizi",
+      "arabic": "راچینزی",
+      "page": 1,
+      "note": "in an equipage, in state"
+    },
+    {
+      "english": "Arrow",
+      "english_full": "Arrow",
+      "type": null,
+      "avar": "čor",
+      "arabic": "چور",
+      "page": 1
+    },
+    {
+      "english": "Art",
+      "english_full": "Art",
+      "type": null,
+      "avar": "makhšil",
+      "arabic": "مخشیل",
+      "page": 1
+    },
+    {
+      "english": "Ashamed, (to be ashamed of)",
+      "english_full": "Ashamed, v.a. (to be ashamed of)",
+      "type": "verb active",
+      "avar": "nečezi",
+      "arabic": "نهچیزی",
+      "page": 1
+    },
+    {
+      "english": "Ashes, cinders",
+      "english_full": "Ashes, cinders",
+      "type": null,
+      "avar": "rakhu",
+      "arabic": "راخو",
+      "page": 1
+    },
+    {
+      "english": "Ask, (beg)",
+      "english_full": "Ask, v.a. (beg)",
+      "type": "verb active",
+      "avar": "herizi",
+      "arabic": "هیرزی",
+      "page": 1
+    },
+    {
+      "english": "Ass",
+      "english_full": "Ass, s.m.",
+      "type": "substantive masculine",
+      "avar": "ḥama",
+      "arabic": "هما",
+      "page": 1
+    },
+    {
+      "english": "Ass",
+      "english_full": "Ass, s.f.",
+      "type": "substantive feminine",
+      "avar": "žoyab ḥama",
+      "arabic": "ژویب هما",
+      "page": 1
+    },
+    {
+      "english": "At, with (e.g. at his father's)",
+      "english_full": "At, with (e.g. at his father's)",
+      "type": null,
+      "avar": "oṣgov",
+      "arabic": "اسگو",
+      "page": 1
+    },
+    {
+      "english": "Aunt, mother's sister",
+      "english_full": "Aunt, mother's sister",
+      "type": null,
+      "avar": "ibi lat̲l̲ul yatz",
+      "arabic": "ایبی لتفول یتز",
+      "page": 1
+    },
+    {
+      "english": "Autumn",
+      "english_full": "Autumn",
+      "type": null,
+      "avar": "khasil",
+      "arabic": "خسِل",
+      "page": 1
+    },
+    {
+      "english": "Average",
+      "english_full": "Average",
+      "type": null,
+      "avar": "khundiril ulka",
+      "arabic": "خندیریل اولک",
+      "page": 1
+    },
+    {
+      "english": "Avidity, greediness",
+      "english_full": "Avidity, greediness",
+      "type": null,
+      "avar": "bakhit̲l̲i",
+      "arabic": "بخیتلی",
+      "page": 1
+    },
+    {
+      "english": "Axe",
+      "english_full": "Axe",
+      "type": null,
+      "avar": "ašṭi",
+      "arabic": "اشت",
+      "page": 1
+    }
+  ],
+  "count": 43
+}

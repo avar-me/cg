@@ -1,0 +1,407 @@
+{
+  "letter": "R",
+  "entries": [
+    {
+      "english": "Race (species)",
+      "english_full": "Race (species)",
+      "type": null,
+      "avar": "tokhon",
+      "arabic": "تُخُون",
+      "page": 16,
+      "note": "species"
+    },
+    {
+      "english": "Rain",
+      "english_full": "Rain",
+      "type": null,
+      "avar": "žad",
+      "arabic": "زَد",
+      "page": 16
+    },
+    {
+      "english": "Rainbow",
+      "english_full": "Rainbow",
+      "type": null,
+      "avar": "nur",
+      "arabic": "نور",
+      "page": 16
+    },
+    {
+      "english": "Rains (it)",
+      "english_full": "Rains (it), v.",
+      "type": "verb",
+      "avar": "žadbali bugu",
+      "arabic": "زَدبَلی بوگو",
+      "page": 16,
+      "note": "it"
+    },
+    {
+      "english": "Raisin",
+      "english_full": "Raisin",
+      "type": null,
+      "avar": "žebil, ḳišmiši",
+      "arabic": "زِبِل، کِشمشی",
+      "page": 16
+    },
+    {
+      "english": "Ramrod",
+      "english_full": "Ramrod",
+      "type": null,
+      "avar": "tufengil čor",
+      "arabic": "تورِنگل چور",
+      "page": 16
+    },
+    {
+      "english": "Raven",
+      "english_full": "Raven",
+      "type": null,
+      "avar": "ghidu",
+      "arabic": "غیدو",
+      "page": 16
+    },
+    {
+      "english": "Ravine",
+      "english_full": "Ravine",
+      "type": null,
+      "avar": "t̲l̲oro",
+      "arabic": "تلُر",
+      "page": 16
+    },
+    {
+      "english": "Razor",
+      "english_full": "Razor",
+      "type": null,
+      "avar": "kvalib, nos",
+      "arabic": "کُولِب، نُس",
+      "page": 16
+    },
+    {
+      "english": "Read",
+      "english_full": "Read, v.",
+      "type": "verb",
+      "avar": "žalizi",
+      "arabic": "ژَلیزی",
+      "page": 16
+    },
+    {
+      "english": "Receive",
+      "english_full": "Receive, v.",
+      "type": "verb",
+      "avar": "busizi, šovizi",
+      "arabic": "بوسیزی، شُوِیزی",
+      "page": 16
+    },
+    {
+      "english": "Recently",
+      "english_full": "Recently",
+      "type": null,
+      "avar": "dahab şibi",
+      "arabic": "دَهَب صِبی",
+      "page": 16
+    },
+    {
+      "english": "Recompense",
+      "english_full": "Recompense, s.",
+      "type": "substantive",
+      "avar": "šapaghat",
+      "arabic": "شَپَغت",
+      "page": 16
+    },
+    {
+      "english": "Reconcile",
+      "english_full": "Reconcile, v.",
+      "type": "verb",
+      "avar": "reḳezi habizi",
+      "arabic": "رِکیزی هابزی",
+      "page": 16
+    },
+    {
+      "english": "Red",
+      "english_full": "Red",
+      "type": null,
+      "avar": "baárab",
+      "arabic": "بَآرَب",
+      "page": 16
+    },
+    {
+      "english": "Reed",
+      "english_full": "Reed",
+      "type": "substantive",
+      "avar": "rush, moži",
+      "arabic": "مُژی",
+      "page": 16
+    },
+    {
+      "english": "Related (akin to)",
+      "english_full": "Related (akin to)",
+      "type": null,
+      "avar": "ágarau",
+      "arabic": "آگَرو",
+      "page": 16,
+      "note": "akin to"
+    },
+    {
+      "english": "Relative",
+      "english_full": "Relative, s.m.",
+      "type": "substantive masculine",
+      "avar": "tokhumat̲l̲ul či",
+      "arabic": "تُخومَتچُل چی",
+      "page": 16
+    },
+    {
+      "english": "Relative",
+      "english_full": "Relative, s.f.",
+      "type": "substantive feminine",
+      "avar": "ágarai čuju",
+      "arabic": "آگَرای چوجو",
+      "page": 16
+    },
+    {
+      "english": "Repose, rest",
+      "english_full": "Repose, rest",
+      "type": null,
+      "avar": "ḥallkhot̲l̲i",
+      "arabic": "هَلخُتلی",
+      "page": 16
+    },
+    {
+      "english": "Request (demand)",
+      "english_full": "Request (demand)",
+      "type": null,
+      "avar": "haribugu",
+      "arabic": "هَریبگو",
+      "page": 16,
+      "note": "demand"
+    },
+    {
+      "english": "Rib",
+      "english_full": "Rib",
+      "type": null,
+      "avar": "golbo új",
+      "arabic": "گُلبُ ای",
+      "page": 16
+    },
+    {
+      "english": "Ribbon",
+      "english_full": "Ribbon",
+      "type": null,
+      "avar": "hallu, galun",
+      "arabic": "هَلو، گَلون",
+      "page": 16
+    },
+    {
+      "english": "Riches",
+      "english_full": "Riches",
+      "type": null,
+      "avar": "bečet̲l̲i",
+      "arabic": "بِچتلی",
+      "page": 16
+    },
+    {
+      "english": "Rich, (a rich man)",
+      "english_full": "Rich, s. (a rich man)",
+      "type": "substantive",
+      "avar": "bečedau",
+      "arabic": "بِچِدو",
+      "page": 16
+    },
+    {
+      "english": "Right (to the)",
+      "english_full": "Right (to the)",
+      "type": null,
+      "avar": "karanabrakh",
+      "arabic": "کَرَنَبَرخ",
+      "page": 16,
+      "note": "to the"
+    },
+    {
+      "english": "Ring (for women)",
+      "english_full": "Ring (for women), s.",
+      "type": "substantive",
+      "avar": "barghač",
+      "arabic": "بَرغَچ",
+      "page": 16,
+      "note": "for women"
+    },
+    {
+      "english": "Ring (for men)",
+      "english_full": "Ring (for men)",
+      "type": null,
+      "avar": "borṭin",
+      "arabic": "بُورطِن",
+      "page": 16,
+      "note": "for men"
+    },
+    {
+      "english": "Ring (for ear)",
+      "english_full": "Ring (for ear)",
+      "type": null,
+      "avar": "gilig",
+      "arabic": "گِیلگ",
+      "page": 16,
+      "note": "for ear"
+    },
+    {
+      "english": "Ring (for finger)",
+      "english_full": "Ring (for finger)",
+      "type": null,
+      "avar": "barghač",
+      "arabic": "بَرغَچ",
+      "page": 16,
+      "note": "for finger"
+    },
+    {
+      "english": "Rinse",
+      "english_full": "Rinse, v.",
+      "type": "verb",
+      "avar": "kholizi",
+      "arabic": "خُلیزی",
+      "page": 16
+    },
+    {
+      "english": "Rise",
+      "english_full": "Rise, v.",
+      "type": "verb",
+      "avar": "vakhini",
+      "arabic": "وَخینی",
+      "page": 16
+    },
+    {
+      "english": "River, stream",
+      "english_full": "River, stream",
+      "type": null,
+      "avar": "t̲l̲ar",
+      "arabic": "تلَر",
+      "page": 16
+    },
+    {
+      "english": "River, great (the Volga, e.g.)",
+      "english_full": "River, great (the Volga, e.g.)",
+      "type": null,
+      "avar": "ór",
+      "arabic": "بر",
+      "page": 16
+    },
+    {
+      "english": "Roast",
+      "english_full": "Roast, v.",
+      "type": "verb",
+      "avar": "bajizi",
+      "arabic": "بَجیزی",
+      "page": 16
+    },
+    {
+      "english": "Robbery",
+      "english_full": "Robbery",
+      "type": null,
+      "avar": "zoh biḳi",
+      "arabic": "زُه بیگی",
+      "page": 16
+    },
+    {
+      "english": "Rock",
+      "english_full": "Rock",
+      "type": null,
+      "avar": "t̲l̲oro",
+      "arabic": "تلُر",
+      "page": 16
+    },
+    {
+      "english": "Roof",
+      "english_full": "Roof",
+      "type": null,
+      "avar": "ṭokh",
+      "arabic": "تُخ",
+      "page": 16
+    },
+    {
+      "english": "Roomy, spacious",
+      "english_full": "Roomy, spacious",
+      "type": null,
+      "avar": "áṭida",
+      "arabic": "رُومی",
+      "page": 16
+    },
+    {
+      "english": "Root",
+      "english_full": "Root",
+      "type": null,
+      "avar": "t̲l̲ebil",
+      "arabic": "تِیبِل",
+      "page": 16
+    },
+    {
+      "english": "Rosary",
+      "english_full": "Rosary",
+      "type": null,
+      "avar": "čumal",
+      "arabic": "چومَل",
+      "page": 16
+    },
+    {
+      "english": "Rose",
+      "english_full": "Rose",
+      "type": null,
+      "avar": "ṭih",
+      "arabic": "ته",
+      "page": 16
+    },
+    {
+      "english": "Rot",
+      "english_full": "Rot, v.",
+      "type": "verb",
+      "avar": "turizi",
+      "arabic": "توریزی",
+      "page": 16
+    },
+    {
+      "english": "Round",
+      "english_full": "Round",
+      "type": null,
+      "avar": "gorginab",
+      "arabic": "گُورگینَب",
+      "page": 16
+    },
+    {
+      "english": "Rub",
+      "english_full": "Rub, v.",
+      "type": "verb",
+      "avar": "t̲l̲ot̲l̲azi",
+      "arabic": "تلُّتزی",
+      "page": 17
+    },
+    {
+      "english": "Ruin",
+      "english_full": "Ruin, s.",
+      "type": "substantive",
+      "avar": "čontarab",
+      "arabic": "کُنتَرَب",
+      "page": 17
+    },
+    {
+      "english": "Ruin",
+      "english_full": "Ruin, v.",
+      "type": "verb",
+      "avar": "bikhizi",
+      "arabic": "بیخیزی",
+      "page": 17
+    },
+    {
+      "english": "Run",
+      "english_full": "Run, v.",
+      "type": "verb",
+      "avar": "vikirizi",
+      "arabic": "وِکیریزی",
+      "page": 17
+    },
+    {
+      "english": "Rust",
+      "english_full": "Rust, v.",
+      "type": "verb",
+      "avar": "t̲l̲av",
+      "arabic": "تلَو",
+      "page": 17
+    }
+  ],
+  "count": 49
+}

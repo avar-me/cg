@@ -1,0 +1,144 @@
+{
+  "letter": "I",
+  "entries": [
+    {
+      "english": "It blows",
+      "english_full": "It blows, v.a.",
+      "type": "verb active",
+      "avar": "hori foli bogo",
+      "arabic": "هری فلی بگو",
+      "page": 2
+    },
+    {
+      "english": "I, pers.",
+      "english_full": "I, pers.",
+      "type": "substantive",
+      "avar": "pron. dun",
+      "arabic": "دُون",
+      "page": 10
+    },
+    {
+      "english": "Ice",
+      "english_full": "Ice",
+      "type": null,
+      "avar": "žer",
+      "arabic": "زِر",
+      "page": 10
+    },
+    {
+      "english": "If",
+      "english_full": "If",
+      "type": null,
+      "avar": "nadir, nakah",
+      "arabic": "نَدیر، نَکَه",
+      "page": 10
+    },
+    {
+      "english": "Ill (to be)",
+      "english_full": "Ill (to be), v.",
+      "type": "verb",
+      "avar": "untizi",
+      "arabic": "اُونتیزی",
+      "page": 10,
+      "note": "to be"
+    },
+    {
+      "english": "In",
+      "english_full": "In, prep.",
+      "type": "preposition",
+      "avar": "Bi",
+      "arabic": "بی",
+      "page": 10
+    },
+    {
+      "english": "Incursion",
+      "english_full": "Incursion",
+      "type": null,
+      "avar": "čabkhin",
+      "arabic": "آبخِن",
+      "page": 10
+    },
+    {
+      "english": "Inform",
+      "english_full": "Inform, v.",
+      "type": "verb",
+      "avar": "khaber habizi",
+      "arabic": "خَبِر هابزی",
+      "page": 10
+    },
+    {
+      "english": "Inhabitant",
+      "english_full": "Inhabitant",
+      "type": null,
+      "avar": "roṣdalči",
+      "arabic": "رُسدَلچی",
+      "page": 10
+    },
+    {
+      "english": "Inheritance",
+      "english_full": "Inheritance",
+      "type": null,
+      "avar": "umumunul baterab",
+      "arabic": "اومومونول بَترَب",
+      "page": 10
+    },
+    {
+      "english": "Ink",
+      "english_full": "Ink",
+      "type": null,
+      "avar": "thaḳi",
+      "arabic": "تَهکی",
+      "page": 10
+    },
+    {
+      "english": "Instrument (musical)",
+      "english_full": "Instrument (musical)",
+      "type": null,
+      "avar": "žagana",
+      "arabic": "زَگَنا",
+      "page": 10,
+      "note": "musical"
+    },
+    {
+      "english": "Intelligence, news",
+      "english_full": "Intelligence, news",
+      "type": null,
+      "avar": "khaber",
+      "arabic": "خَبِر",
+      "page": 10
+    },
+    {
+      "english": "Interpreter",
+      "english_full": "Interpreter",
+      "type": null,
+      "avar": "dolmač, termač",
+      "arabic": "دولمچ، تِرمچ",
+      "page": 10
+    },
+    {
+      "english": "Iron",
+      "english_full": "Iron, s.",
+      "type": "substantive",
+      "avar": "makh",
+      "arabic": "مَخ",
+      "page": 10
+    },
+    {
+      "english": "Iron",
+      "english_full": "Iron, adj.",
+      "type": "adjective",
+      "avar": "makhul",
+      "arabic": "مَخُول",
+      "page": 10
+    },
+    {
+      "english": "Ivory",
+      "english_full": "Ivory",
+      "type": null,
+      "avar": "mahi",
+      "arabic": "مَهِ",
+      "page": 10
+    }
+  ],
+  "count": 17
+}
